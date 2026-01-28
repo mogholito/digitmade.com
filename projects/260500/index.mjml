@@ -98,7 +98,7 @@
       <mj-column>
         <mj-table padding-top="0">
           <tr>
-            <td width="7%" style="vertical-align:middle; padding-left:1px; width:7%;" align="center">
+            <td width="7%" style="vertical-align:middle; padding-left:1px; line-height:100%;" align="center">
               <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="23" style="display:inline-block; vertical-align:middle; border:0px;" />
             </td>
             <td width="93%" style="padding-bottom:0px; vertical-align:middle; width:93%;">
@@ -138,7 +138,7 @@
         <!-- TOLÉRANCE DE L’ÉTUDE -->
         <mj-table padding-bottom="0">
           <tr>
-            <td width="7%" style="vertical-align:middle; padding-left:1px; width:7%;" align="center">
+            <td width="7%" style="vertical-align:middle; padding-left:1px; line-height:100%;" align="center">
               <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="23" style="display:inline-block; vertical-align:middle; border:0px;" />
             </td>
             <td width="93%" style="padding-bottom:0px; vertical-align:middle; width:93%;">
@@ -198,7 +198,7 @@
         <!-- DONNÉES DE SÉCURITÉ -->
         <mj-table padding-bottom="0">
           <tr>
-            <td width="7%" style="vertical-align:middle; padding-left:1px; width:7%;" align="center">
+            <td width="7%" style="vertical-align:middle; padding-left:1px; line-height:100%;" align="center">
               <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="23" style="display:inline-block; vertical-align:middle; border:0px;" />
             </td>
             <td width="93%" style="padding-bottom:0px; vertical-align:middle; width:93%;">
