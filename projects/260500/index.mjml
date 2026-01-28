@@ -151,7 +151,7 @@
         <mj-text color="#6f004c" font-size="16px" font-weight="700"> Durée médiane de traitement&nbsp;: mois [intervalle] </mj-text>
         <mj-image src="https://www.digitmade.com/projects/260500/img/duree-mediane.png" alt="Durée médiane de traitement" />
         <mj-text color="#6f004c" font-size="16px" font-weight="700"> Incidence des événements indésirables (EI) </mj-text>
-        <mj-image src="https://www.digitmade.com/projects/260500/img/tneep-table.png" alt="Cohorte TNEep : Tableau Incidence des événements indésirables (EI)" padding-top="0" />
+        <mj-image src="https://www.digitmade.com/projects/260500/img/tneep-table.png" alt="Cohorte TNEep&nbsp;: Tableau Incidence des événements indésirables (EI)" padding-top="0" />
         <mj-table padding-top="0">
           <tr>
             <td width="5%" style="color:#00558a; vertical-align:middle; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
@@ -177,7 +177,7 @@
         <mj-text color="#6f004c" font-size="16px" font-weight="700"> Durée médiane de traitement&nbsp;: mois [intervalle] </mj-text>
         <mj-image src="https://www.digitmade.com/projects/260500/img/duree-mediane-tnep.png" alt="Durée médiane de traitement" />
         <mj-text color="#6f004c" font-size="16px" font-weight="700"> Incidence des événements indésirables (EI) </mj-text>
-        <mj-image src="https://www.digitmade.com/projects/260500/img/tnep-table.png" alt="Cohorte TNEp : Tableau Incidence des événements indésirables (EI)" padding-top="0" />
+        <mj-image src="https://www.digitmade.com/projects/260500/img/tnep-table.png" alt="Cohorte TNEp&nbsp;: Tableau Incidence des événements indésirables (EI)" padding-top="0" />
         <mj-table padding-top="0">
           <tr>
             <td width="5%" style="color:#5EA5B9; vertical-align:middle; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
@@ -315,10 +315,25 @@
           </tr>
         </mj-table>
         <mj-image src="https://www.digitmade.com/projects/260500/img/footer.png" alt="" align="center" padding="0" />
-        <mj-text align="center" color="#777777"> Cet e-mail vous est adressé par VIDAL France et IPSEN en leur qualité de responsables conjoints du traitement. Les données personnelles traitées pour l'envoi de cette communication sont issues de la base de données des Professionnels de Santé de VIDAL France. IPSEN et VIDAL France ont conjointement déterminé les Professionnels de Santé destinataires de cet e-mail. Dans le cadre de la mise en œuvre de cette opération, IPSEN n'est pas autorisé à accéder aux données (coordonnées, etc.) des Professionnels de Santé de la base VIDAL France. </mj-text>
-        <mj-text align="center" color="#777777"> Si vous ne souhaitez plus que VIDAL France vous envoie des communications concernant les Actus Santé Labos, <br><a style="color:#777777!important; text-decoration:none!important" href="" target="_blank"><span style="color:#777777;"><u>veuillez cliquer ici pour vous désinscrire</u></span></a>. </mj-text>
-        <mj-text align="center" color="#777777"> Si vous ne souhaitez plus recevoir de communications de la part de VIDAL France, vous pouvez gérer vos préférences en cliquant sur <a style="color:#777777!important; text-decoration:none!important" href="" target="_blank"><span style="color:#777777;"><u>ce lien</u></span></a>. </mj-text>
-        <mj-text align="center" color="#777777"> Pour plus d'informations sur la gestion de vos données et vos droits, vous pouvez consulter la <a style="color:#777777!important; text-decoration:none!important" href="" target="_blank"><span style="color:#777777;"><u>Politique de protection des données personnelles de VIDAL France</u></span></a>. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="0px" padding-bottom="0px">
+      <mj-column>
+        <mj-text align="center" color="#777777"> Cet e-mail vous est adressé par VIDAL France pour le compte d’IPSEN en sa qualité de responsables du traitement. Les données personnelles traitées pour l'envoi de cette communication sont issues de la base de données des Professionnels de Santé de VIDAL France. IPSEN et VIDAL France ont conjointement sélectionné les groupes de Professionnels de Santé destinataires de cet e-mail. Dans le cadre de la mise en œuvre de cette opération, IPSEN n'est pas autorisé à accéder aux données (coordonnées, etc.) des Professionnels de Santé de la base VIDAL France. </mj-text>
+        <mj-text align="center" color="#777777"> Si vous ne souhaitez plus que VIDAL France vous envoie des communications concernant les Actus Santé Labos, <br><a style="color:#777777!important; text-decoration:none!important" href="#" target="_blank"><span style="color:#777777;"><u>veuillez cliquer ici pour vous désinscrire</u></span></a>. </mj-text>
+        <mj-text align="center" color="#777777"> Si vous ne souhaitez plus recevoir de communications de la part de VIDAL France, vous pouvez gérer vos préférences en cliquant sur <a style="color:#777777!important; text-decoration:none!important" href="#" target="_blank"><span style="color:#777777;"><u>ce lien</u></span></a>. </mj-text>
+        <mj-text align="center" color="#777777"> Pour plus d’informations sur la gestion de vos données et vos droits, vous pouvez consulter la <a style="color:#777777!important; text-decoration:none!important" href="#" target="_blank"><span style="color:#777777;"><u>Politique de protection des données personnelles de VIDAL France</u></span></a>. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="0px" padding-bottom="20px">
+      <mj-column>
+        <mj-text align="center" color="#777777"> Pour exercer vos droits, veuillez contacter les DPO d’IPSEN&nbsp;: <a style="color:#777777!important; text-decoration:none!important" href="mailto:dataprivacy@ipsen.com" target="_blank"><span style="color:#777777;"><u>dataprivacy@ipsen.com</u></span></a>.
+        <br>Pour en savoir pus sur le traitement de vos données, veuillez consulter notre site internet&nbsp;: <a style="color:#777777!important; text-decoration:none!important" href="https://www.ipsen.com/france/mentions-dinformation/" target="_blank"><span style="color:#777777;"><u>https://www.ipsen.com/france/mentions-dinformation/</u></span></a> </mj-text>
+        <mj-text align="center" color="#777777"> IPSEN s’engage à respecter la charte de l’information par démarchage ou prospection visant à la promotion des médicaments et le référentiel de certification de l’activité d’information par démarchage ou prospection visant à la promotion des médicaments en vigueur. Les collaborateurs d’IPSEN sont à votre disposition pour vous présenter les règles de déontologie formalisées par notre Entreprise et répondre à vos questions. </mj-text>
+        <mj-text align="center" color="#777777"> Tout commentaire/réclamation concernant la visite d’information promotionnelle du laboratoire IPSEN PHARMA peuvent être adressé à l’adresse suivante&nbsp;: <a style="color:#777777!important; text-decoration:none!important" href="mailto:qualite.charte.vm@ipsen.com" target="_blank"><span style="color:#777777;"><u>qualite.charte.vm@ipsen.com</u></span></a>. </mj-text>
+        <mj-text align="center" color="#777777"> PHARMA SAS au capital de 7 755 053,00 euros – 308 197 185 RCS Paris
+        <br>70 rue Balard, 75015 Paris - Tél.&nbsp;: 01.58.33.50.00. – 
+        <br>Info. Médic.&nbsp;: 01.58.33.58.20. - <a style="color:#777777!important; text-decoration:none!important" href="mailto:qualinformation.medicale@ipsen.com" target="_blank"><span style="color:#777777;"><u>qualinformation.medicale@ipsen.com</u></span></a>. </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
