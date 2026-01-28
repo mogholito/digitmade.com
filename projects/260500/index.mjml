@@ -99,7 +99,7 @@
         <mj-table padding-top="0">
           <tr>
             <td width="7%" style="vertical-align:middle; line-height:100%; padding-left:1px; width:7%;">
-              <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="23" style="display:inline-block; border:0px; height:auto !important;" />
+              <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="18" style="display:block; border:0px;" />
             </td>
             <td width="93%" style="padding-bottom:0px; vertical-align:middle; width:93%;">
               <div style="color:#105e8e;font-family: Arial,sans-serif; font-size:17px; font-weight:700; line-height:24px;"> CRITÈRE PRINCIPAL&nbsp;: SURVIE SANS PROGRESSION (SSP) <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(2)</sup> </div>
@@ -139,7 +139,7 @@
         <mj-table padding-bottom="0">
           <tr>
             <td width="7%" style="vertical-align:middle; line-height:100%; padding-left:1px; width:7%;">
-              <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="23" style="display:inline-block; border:0px; height:auto !important;" />
+              <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="18" style="display:block; border:0px;" />
             </td>
             <td width="93%" style="padding-bottom:0px; vertical-align:middle; width:93%;">
               <div style="color:#105e8e;font-family: Arial,sans-serif; font-size:17px; font-weight:700; line-height:24px;"> TOLÉRANCE DE L’ÉTUDE <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(2)</sup> </div>
@@ -176,13 +176,13 @@
         <mj-image src="https://www.digitmade.com/projects/260500/img/tnep-table.png" alt="Cohorte TNEp : Tableau Incidence des événements indésirables (EI)" padding-top="0" />
         <mj-table padding-top="0">
           <tr>
-            <td width="5%" style="color:#5EA5B9; vertical-align:top; padding-top:5px; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
+            <td width="5%" style="color:#5EA5B9; vertical-align:top; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:top; width:92%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:5px"> Les <span style="color:#5EA5B9; font-weight:700">événements indésirables de grade 3 ou 4 les plus fréquents étaient&nbsp;:</span> hypertension (22%), fatigue (11%) et événement thromboembolique (11%) </div>
             </td>
           </tr>
           <tr>
-            <td width="5%" style="color:#5EA5B9; vertical-align:top; padding-top:5px; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
+            <td width="5%" style="color:#5EA5B9; vertical-align:top; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:top; width:92%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:8px"><span style="color:#5EA5B9; font-weight:700"> Aucun événement de grade 5 n’a été notifié. </div>
             </td>
@@ -195,7 +195,7 @@
         <mj-table padding-bottom="0">
           <tr>
             <td width="7%" style="vertical-align:middle; line-height:100%; padding-left:1px; width:7%;">
-              <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="23" style="display:inline-block; border:0px; height:auto !important;" />
+              <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="18" style="display:block; border:0px;" />
             </td>
             <td width="93%" style="padding-bottom:0px; vertical-align:middle; width:93%;">
               <div style="color:#105e8e;font-family: Arial,sans-serif; font-size:17px; font-weight:700; line-height:24px;"> DONNÉES DE SÉCURITÉ <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup> </div>
