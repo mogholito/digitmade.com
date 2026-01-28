@@ -150,7 +150,7 @@
         <mj-text color="#6f004c" font-size="16px" font-weight="700"> Durée médiane de traitement&nbsp;: mois [intervalle] </mj-text>
         <mj-image src="https://www.digitmade.com/projects/260500/img/duree-mediane.png" alt="Durée médiane de traitement" />
         <mj-text color="#6f004c" font-size="16px" font-weight="700"> Incidence des événements indésirables (EI) </mj-text>
-        <mj-image src="img/tneep-table.png" padding-top="0" />
+        <mj-image src="https://www.digitmade.com/projects/260500/img/tneep-table.png" alt="Cohorte TNEep : Tableau Incidence des événements indésirables (EI)" padding-top="0" />
         <mj-table padding-top="0">
           <tr>
             <td width="5%" style="color:#00558a; vertical-align:top; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px;">●</td>
@@ -171,6 +171,7 @@
         <mj-text color="#6f004c" font-size="16px" font-weight="700"> Durée médiane de traitement&nbsp;: mois [intervalle] </mj-text>
         <mj-image src="https://www.digitmade.com/projects/260500/img/duree-mediane-tnep.png" alt="Durée médiane de traitement" />
         <mj-text color="#6f004c" font-size="16px" font-weight="700"> Incidence des événements indésirables (EI) </mj-text>
+        <mj-image src="https://www.digitmade.com/projects/260500/img/tnep-table.png" alt="Cohorte TNEp : Tableau Incidence des événements indésirables (EI)" padding-top="0" />
         <mj-table padding-top="0">
           <tr>
             <td width="5%" style="color:#5EA5B9; vertical-align:top; padding-top:5px; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px;">●</td>
@@ -207,6 +208,7 @@
         <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="30px" font-size="13px">Effets indésirables <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
         <mj-text font-size="16px" font-weight="700" line-height="24px"> Effets indésirables <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup> </mj-text>
         <mj-text font-size="16px" line-height="24px"> Très fréquents (&ge; 1/10) et fréquents (de &ge; 1/100 à &lt; 1/10) rapportés au cours des études cliniques ou lors de la commercialisation chez les patients traités par CABOMETYX</span><sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> en monothérapie. <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup> </mj-text>
+        <mj-image src="https://www.digitmade.com/projects/260500/img/effets-indesirables-table.png" alt="Tableau Effets indésirables" padding-top="0" padding-bottom="0" />
         <mj-text mj-class="sml"> *Des cas mortels ont été rapportés. <br>**Eruption cutanée est un terme composite qui inclut&nbsp;: dermatite, dermatite acnéiforme, dermite bulleuse, éruption cutanée avec exfoliation, éruption cutanée érythémateuse, éruption cutanée folliculaire, éruption cutanée maculaire, éruption cutanée maculo-papuleuse, éruption cutanée papuleuse, éruption cutanée prurigineuse et éruption d’origine médicamenteuse. </mj-text>
         <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="30px" font-size="10px" padding-bottom="0">CONTRE-INDICATIONS</mj-button>
         <mj-text mj-class="sml"> Hypersensibilité au principe actif ou à l’un des excipients. </mj-text>
