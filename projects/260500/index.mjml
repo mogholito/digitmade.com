@@ -44,19 +44,19 @@
         <mj-text font-size="16px" line-height="24px"> <span style="color:#105E8E;font-weight:700">CABOMETYX</span><sup style="color:#105E8E;font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> est une petite molécule inhibitrice de plusieurs récepteurs à activité tyrosine kinase, incluant <span style="color:#105E8E;font-weight:700">VEGFR</span>, <span style="color:#D61934;font-weight:700">MET</span>, et <span style="color:#45A3BA;font-weight:700">AXL</span> qui sont impliqués dans&nbsp;<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup>&nbsp;: </mj-text>
         <mj-table padding-top="0">
           <tr>
-            <td width="5%" style="vertical-align:middle; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
+            <td width="5%" style="vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:92%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:5px"> la croissance et l’angiogenèse tumorale&nbsp;; </div>
             </td>
           </tr>
           <tr>
-            <td width="5%" style="vertical-align:middle; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
+            <td width="5%" style="vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:92%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:8px"> la résistance aux médicaments&nbsp;; </div>
             </td>
           </tr>
           <tr>
-            <td width="5%" style="vertical-align:middle; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
+            <td width="5%" style="vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:92%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:8px"> la progression métastatique du cancer. </div>
             </td>
@@ -65,19 +65,19 @@
         <mj-text font-size="16px" line-height="24px"> Dans un large éventail de modèles précliniques de tumeurs, <span style="color:#105E8E;font-weight:700">CABOMETYX</span><sup style="color:#105E8E;font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> a été associé à&nbsp;<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup>&nbsp;: </mj-text>
         <mj-table padding-top="0">
           <tr>
-            <td width="5%" style="vertical-align:middle; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
+            <td width="5%" style="vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:95%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:5px"> une <span style="color:#6f004c; font-weight:700;">inhibition dose-dépendante de la croissance tumorale</span>&nbsp;; </div>
             </td>
           </tr>
           <tr>
-            <td width="5%" style="vertical-align:middle; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
+            <td width="5%" style="vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:95%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:5px"> et/ou une <span style="color:#6f004c; font-weight:700;">inhibition de la formation de métastases</span>. </div>
             </td>
           </tr>
           <tr>
-            <td width="5%" style="vertical-align:middle; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
+            <td width="5%" style="vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:95%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:5px"> une <span style="color:#6f004c; font-weight:700;">régression tumorale</span>&nbsp;; </div>
             </td>
@@ -154,13 +154,13 @@
         <mj-image src="https://www.digitmade.com/projects/260500/img/tneep-table.png" alt="Cohorte TNEep&nbsp;: Tableau Incidence des événements indésirables (EI)" padding-top="0" />
         <mj-table padding-top="0">
           <tr>
-            <td width="5%" style="color:#00558a; vertical-align:middle; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
+            <td width="5%" style="color:#00558a; vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:92%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:5px"> Les <span style="color:#00558a; font-weight:700">événements indésirables de grade 3 ou 4 les plus fréquents étaient&nbsp;:</span> hypertension (21%), fatigue (13%) et diarrhée (11%) </div>
             </td>
           </tr>
           <tr>
-            <td width="5%" style="color:#00558a; vertical-align:middle; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
+            <td width="5%" style="color:#00558a; vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:92%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:8px"><span style="color:#00558a; font-weight:700"> 4 événements de grade 5 ont été identifiés comme possiblement lié au traitement,</span> parmi lesquels un cas d’hémorragie gastrique, un cas d’arrêt cardiaque. </div>
             </td>
@@ -180,13 +180,13 @@
         <mj-image src="https://www.digitmade.com/projects/260500/img/tnep-table.png" alt="Cohorte TNEp&nbsp;: Tableau Incidence des événements indésirables (EI)" padding-top="0" />
         <mj-table padding-top="0">
           <tr>
-            <td width="5%" style="color:#5EA5B9; vertical-align:middle; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
+            <td width="5%" style="color:#5EA5B9; vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:92%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:5px"> Les <span style="color:#5EA5B9; font-weight:700">événements indésirables de grade 3 ou 4 les plus fréquents étaient&nbsp;:</span> hypertension (22%), fatigue (11%) et événement thromboembolique (11%) </div>
             </td>
           </tr>
           <tr>
-            <td width="5%" style="color:#5EA5B9; vertical-align:middle; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
+            <td width="5%" style="color:#5EA5B9; vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:92%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:8px"><span style="color:#5EA5B9; font-weight:700"> Aucun événement de grade 5 n’a été notifié. </div>
             </td>
