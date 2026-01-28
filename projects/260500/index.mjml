@@ -20,9 +20,7 @@
     </mj-attributes>
     <mj-style> .no-hyphens { hyphens: none; } .copy { font-size: 12px; } .va-top { vertical-align: top; padding-bottom: 4px } .bullet { width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly; } .list { font-size:14px; line-height:20px; padding-bottom:4px; mso-line-height-rule:exactly; } </mj-style>
     <mj-style> @media only screen and (max-width: 600px) { .appleLinks a { color: #000000 !important; text-decoration: none !important; } .appleLinksWhite a { color: #ffffff !important; text-decoration: none !important; } .table-scroll { overflow-x: auto; overflow-y: hidden; width: calc(97vw - 100px); } .table-scroll table { width: 550px !important; } .img-center-on-sm { padding-left: 25px !important; padding-right: 25px !important; text-align:center !important; } .center-on-sm { padding-left:15px !important; padding-right:15px !important; } .center-on-sm div { text-align: center !important; } .center-on-sm table { margin: 0 auto !important; } .default-width-on-sm > table td {width:100% !important; padding-right: 10px !important; padding-left: 10px !important; } .default-hpad-on-sm { padding-right: 25px !important; padding-left: 25px !important; } } @media only screen and (max-width: 480px) { } </mj-style>
-    <mj-style inline="inline">
-    .rounded > table { border-collapse:separate; border-radius:20px; }
-    </mj-style>
+    <mj-style inline="inline"> .rounded > table { border-collapse:separate; border-radius:20px; } </mj-style>
   </mj-head>
   <mj-body background-color="#f5f5f5">
     <mj-section background-color="#f5f5f5" padding-bottom="0">
@@ -37,49 +35,49 @@
     </mj-section>
     <mj-section background-color="#ffffff">
       <mj-column>
-        <mj-text color="#6f004c" font-size="16px" font-weight="700" line-height="24px"> CABOMETYX</span><sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> (cabozantinib) est indiqué pour le traitement des patients adultes atteints de tumeurs neuroendocrines extra-pancréatiques (TNEep) et pancréatiques (TNEp) bien différenciées, non résécables ou métastatiques, qui ont progressé après au moins un traitement systémique antérieur autre que les analogues de la somatostatine. <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup>
+        <mj-text color="#6f004c" font-size="16px" font-weight="700" line-height="24px"> <span style="color:#6f004c;font-weight:700">CABOMETYX</span><sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> (cabozantinib) est indiqué pour le traitement des patients adultes atteints de tumeurs neuroendocrines extra-pancréatiques (TNEep) et pancréatiques (TNEp) bien différenciées, non résécables ou métastatiques, qui ont progressé après au moins un traitement systémique antérieur autre que les analogues de la somatostatine. <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup>
         </mj-text>
         <mj-text mj-class="sml">Indication non remboursable et non agréé aux collectivités à la date du 23/01/2026. <br>Liste I. <br>Médicament soumis à prescription hospitalière. Prescription réservée aux spécialistes en oncologie ou aux médecins compétents en cancérologie. <br>Médicament nécessitant une surveillance particulière pendant le traitement.</mj-text>
         <mj-text color="#105e8e" font-size="16px" font-weight="700" line-height="20px"> CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>&nbsp;: SEUL ITK INHIBANT VEGFR, MET &amp; AXL <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup> </mj-text>
         <!-- illust1 -->
         <mj-image src="https://www.digitmade.com/projects/260500/img/illust1.png" alt="" padding="0" />
-        <mj-text font-size="16px" line-height="24px"> <span style="color:#105E8E;font-weight:700">CABOMETYX</span><sup style="color:#105E8E;font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> est une petite molécule inhibitrice de plusieurs récepteurs à activité tyrosine kinase, incluant <span style="color:#105E8E;font-weight:700">VEGFR</span>, <span style="color:#D61934;font-weight:700">MET</span>, et <span style="color:#45A3BA;font-weight:700">AXL</span> qui sont impliqués dans <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup>&nbsp;: </mj-text>
+        <mj-text font-size="16px" line-height="24px"> <span style="color:#105E8E;font-weight:700">CABOMETYX</span><sup style="color:#105E8E;font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> est une petite molécule inhibitrice de plusieurs récepteurs à activité tyrosine kinase, incluant <span style="color:#105E8E;font-weight:700">VEGFR</span>, <span style="color:#D61934;font-weight:700">MET</span>, et <span style="color:#45A3BA;font-weight:700">AXL</span> qui sont impliqués dans&nbsp;<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup>&nbsp;: </mj-text>
         <mj-table padding-top="0">
           <tr>
-            <td width="5%" style="vertical-align:top; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px;">●</td>
+            <td width="5%" style="vertical-align:top; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:top; width:92%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:5px"> la croissance et l’angiogenèse tumorale&nbsp;; </div>
             </td>
           </tr>
           <tr>
-            <td width="5%" style="vertical-align:top; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px;">●</td>
+            <td width="5%" style="vertical-align:top; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:top; width:92%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:8px"> la résistance aux médicaments&nbsp;; </div>
             </td>
           </tr>
           <tr>
-            <td width="5%" style="vertical-align:top; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px;">●</td>
+            <td width="5%" style="vertical-align:top; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:top; width:92%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:8px"> la progression métastatique du cancer. </div>
             </td>
           </tr>
         </mj-table>
-        <mj-text font-size="16px" line-height="24px"> Dans un large éventail de modèles précliniques de tumeurs, <span style="color:#105E8E;font-weight:700">CABOMETYX</span><sup style="color:#105E8E;font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> a été associé à <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup>&nbsp;: </mj-text>
+        <mj-text font-size="16px" line-height="24px"> Dans un large éventail de modèles précliniques de tumeurs, <span style="color:#105E8E;font-weight:700">CABOMETYX</span><sup style="color:#105E8E;font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> a été associé à&nbsp;<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup>&nbsp;: </mj-text>
         <mj-table padding-top="0">
           <tr>
-            <td width="5%" style="vertical-align:top; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px;">●</td>
+            <td width="5%" style="vertical-align:top; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:top; width:95%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:5px"> une <span style="color:#6f004c; font-weight:700;">inhibition dose-dépendante de la croissance tumorale</span>&nbsp;; </div>
             </td>
           </tr>
           <tr>
-            <td width="5%" style="vertical-align:top; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px;">●</td>
+            <td width="5%" style="vertical-align:top; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:top; width:95%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:5px"> et/ou une <span style="color:#6f004c; font-weight:700;">inhibition de la formation de métastases</span>. </div>
             </td>
           </tr>
           <tr>
-            <td width="5%" style="vertical-align:top; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px; font-size:12px;">●</td>
+            <td width="5%" style="vertical-align:top; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:top; width:95%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:5px"> une <span style="color:#6f004c; font-weight:700;">régression tumorale</span>&nbsp;; </div>
             </td>
@@ -91,8 +89,8 @@
     </mj-section>
     <mj-section padding="25px">
       <mj-column css-class="rounded" background-color="#105E8E">
-          <mj-text color="#ffffff" line-height="22px" padding="10px 15px"> CABINET est une étude de phase III, américaine, multicentrique (62 centres), randomisée (2:1), en double aveugle, contrôlée vs placebo, dont l’objectif était d’évaluer l’efficacité et la tolérance de CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> vs placebo chez des patients adultes atteints de tumeurs neuroendocrines extra-pancréatiques (TNEep) ou pancréatiques (TNEp) bien différenciées, localement avancées ou métastatiques, ayant progressé après au moins un traitement antérieur autre que les analogues de la somatostatine. Deux cohortes indépendantes étaient menées en parallèle. Le critère principal d’évaluation était la survie sans progression. <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1,2)</sup> </mj-text>
-          <mj-text color="#ffffff" line-height="22px" font-style="italic" padding="10px 15px"> Pour plus d’informations sur la méthodologie de l’étude CABINET, les critères de sélection et les caractéristiques des patients à l’inclusion, cliquez-ici </mj-text>
+        <mj-text color="#ffffff" line-height="22px" padding="10px 15px"> CABINET est une étude de phase III, américaine, multicentrique (62 centres), randomisée (2:1), en double aveugle, contrôlée vs placebo, dont l’objectif était d’évaluer l’efficacité et la tolérance de CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> vs placebo chez des patients adultes atteints de tumeurs neuroendocrines extra-pancréatiques (TNEep) ou pancréatiques (TNEp) bien différenciées, localement avancées ou métastatiques, ayant progressé après au moins un traitement antérieur autre que les analogues de la somatostatine. Deux cohortes indépendantes étaient menées en parallèle. Le critère principal d’évaluation était la survie sans progression. <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1,2)</sup> </mj-text>
+        <mj-text color="#ffffff" line-height="22px" font-style="italic" padding="10px 15px"> Pour plus d’informations sur la méthodologie de l’étude CABINET, les critères de sélection et les caractéristiques des patients à l’inclusion, cliquez-ici </mj-text>
       </mj-column>
     </mj-section>
     <!-- CRITÈRE PRINCIPAL -->
@@ -156,13 +154,13 @@
         <mj-image src="https://www.digitmade.com/projects/260500/img/tneep-table.png" alt="Cohorte TNEep : Tableau Incidence des événements indésirables (EI)" padding-top="0" />
         <mj-table padding-top="0">
           <tr>
-            <td width="5%" style="color:#00558a; vertical-align:top; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px;">●</td>
+            <td width="5%" style="color:#00558a; vertical-align:top; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:top; width:92%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:5px"> Les <span style="color:#00558a; font-weight:700">événements indésirables de grade 3 ou 4 les plus fréquents étaient&nbsp;:</span> hypertension (21%), fatigue (13%) et diarrhée (11%) </div>
             </td>
           </tr>
           <tr>
-            <td width="5%" style="color:#00558a; vertical-align:top; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px;">●</td>
+            <td width="5%" style="color:#00558a; vertical-align:top; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:top; width:92%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:8px"><span style="color:#00558a; font-weight:700"> 4 événements de grade 5 ont été identifiés comme possiblement lié au traitement,</span> parmi lesquels un cas d’hémorragie gastrique, un cas d’arrêt cardiaque. </div>
             </td>
@@ -178,13 +176,13 @@
         <mj-image src="https://www.digitmade.com/projects/260500/img/tnep-table.png" alt="Cohorte TNEp : Tableau Incidence des événements indésirables (EI)" padding-top="0" />
         <mj-table padding-top="0">
           <tr>
-            <td width="5%" style="color:#5EA5B9; vertical-align:top; padding-top:5px; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px;">●</td>
+            <td width="5%" style="color:#5EA5B9; vertical-align:top; padding-top:5px; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:top; width:92%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:5px"> Les <span style="color:#5EA5B9; font-weight:700">événements indésirables de grade 3 ou 4 les plus fréquents étaient&nbsp;:</span> hypertension (22%), fatigue (11%) et événement thromboembolique (11%) </div>
             </td>
           </tr>
           <tr>
-            <td width="5%" style="color:#5EA5B9; vertical-align:top; padding-top:5px; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px;">●</td>
+            <td width="5%" style="color:#5EA5B9; vertical-align:top; padding-top:5px; padding-top:5px; line-height:100%; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:top; width:92%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:8px"><span style="color:#5EA5B9; font-weight:700"> Aucun événement de grade 5 n’a été notifié. </div>
             </td>
