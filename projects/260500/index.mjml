@@ -99,7 +99,7 @@
         <mj-table padding-top="0">
           <tr>
             <td width="7%" style="vertical-align:middle; line-height:100%; padding-left:1px; width:7%;">
-              <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="18" style="display:block; border:0px;" />
+              <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="23" style="display:block; border:0px;" />
             </td>
             <td width="93%" style="padding-bottom:0px; vertical-align:middle; width:93%;">
               <div style="color:#105e8e;font-family: Arial,sans-serif; font-size:17px; font-weight:700; line-height:24px;"> CRITÈRE PRINCIPAL&nbsp;: SURVIE SANS PROGRESSION (SSP) <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(2)</sup> </div>
@@ -131,7 +131,7 @@
         <mj-image src="https://www.digitmade.com/projects/260500/img/hr023.png" alt="HR 0,23*" />
       </mj-column>
     </mj-section>
-    <mj-section padding-top="0">
+    <mj-section background-color="#ffffff" padding-top="0">
       <mj-column>
         <mj-text mj-class="sml" font-style="italic"> *Estimé à l’aide du modèle des risques proportionnels de Cox. L’étude CABINET a été interrompue pour des raisons d’efficacité au moment d’une analyse intermédiaire prévue uniquement à des fins de futilité. L’erreur de type I n’a pas été formellement contrôlée et les valeurs p ne sont pas présentées. L’intervalle de confiance à 95&nbsp;% présenté est descriptif et ne signifie pas que la significativité statistique a été atteinte. </mj-text>
         <mj-text mj-class="sml"> <strong>SSP</strong>&nbsp;: survie sans progression&nbsp;; <strong>RECIST</strong>&nbsp;: «&nbsp;response evaluation criteria in solid tumors&nbsp;» pour critères d’évaluation de la réponse dans les tumeurs solides&nbsp;; <strong>IC</strong>&nbsp;: intervalle de confiance&nbsp;; <strong>HR</strong>&nbsp;: «&nbsp;hazard ratio&nbsp;». </mj-text>
@@ -139,7 +139,7 @@
         <mj-table padding-bottom="0">
           <tr>
             <td width="7%" style="vertical-align:middle; line-height:100%; padding-left:1px; width:7%;">
-              <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="18" style="display:block; border:0px;" />
+              <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="23" style="display:block; border:0px;" />
             </td>
             <td width="93%" style="padding-bottom:0px; vertical-align:middle; width:93%;">
               <div style="color:#105e8e;font-family: Arial,sans-serif; font-size:17px; font-weight:700; line-height:24px;"> TOLÉRANCE DE L’ÉTUDE <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(2)</sup> </div>
@@ -195,7 +195,7 @@
         <mj-table padding-bottom="0">
           <tr>
             <td width="7%" style="vertical-align:middle; line-height:100%; padding-left:1px; width:7%;">
-              <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="18" style="display:block; border:0px;" />
+              <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="23" style="display:block; border:0px;" />
             </td>
             <td width="93%" style="padding-bottom:0px; vertical-align:middle; width:93%;">
               <div style="color:#105e8e;font-family: Arial,sans-serif; font-size:17px; font-weight:700; line-height:24px;"> DONNÉES DE SÉCURITÉ <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup> </div>
