@@ -95,12 +95,13 @@
           <mj-text color="#ffffff" line-height="22px" font-style="italic" padding="10px 15px"> Pour plus d’informations sur la méthodologie de l’étude CABINET, les critères de sélection et les caractéristiques des patients à l’inclusion, cliquez-ici </mj-text>
       </mj-column>
     </mj-section>
+    <!-- CRITÈRE PRINCIPAL -->
     <mj-section background-color="#ffffff">
       <mj-column>
         <mj-table padding-top="0">
           <tr>
             <td width="7%" style="vertical-align:middle; line-height:100%; padding-left:1px; width:7%;">
-              <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="18" style="display:inline-block; border:0px; height:auto !important;" />
+              <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="23" style="display:inline-block; border:0px; height:auto !important;" />
             </td>
             <td width="93%" style="padding-bottom:0px; vertical-align:middle; width:93%;">
               <div style="color:#105e8e;font-family: Arial,sans-serif; font-size:17px; font-weight:700; line-height:24px;"> CRITÈRE PRINCIPAL&nbsp;: SURVIE SANS PROGRESSION (SSP) <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(2)</sup> </div>
@@ -136,16 +137,18 @@
       <mj-column>
         <mj-text mj-class="sml" font-style="italic"> *Estimé à l’aide du modèle des risques proportionnels de Cox. L’étude CABINET a été interrompue pour des raisons d’efficacité au moment d’une analyse intermédiaire prévue uniquement à des fins de futilité. L’erreur de type I n’a pas été formellement contrôlée et les valeurs p ne sont pas présentées. L’intervalle de confiance à 95&nbsp;% présenté est descriptif et ne signifie pas que la significativité statistique a été atteinte. </mj-text>
         <mj-text mj-class="sml"> <strong>SSP</strong>&nbsp;: survie sans progression&nbsp;; <strong>RECIST</strong>&nbsp;: «&nbsp;response evaluation criteria in solid tumors&nbsp;» pour critères d’évaluation de la réponse dans les tumeurs solides&nbsp;; <strong>IC</strong>&nbsp;: intervalle de confiance&nbsp;; <strong>HR</strong>&nbsp;: «&nbsp;hazard ratio&nbsp;». </mj-text>
+        <!-- TOLÉRANCE DE L’ÉTUDE -->
         <mj-table padding-bottom="0">
           <tr>
             <td width="7%" style="vertical-align:middle; line-height:100%; padding-left:1px; width:7%;">
-              <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="18" style="display:inline-block; border:0px; height:auto !important;" />
+              <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="23" style="display:inline-block; border:0px; height:auto !important;" />
             </td>
             <td width="93%" style="padding-bottom:0px; vertical-align:middle; width:93%;">
               <div style="color:#105e8e;font-family: Arial,sans-serif; font-size:17px; font-weight:700; line-height:24px;"> TOLÉRANCE DE L’ÉTUDE <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(2)</sup> </div>
             </td>
           </tr>
         </mj-table>
+        <!-- Cohorte TNEep -->
         <mj-button align="left" background-color="#00558A" inner-padding="5px 10px" border-radius="30px" font-size="13px">Cohorte TNEep</mj-button>
         <mj-text color="#6f004c" font-size="16px" font-weight="700"> Durée médiane de traitement&nbsp;: mois [intervalle] </mj-text>
         <mj-image src="https://www.digitmade.com/projects/260500/img/duree-mediane.png" alt="Durée médiane de traitement" />
@@ -167,6 +170,7 @@
         </mj-table>
         <mj-text color="#6f004c" font-size="16px" font-weight="700"> Evénements indésirables les plus fréquents </mj-text>
         <mj-text font-size="16px" line-height="24px"> Effets indésirables les plus fréquents (avec une incidence ≥ 20&nbsp;% pour les EI tous grades confondus et &ge; 10&nbsp;% pour les EI de grade &ge; 3 dans le bras CABOMETYX</span><sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>)&nbsp;: fatigue, diarrhée, ↑ ASAT, ↑ ALAT, hypertension, thrombocytopénie, nausée, mucite buccale, syndrome d’erythrodysesthésie palmo-plantaire (SEPP), anorexie, dysgueusie, neutropénie, leucopénie, anémie, lymphopénie, hypothyroïdisme, éruption maculopapuleuse, perte de poids. </mj-text>
+        <!-- Cohorte TNEp -->
         <mj-button align="left" background-color="#45A3BA" inner-padding="5px 10px" border-radius="30px" font-size="13px">Cohorte TNEp</mj-button>
         <mj-text color="#6f004c" font-size="16px" font-weight="700"> Durée médiane de traitement&nbsp;: mois [intervalle] </mj-text>
         <mj-image src="https://www.digitmade.com/projects/260500/img/duree-mediane-tnep.png" alt="Durée médiane de traitement" />
@@ -189,10 +193,11 @@
         <mj-text color="#6f004c" font-size="16px" font-weight="700"> Evénements indésirables les plus fréquents </mj-text>
         <mj-text font-size="16px" line-height="24px"> Effets indésirables les plus fréquents (avec une incidence ≥ 20&nbsp;% pour les EI tous grades confondus et &ge; 10&nbsp;% pour les EI de grade &ge; 3 dans le bras CABOMETYX</span><sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>)&nbsp;: fatigue, diarrhée, ↑ ASAT, ↑ ALAT, hypertension, thrombocytopénie, nausée, mucite buccale, syndrome d’erythrodysesthésie palmo-plantaire (SEPP), anorexie, dysgueusie, neutropénie, ↑ PAL, vomissements, hypophosphatémie, événement thromboembolique. </mj-text>
         <mj-text mj-class="sml"> <strong>EI</strong>&nbsp;: événements indésirables&nbsp;; <strong>ASAT</strong>&nbsp;: Aspartate aminotransférase&nbsp;; <strong>ALAT</strong>&nbsp;: Alanine aminotransférase&nbsp;; <strong>SEPP</strong>&nbsp;: Syndrome d’érythrodysesthésie palmo-plantaire&nbsp;; <strong>PAL</strong>&nbsp;: Phosphatase alcaline&nbsp;; <strong>GGT</strong>&nbsp;: Gamma-glutamyl transférase. </mj-text>
+        <!-- DONNÉES DE SÉCURITÉ -->
         <mj-table padding-bottom="0">
           <tr>
             <td width="7%" style="vertical-align:middle; line-height:100%; padding-left:1px; width:7%;">
-              <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="18" style="display:inline-block; border:0px; height:auto !important;" />
+              <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="23" style="display:inline-block; border:0px; height:auto !important;" />
             </td>
             <td width="93%" style="padding-bottom:0px; vertical-align:middle; width:93%;">
               <div style="color:#105e8e;font-family: Arial,sans-serif; font-size:17px; font-weight:700; line-height:24px;"> DONNÉES DE SÉCURITÉ <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup> </div>
@@ -205,6 +210,7 @@
         <mj-text font-size="16px" line-height="24px"> Effets indésirables peu fréquents (&ge; 1/1000 à &lt; 1/100)&nbsp;: convulsion, accident cérébrovasculaire, syndrome d’encéphalopathie postérieure réversible, infarctus du myocarde aigu, crise aiguë d’hypertension, thrombose artérielle, embolie artérielle, pneumothorax, glossodynie, hépatite cholestatique, ostéonécrose de la mâchoire, complications de plaie. </mj-text>
         <mj-text font-size="16px" line-height="24px"> Effets indésirables avec une fréquence indéterminée (ne peut être estimée à partir des données disponibles)&nbsp;: anévrismes et dissections artérielles, vasculite cutanée. </mj-text>
         <mj-text color="#105E8E" font-size="16px" font-weight="700" line-height="24px"> Déclarez immédiatement tout effet indésirable suspecté d’être dû à un médicament à votre Centre régional de pharmacovigilance (CRPV) ou sur <a style="color:#105E8E!important; text-decoration:none!important" href="https://signalement.social-sante.gouv.fr" target="_blank"><span style="color:#105E8E;"><u>https://signalement.social-sante.gouv.fr</u></span></a> </mj-text>
+        <!-- Effets indésirables -->
         <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="30px" font-size="13px">Effets indésirables <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
         <mj-text font-size="16px" font-weight="700" line-height="24px"> Effets indésirables <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup> </mj-text>
         <mj-text font-size="16px" line-height="24px"> Très fréquents (&ge; 1/10) et fréquents (de &ge; 1/100 à &lt; 1/10) rapportés au cours des études cliniques ou lors de la commercialisation chez les patients traités par CABOMETYX</span><sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> en monothérapie. <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup> </mj-text>

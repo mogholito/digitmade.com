@@ -28,16 +28,7 @@ This project contains an email template for CABOMETYX® (cabozantinib), a pharma
 ```
 
 ## Content
-The email template presents clinical data from the CABINET study on CABOMETYX® for treating non-resectable or metastatic neuroendocrine tumors, including:
-
-- Product information and mechanism of action (VEGFR, MET & AXL inhibitor)
-- CABINET study methodology and results
-- Progression-free survival (PFS) data for two cohorts:
-  - Extra-pancreatic NETs (TNEep)
-  - Pancreatic NETs (TNEp)
-- Safety and tolerability information
-- Adverse events data
-- Contraindications and warnings
+The email template presents clinical data from the CABINET study on CABOMETYX® for treating non-resectable or metastatic neuroendocrine tumors.
 
 ## Technology
 - **MJML Framework**: Responsive email markup language
@@ -76,9 +67,13 @@ mjml -w index.mjml -o index.html
 - **Language**: French
 
 ## Notes
+- The HTML is accessible at: `https://www.digitmade.com/projects/260500/`
 - All images are hosted on: `https://www.digitmade.com/projects/260500/img/`
-- Email includes legal disclaimers and GDPR-compliant unsubscribe information
-- Contains medical information intended for healthcare professionals only
+
+To push the project:
+```bash
+cd "/Users/minht.vu/DigitMade/DM website/digitmade.com" && git add projects/260500/ && git commit -m "Update projects/260500 with latest changes" && git push origin main
+```
 
 ## Last Updated
 January 28, 2026
