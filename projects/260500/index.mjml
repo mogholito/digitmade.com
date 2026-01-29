@@ -296,19 +296,20 @@
         <mj-text color="#105e8e" font-size="16px" font-weight="700" line-height="24px"> Pour une information complète, se reporter au Résumé des Caractéristiques du Produit CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> </mj-text>
         <mj-divider border-width="2px" border-color="#105e8e" />
         <mj-text font-size="16px" line-height="24px"> <span style="color:#105E8E; font-weight:700;">CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> pour le traitement des tumeurs neuroendocrines non résécables ou métastatiques</span>
-          <br>Indication non remboursable et non agréé aux collectivités à la date du 23/01/2026. <br>Liste I. Médicament soumis à prescription hospitalière. Prescription réservée aux spécialistes en oncologie ou aux médecins compétents en cancérologie. <br>Médicament nécessitant une surveillance particulière pendant le traitement. <br>Pour une information complète, consultez le Résumé des Caractéristiques du Produit sur la base de données publique du médicament en <a style="color:#575756!important; text-decoration:none!important" href="#" target="_blank"><span style="color:#575756;"><u>cliquant ici</u></span></a>
+          <br>Indication non remboursable et non agréé aux collectivités à la date du 23/01/2026. <br>Liste I. Médicament soumis à prescription hospitalière. Prescription réservée aux spécialistes en oncologie ou aux médecins compétents en cancérologie. <br>Médicament nécessitant une surveillance particulière pendant le traitement. <br>Pour une information complète, consultez le Résumé des Caractéristiques du Produit sur la base de données publique du médicament en <a style="color:#575756!important; text-decoration:none!important" href="https://base-donnees-publique.medicaments.gouv.fr/" target="_blank"><span style="color:#575756;"><u>cliquant ici</u></span></a>
         </mj-text>
         <mj-divider border-width="2px" border-color="#105e8e" />
+        <!-- Bibliographie -->
         <mj-text color="#105e8e" font-size="16px" font-weight="700" line-height="24px"> Bibliographie </mj-text>
         <mj-table padding-top="0" font-family="Arial,sans-serif" font-size="16px" line-height="24px">
           <tr>
-            <td width="5%" style="vertical-align:middle; padding-bottom:5px; font-family: Arial,sans-serif; font-size:16px; line-height:24px; width:5%;">1.</td>
+            <td width="5%" style="vertical-align:top; padding-bottom:5px; font-family: Arial,sans-serif; font-size:16px; line-height:24px; width:5%;">1.</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:92%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:5px"> Résumé des Caractéristiques du Produit CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> </div>
             </td>
           </tr>
           <tr>
-            <td width="5%" style="vertical-align:middle; padding-bottom:5px; font-family: Arial,sans-serif; font-size:16px; line-height:24px; width:5%;">2.</td>
+            <td width="5%" style="vertical-align:top; padding-bottom:5px; font-family: Arial,sans-serif; font-size:16px; line-height:24px; width:5%;">2.</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:92%;">
               <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:8px"> Chan JA, <em>et al</em>. Phase 3 Trial of Cabozantinib to Treat Advanced Neuroendocrine Tumors. N Engl J Med 2025;392:653-65. [Etude retenue lors de l’évaluation du dossier d’AMM] </div>
             </td>
@@ -331,9 +332,8 @@
         <br>Pour en savoir pus sur le traitement de vos données, veuillez consulter notre site internet&nbsp;: <a style="color:#777777!important; text-decoration:none!important" href="https://www.ipsen.com/france/mentions-dinformation/" target="_blank"><span style="color:#777777;"><u>https://www.ipsen.com/france/mentions-dinformation/</u></span></a> </mj-text>
         <mj-text align="center" color="#777777"> IPSEN s’engage à respecter la charte de l’information par démarchage ou prospection visant à la promotion des médicaments et le référentiel de certification de l’activité d’information par démarchage ou prospection visant à la promotion des médicaments en vigueur. Les collaborateurs d’IPSEN sont à votre disposition pour vous présenter les règles de déontologie formalisées par notre Entreprise et répondre à vos questions. </mj-text>
         <mj-text align="center" color="#777777"> Tout commentaire/réclamation concernant la visite d’information promotionnelle du laboratoire IPSEN PHARMA peuvent être adressé à l’adresse suivante&nbsp;: <a style="color:#777777!important; text-decoration:none!important" href="mailto:qualite.charte.vm@ipsen.com" target="_blank"><span style="color:#777777;"><u>qualite.charte.vm@ipsen.com</u></span></a>. </mj-text>
-        <mj-text align="center" color="#777777"> PHARMA SAS au capital de 7 755 053,00 euros – 308 197 185 RCS Paris
-        <br>70 rue Balard, 75015 Paris - Tél.&nbsp;: 01.58.33.50.00. – 
-        <br>Info. Médic.&nbsp;: 01.58.33.58.20. - <a style="color:#777777!important; text-decoration:none!important" href="mailto:qualinformation.medicale@ipsen.com" target="_blank"><span style="color:#777777;"><u>qualinformation.medicale@ipsen.com</u></span></a>. </mj-text>
+        <mj-text align="center" color="#777777"> IPSEN PHARMA SAS - 70 rue Balard, 75015 Paris - Tél.&nbsp;: 01.58.33.50.00.
+        <br>- Info. Médic. : 01.58.33.58.20. - <a style="color:#777777!important; text-decoration:none!important" href="mailto:information.medicale@ipsen.com" target="_blank"><span style="color:#777777;"><u>information.medicale@ipsen.com</u></span></a>. </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
