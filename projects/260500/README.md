@@ -9,7 +9,8 @@ This project contains an email template for CABOMETYX® (cabozantinib), a pharma
 ├── index.mjml          # MJML source file
 ├── index.html          # Compiled HTML email
 ├── img/                # Image assets folder
-│   ├── header.png
+│   ├── header1200w.png
+│   ├── footer900w.png
 │   ├── illust1.png
 │   ├── tneep.png
 │   ├── tnep.png
@@ -21,9 +22,14 @@ This project contains an email template for CABOMETYX® (cabozantinib), a pharma
 │   ├── tneep-table.png
 │   ├── tnep-table.png
 │   ├── effets-indesirables-table.png
+│   ├── textimg.png
 │   ├── bullet.png
-│   ├── footer.png
-│   └── btn-*.png       # Button images
+│   ├── btn-contre-indications.png
+│   ├── btn-effets-indesirables.png
+│   ├── btn-mise-en-garde.png
+│   ├── btn-resume-profil-tolerance.png
+│   ├── btn-tneep.png
+│   └── btn-tnep.png
 └── README.md           # This file
 ```
 
@@ -76,4 +82,4 @@ cd "/Users/minht.vu/DigitMade/DM website/digitmade.com" && git add projects/2605
 ```
 
 ## Last Updated
-January 28, 2026
+January 29, 2026
