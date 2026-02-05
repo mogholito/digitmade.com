@@ -43,5 +43,9 @@ The template uses the following images:
 ## Deployment
 Images are hosted at: `https://www.digitmade.com/projects/260600/img/`
 
+```bash
+git add projects/260600/ && git commit -m "Update projects/260600 with latest changes" && git push origin main
+```
+
 ## Date
 December 2025
