@@ -235,11 +235,11 @@
     </mj-section>
     <mj-section padding-top="10px" padding-bottom="20px">
       <mj-column width="50%">
-        <mj-image src="https://www.digitmade.com/projects/260600/img/picto01.png" alt="Efficacité prouvée" width="98px" height="98px" />
+        <mj-image src="https://www.digitmade.com/projects/260600/img/lesions-cutanees.png" alt="lésions cutanées" width="98px" height="98px" />
         <mj-text align="center" color="#642D80" padding="10px 20px"> <strong>Réduire les lésions cutanées liées à la photosensibilité</strong><sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(4)</sup>. </mj-text>
       </mj-column>
       <mj-column width="50%">
-        <mj-image src="https://www.digitmade.com/projects/260600/img/picto02.png" alt="Tolérance" width="98px" height="98px" />
+        <mj-image src="https://www.digitmade.com/projects/260600/img/douleurs-articulaires.png" alt="douleurs articulaires " width="98px" height="98px" />
         <mj-text align="center" color="#642D80" padding="10px 20px"> <strong>Réduire les douleurs articulaires</strong><sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(4)</sup>. </mj-text>
       </mj-column>
     </mj-section>
