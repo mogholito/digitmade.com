@@ -254,7 +254,7 @@
     <mj-section>
       <mj-column>
         <mj-image src="https://www.digitmade.com/projects/260600/img/full-image.png" alt="-" padding="0 0 25px" />
-        <mj-text mj-class="title" align="center"> Pourquoi prescrire BENLYSTA<sup style="line-height:0; vertical-align:6px; font-size:60%;">®</sup> à vos patients&nbsp;? </mj-text>
+        <mj-text mj-class="title" align="center"> Pourquoi prescrire BENLYSTA<sup style="line-height:0; vertical-align:7px; font-size:60%;">®</sup> à vos patients&nbsp;? </mj-text>
       </mj-column>
     </mj-section>
     <!-- Section 10 -->
@@ -275,7 +275,7 @@
     <!-- Section 11 -->
     <mj-section>
       <mj-column>
-        <mj-text mj-class="title" align="center"> <span style="color:#FDD354; font-size:25px">Une forme sous-cutanée</span> <br>avec <span style="font-weight:300">BENLYSTA<sup style="line-height:0; vertical-align:6px; font-size:60%;">®</sup> 200&nbsp;mg </span>solution injectable <br>en stylo prérempli. </mj-text>
+        <mj-text mj-class="title" align="center"> <span style="color:#FDD354; font-size:25px">Une forme sous-cutanée</span> <br>avec <span style="font-weight:300">BENLYSTA<sup style="line-height:0; vertical-align:7px; font-size:60%;">®</sup> 200&nbsp;mg </span>solution injectable <br>en stylo prérempli. </mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding-top="30px" padding-bottom="5px">
@@ -315,7 +315,7 @@
     <!-- Section 12 -->
     <mj-section>
       <mj-column>
-        <mj-text mj-class="title" align="center"> <span style="color:#FDD354; font-size:25px">Une forme intraveineuse</span> <br>avec <span style="font-weight:300">BENLYSTA<sup style="line-height:0; vertical-align:6px; font-size:60%;">®</sup> 120&nbsp;mg et 400&nbsp;mg </span>en poudre pour solution à diluer pour perfusion. </mj-text>
+        <mj-text mj-class="title" align="center"> <span style="color:#FDD354; font-size:25px">Une forme intraveineuse</span> <br>avec <span style="font-weight:300">BENLYSTA<sup style="line-height:0; vertical-align:7px; font-size:60%;">®</sup> 120&nbsp;mg et 400&nbsp;mg </span>en poudre pour solution à diluer pour perfusion. </mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding-top="30px" padding-bottom="5px">
