@@ -1,0 +1,434 @@
+<mjml>
+  <mj-head>
+    <mj-raw>
+      <!--[if mso | IE
+        ]><style>
+          body * {
+            mso-line-height-rule: exactly;
+          }
+        </style><!
+      [endif]-->
+    </mj-raw>
+    <mj-attributes>
+      <mj-section background-color="#fff" padding-bottom="10px" padding-top="10px" />
+      <mj-text align="left" color="#2e153b" font-family="Arial,sans-serif" font-size="15px" line-height="21px" />
+      <mj-table align="left" color="#2e153b" font-family="Arial,sans-serif" font-family="sans-serif" font-size="14px" line-height="20px" />
+      <mj-button background-color="#F36633" border-radius="0" font-size="14.5px" font-weight="700" />
+      <mj-class name="title" color="#642D80" font-weight="700" font-size="21px" line-height="28px" padding-bottom="0" />
+      <mj-class name="subtitle" color="#642D80" font-weight="700" font-size="16px" line-height="22px" />
+      <mj-class name="sml" font-size="12px" line-height="16px" />
+      <mj-class name="email_link" align="center" color="#6A6A6A" font-size="11px" line-height="1.4" />
+    </mj-attributes>
+    <mj-style> body { background-color: #642D80 } .no-hyphens { hyphens: none; } sup { line-height:0; vertical-align:4px; font-size:70%; } .copy { font-size: 12px; } .va-top { vertical-align: top; padding-bottom: 4px } .bullet { width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly; } .list { font-size:14px; line-height:20px; padding-bottom:4px; mso-line-height-rule:exactly; } </mj-style>
+    <mj-style> @media only screen and (max-width: 600px) { .appleLinks a { color: #000000 !important; text-decoration: none !important; } .appleLinksWhite a { color: #ffffff !important; text-decoration: none !important; } .table-scroll { overflow-x: auto; overflow-y: hidden; width: calc(97vw - 100px); } .table-scroll table { width: 550px !important; } .img-center-on-sm { padding-left: 25px !important; padding-right: 25px !important; !important; text-align:center !important; } .center-on-sm { padding-left:15px !important; padding-right:15px !important; } .center-on-sm div { text-align: center !important; } .center-on-sm table { margin: 0 auto !important; } .default-width-on-sm > table td {width:100% !important; padding-right: 10px !important; padding-left: 10px !important; } .default-hpad-on-sm { padding-right: 25px !important; padding-left: 25px !important; } } @media only screen and (max-width: 480px) { } </mj-style>
+  </mj-head>
+  <mj-body background-color="#642D80">
+    <mj-section background-color="#F5F5F5" padding-bottom="0">
+      <mj-column>
+        <mj-text mj-class="email_link">Si vous ne visualisez pas correctement cet email, <a style="text-decoration: none !important" href="#0" target="_blank"><span style="color: #6A6A6A">cliquez ici</span></a>.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column>
+        <mj-image src="https://www.digitmade.com/projects/260600/img/header.png" alt="Le lupus systémique&nbsp;: une maladie chronique pouvant être invalidante" padding="0" />
+      </mj-column>
+    </mj-section>
+    <!-- Section 1 -->
+    <mj-section background-color="#F0EAF3">
+      <mj-column>
+        <mj-text color="#642D80" font-weight="700"> BENLYSTA<sup style="line-height:0; vertical-align:4px; font-size:70%;">®</sup> (bélimumab), en association au traitement habituel, est indiqué chez les patients âgés de 5 ans et plus atteints de lupus systémique (LS) actif avec présence d’auto-anticorps et activité de la maladie élevée (définie par exemple par la présence d’anticorps anti-ADN natifs et un complément bas) malgré un traitement standard<sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(1)</sup>. </mj-text>
+        <mj-text> Traitement de seconde intention, en association au traitement standard, après échec ou intolérance d’un traitement bien suivi par antimalariques de synthèse, AINS, corticoïdes et éventuellement immunosuppresseurs en fonction des atteintes viscérales spécifiques<sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(2)</sup>. <br />La place de BENLYSTA IV dans la stratégie thérapeutique du lupus systémique de l’enfant est identique à celle de l’adulte<sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(2)</sup>. </mj-text>
+        <mj-text color="#642D80" font-weight="700"> BENLYSTA<sup style="line-height:0; vertical-align:4px; font-size:70%;">®</sup> est également indiqué en association avec des immunosuppresseurs pour le traitement des patients adultes atteints de glomérulonéphrite lupique active (GNL)<sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(1)</sup>. </mj-text>
+        <mj-text> BENLYSTA<sup style="line-height:0; vertical-align:4px; font-size:70%;">®</sup> par voie IV et SC a une place dans la stratégie thérapeutique, en association à un traitement standard comprenant une corticothérapie et un immunosuppresseur (cyclophosphamide, mycophénolate mofétil, azathioprine), soit en 1<sup style="line-height:0; vertical-align:4px; font-size:70%;">ère</sup> ou 2<sup style="line-height:0; vertical-align:4px; font-size:70%;">ème</sup> ligne de traitement, uniquement chez les adultes atteints de glomérulonéphrite lupique active de classe histologique III ou IV associée ou non à une classe V<sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(2)</sup>. <br />BENLYSTA<sup style="line-height:0; vertical-align:4px; font-size:70%;">®</sup> n’a pas de place dans la stratégie thérapeutique chez les patients atteints de glomérulonéphrite lupique de classe V pure<sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(2)</sup>. <br />Le bélimumab n’a pas été étudié dans les atteintes neurologiques sévères. Par conséquent, il n’est pas recommandé de prescrire BENLYSTA<sup style="line-height:0; vertical-align:4px; font-size:70%;">®</sup> dans ces formes de lupus<sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(1,2)</sup>. </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Section 2 -->
+    <mj-section padding-left="25px" padding-right="25px">
+      <mj-column width="40%">
+        <mj-image src="https://www.digitmade.com/projects/260600/img/madamedupont.png" alt="Le cas de Madame Dupont" padding="0" />
+      </mj-column>
+      <mj-column width="60%">
+        <mj-text mj-class="subtitle"> Le cas de Madame Dupont&nbsp;: </mj-text>
+        <mj-table padding-left="35px" padding-top="0" padding-bottom="25px" width="100%">
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="mso-line-height-rule:exactly;"> 45 ans</td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="mso-line-height-rule:exactly;"> 1m70</td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="mso-line-height-rule:exactly;"> 65 kilos</td>
+          </tr>
+        </mj-table>
+        <mj-text mj-class="subtitle" padding-bottom="0"> Profil de la patiente&nbsp;: </mj-text>
+        <mj-text> Elle présente comme antécédents une <strong>hypertension artérielle</strong> traitée par IEC, <strong>un syndrome du canal carpien droit opéré</strong> en 2019 sans séquelles et <strong>une thrombose veineuse profonde du membre inférieur gauche après un voyage en avion</strong> en 2021. </mj-text>
+        <mj-text mj-class="sml"> IEC&nbsp;: inhibiteurs de l’enzyme de conversion </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Section 3 -->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="title" padding-top="15px"> Quels résultats ont confirmé le diagnostic du lupus érythémateux systémique&nbsp;? </mj-text>
+        <mj-image src="https://www.digitmade.com/projects/260600/img/separator.png" alt="" padding="0" />
+        <mj-text padding-bottom="0"> Il y a un an, Madame Dupont a présenté des <span style="color:#642D80; font-weight:700;">éruptions cutanées</span> discrètes érythémateuses et papuleuses, au niveau des <span style="color:#642D80; font-weight:700;">zones photoexposées</span>, notamment sur les joues et le décolleté<sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(4)</sup>. Elle décrivait également des arthralgies d’horaire inflammatoire, touchant les mains et les poignets. </mj-text>
+        <mj-text> Les résultats biologiques pour confirmer son diagnostic étaient les suivants<sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(4)</sup>&nbsp;: </mj-text>
+        <mj-table padding-left="35px" padding-top="0" padding-bottom="15px" width="100%">
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="mso-line-height-rule:exactly;">Anticorps antinucléaires (AAN) positifs à 1/1280<sup style="line-height:0; vertical-align:4px; font-size:70%;">è</sup></td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="mso-line-height-rule:exactly;">Anticorps anti-ADN natifs positifs</td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="mso-line-height-rule:exactly;">Pas de consommation du complément</td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="mso-line-height-rule:exactly;">NFS présentant une lymphopénie (500/mm<sup style="line-height:0; vertical-align:4px; font-size:70%;">3</sup>)</td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="mso-line-height-rule:exactly;">Anticorps CCP et facteur rhumatoïde négatifs</td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="mso-line-height-rule:exactly;">Anticorps du SAPL négatifs (anticorps anti-B2 Gp1, anti-cardiolipines, anti coagulant circulant de type lupique)</td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="mso-line-height-rule:exactly;">CRP à 6&nbsp;mg/L</td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="mso-line-height-rule:exactly;">Créatinine à 70 µmol/L et DFG à 90 mL/min/1,73m<sup style="line-height:0; vertical-align:4px; font-size:70%;">2</sup>. ECBU&nbsp;: pas de leucocyturie, pas d'hématurie, culture stérile. Protéinurie sur échantillon négative.</td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="mso-line-height-rule:exactly;">Les radiographies des mains et des pieds ne retrouvent pas de pincements, ni d'érosions articulaires. Pas de synovites actives retrouvées à l'échographie articulaire. La radiographie thoracique ne retrouve pas d'argument pour un syndrome interstitiel.</td>
+          </tr>
+        </mj-table>
+        <mj-table>
+          <tr>
+            <td width="8%" style="vertical-align:top; line-height:100%; padding-right:10px;">
+              <img src="https://www.digitmade.com/projects/260600/img/arrow-right.png" alt="" width="34" height="24" style="display:inline-block; border:0px; height:auto !important;" />
+            </td>
+            <td width="92%" style="padding-bottom:10px; vertical-align:top;">
+              <mj-text> Madame Dupont ne présente pas d’argument clinico-biologique pour une polyarthrite rhumatoïde<sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(4)</sup>. </mj-text>
+            </td>
+          </tr>
+          <tr>
+            <td width="8%" style="vertical-align:top; line-height:100%; padding-right:10px;">
+              <img src="https://www.digitmade.com/projects/260600/img/arrow-right.png" alt="" width="34" height="24" style="display:inline-block; border:0px; height:auto !important;" />
+            </td>
+            <td width="92%" style="padding-bottom:10px; vertical-align:top;">
+              <mj-text> La présence d’anticorps anti-nucléaires et anti-ADN natifs et d’une lymphopénie est en faveur du lupus systémique<sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(4)</sup>. </mj-text>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <!-- Section 4 -->
+    <mj-section background-color="#642D80">
+      <mj-column>
+        <mj-table color="#FFFFFF" padding-left="35px" padding-bottom="15px" width="100%">
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="padding-bottom:10px; mso-line-height-rule:exactly;"> <strong>Le diagnostic de lupus systémique a été confirmé</strong> devant ce tableau clinique et biologique, <strong>avec un score ACR/EULAR à 15 points</strong><sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(4)</sup>. </td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="padding-bottom:10px; mso-line-height-rule:exactly;"> Un traitement de fond par <strong>hydroxychloroquine 400&nbsp;mg/jour</strong> a été introduit<sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(4)</sup>. </td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="padding-bottom:0px; mso-line-height-rule:exactly;"> Une corticothérapie par Prednisone à <strong>&lt; 0,3&nbsp;mg/kg/j à été introduite à dose dégressive</strong><sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(4)</sup>. </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <!-- Section 5 -->
+    <mj-section padding-top="5px" padding-bottom="5px">
+      <mj-column>
+        <mj-text mj-class="sml"> CCP&nbsp;: Anticorps anti-peptides cycliques citrullinés; CRP&nbsp;: Protéine C-réactive; DFG&nbsp;: Débit de filtration glomérulaire; ECBU&nbsp;: Examen cytobactériologique des urines; FS&nbsp;: Formule sanguine; SAPL&nbsp;: Syndrome des antiphospholipides </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Section 6 -->
+    <mj-wrapper background-color="#F0EAF3" padding-top="0" padding-bottom="0">
+      <mj-section background-color="#F0EAF3" padding-bottom="0">
+        <mj-column>
+          <mj-text padding-bottom="0"> L’activité de son lupus a été limitée par son traitement par hydroxychloroquine et les doses de corticothérapies ont été réduite cependant&nbsp;: </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#F0EAF3" padding="0 15px">
+        <mj-column width="60%">
+          <mj-text padding="5px 10px"> Madame Dupont <span style="color:#642D80; font-weight:700;">revient 1 an plus tard</span> car <span style="color:#642D80; font-weight:700;">elle constate une extension des lésions cutanées</span>, notamment au niveau du visage, ainsi que la <span style="color:#642D80; font-weight:700;">recrudescence de douleurs articulaires malgré l’augmentation des doses de corticoïdes</span>. </mj-text>
+        </mj-column>
+        <mj-column width="40%">
+          <mj-image src="https://www.digitmade.com/projects/260600/img/photo-visage.png" alt="photo visage" padding="5px 10px" />
+          <mj-text mj-class="sml" padding="5px 10px"> Elle apporte une photo de son visage lors d’une poussée, typique d’un érythème en masque de «&nbsp;loup&nbsp;» ou vespertilio<sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(4)</sup>. </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!-- Section 7 -->
+    <mj-section padding-bottom="0">
+      <mj-column>
+        <mj-text mj-class="title" padding-top="15px"> Quels examens réaliser chez cette patiente&nbsp;? </mj-text>
+        <mj-image src="https://www.digitmade.com/projects/260600/img/separator.png" alt="" padding="0" />
+        <mj-text> Vous constatez pendant l’interrogatoire et l’examen clinique<sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(4,5)</sup>&nbsp;: </mj-text>
+        <mj-table padding-left="35px" padding-top="0" padding-bottom="15px" width="100%">
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="mso-line-height-rule:exactly;"><span style="color:#642D80; font-weight:700;">Des éruptions érythémateuses et papuleuses encore plus étendues</span> très invalidantes sur les zones photo-exposées (joues et décolleté) mais également sur le tronc et les membres.</td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="mso-line-height-rule:exactly;"><span style="color:#642D80; font-weight:700;">Des arthralgies inflammatoires très invalidantes</span>, sans synovite, touchant les poignets, les mains, les chevilles et les pieds.</td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="mso-line-height-rule:exactly;"><span style="color:#642D80; font-weight:700;">Des aphtes buccaux</span> récurrents.</td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="mso-line-height-rule:exactly;"><span style="color:#642D80; font-weight:700;">Une alopécie</span> diffuse non cicatricielle.</td>
+          </tr>
+        </mj-table>
+        <mj-text> Les résultats du bilan biologique sont les suivants<sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(4,5)</sup>&nbsp;: </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0">
+      <mj-column>
+        <mj-text align="center" color="#642D80" font-weight="700"> Des anticorps anti-ADN natifs positifs </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text align="center" color="#642D80" font-weight="700"> Des anticorps anti-nucléaires positifs à 1/1280è </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text align="center" color="#642D80" font-weight="700"> Une consommation du complément <br>(C3, C4 abaissé) </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0">
+      <mj-column>
+        <mj-text> <span style="color:#642D80; font-weight:700;">Aucune atteinte rénale n’est décelée</span> (pas de syndrome néphrotique, pas de protéinurie, pas d'insuffisance rénale). <br><span style="color:#642D80; font-weight:700;">L’hydoxychloroquinémie est dans les normes</span> donc en faveur d’une bonne observance thérapeutique<sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(4)</sup>. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper background-color="#FFFFFF" padding="0 25px">
+      <mj-section background-color="#FEE69F">
+        <mj-column>
+          <mj-text padding="0 15px"> <span style="color:#642D80; font-weight:700;">Les résultats des examens et le score SLEDAI</span> (score d’activité du lupus) indiquent chez Madame Dupont <span style="color:#642D80; font-weight:700;">une activité élevée de la maladie malgré son traitement par l’hydroxychloroquine</span>. Une réévaluation du traitement doit donc être envisagée.<sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(4,5)</sup>. </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!-- Section 8 -->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="title" padding-top="15px"> Quelle prise en charge proposer à cette patiente&nbsp;? </mj-text>
+        <mj-image src="https://www.digitmade.com/projects/260600/img/separator.png" alt="" padding="0" />
+        <mj-text> Compte tenu du <span style="color:#642D80; font-weight:700;">lupus systémique à activité élevée en échec thérapeutique après une première ligne d’hydroxychloroquine</span>, il est nécessaire de proposer un traitement destiné à limiter l’activité du lupus systémique afin de<sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(4)</sup>&nbsp: </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="10px" padding-bottom="20px">
+      <mj-column width="50%">
+        <mj-image src="https://www.digitmade.com/projects/260600/img/picto01.png" alt="Efficacité prouvée" width="98px" height="98px" />
+        <mj-text align="center" color="#642D80" padding="10px 20px"> <strong>Réduire les lésions cutanées liées à la photosensibilité</strong><sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(4)</sup>. </mj-text>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image src="https://www.digitmade.com/projects/260600/img/picto02.png" alt="Tolérance" width="98px" height="98px" />
+        <mj-text align="center" color="#642D80" padding="10px 20px"> <strong>Réduire les douleurs articulaires</strong><sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(4)</sup>. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper background-color="#FFFFFF" padding="0 25px 15px">
+      <mj-section background-color="#FEE69F">
+        <mj-column>
+          <mj-text padding="0 15px"> Chez cette patiente présentant un lupus systémique à activité élevée <span style="color:#642D80; font-weight:700;">on pourra proposer une thérapie ciblée</span>, en s’assurant qu’il n’existe aucun critère d’inéligibilité<sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(4)</sup>. </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!-- Section 9 -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://www.digitmade.com/projects/260600/img/full-image.png" alt="-" padding="0 0 25px" />
+        <mj-text mj-class="title" align="center"> Pourquoi prescrire BENLYSTA<sup style="line-height:0; vertical-align:4px; font-size:70%;">®</sup> à vos patients&nbsp;? </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Section 10 -->
+    <mj-section padding="0px 10px">
+      <mj-column width="33,33%">
+        <mj-image src="https://www.digitmade.com/projects/260600/img/efficacite200.png" alt="Efficacité prouvée" width="98px" height="98px" />
+        <mj-text align="center" color="#642D80" padding="10px"> BENLYSTA<sup style="line-height:0; vertical-align:4px; font-size:70%;">®</sup> a démontré une <span style="color:#642D80; font-weight:700;">réduction significative de l’activité de la maladie</span> et des poussées de lupus<sup style="line-height:0; vertical-align:4px; font-size:70%;">>&#8239;(1)</sup>. </mj-text>
+      </mj-column>
+      <mj-column width="33,33%">
+        <mj-image src="https://www.digitmade.com/projects/260600/img/tolerance200.png" alt="Tolérance" width="98px" height="98px" />
+        <mj-text align="center" padding="10px"> Avec un profil de tolérance documenté <strong style="color:#642D80;">par 7 études cliniques et 13 ans d’expérience</strong>, BENLYSTA<sup style="line-height:0; vertical-align:4px; font-size:70%;">®</sup> peut être une option thérapeutique pour vos patients lupiques<sup style="line-height:0; vertical-align:4px; font-size:70%;">>&#8239;(1,3)</sup>. </mj-text>
+      </mj-column>
+      <mj-column width="33,33%">
+        <mj-image src="https://www.digitmade.com/projects/260600/img/approche200.png" alt=">A>pproche ciblée" width="98px" height="98px" />
+        <mj-text align="center" padding="10px"> En tant qu’inhibiteur de la protéine BLyS, BENLYSTA<sup style="line-height:0; vertical-align:4px; font-size:70%;">®</sup> <span style="color:#642D80; font-weight:700;">cible spécifiquement un mécanisme clé du lupus</span>, offrant ainsi une approche innovante dans le traitement de cette maladie complexe<sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(1)</sup>. </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Section 11 -->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="title" align="center"> <span style="color:#FDD354; font-size:25px">Une forme sous-cutanée</span> <br>avec <span style="font-weight:300">BENLYSTA<sup style="line-height:0; vertical-align:6px; font-size:60%;">®</sup> 200&nbsp;mg </span>solution injectable <br>en stylo prérempli. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="30px" padding-bottom="5px">
+      <mj-column width="60%" vertical-align="middle">
+        <mj-text> Conditions de prescription et de délivrance<sup style="line-height:0; vertical-align:4px; font-size:70%;">&#8239;(2)</sup><br> BENLYSTA<sup style="line-height:0; vertical-align:4px; font-size:70%;">®</sup> 200&nbsp;mg, 200&nbsp;mg, solution injectable en stylo prérempli </mj-text>
+      </mj-column>
+      <mj-column width="40%" vertical-align="middle">
+        <mj-image css-class="img-center-on-sm" src="https://www.digitmade.com/projects/260600/img/seringe336x154.png" alt="stylo prérempli" width="168px" padding="0 0 10px 0" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0" padding-bottom="5px">
+      <mj-column>
+        <mj-table padding-top="0">
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="font-size:14px; line-height:20px; padding-bottom:4px; mso-line-height-rule:exactly;">Liste I. Médicament soumis à prescription initiale hospitalière annuelle.</td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="font-size:14px; line-height:20px; padding-bottom:4px; mso-line-height-rule:exactly;">Prescription réservée aux spécialistes en médecine interne, rhumatologie, néphrologie, dermatologie ou pédiatrie.</td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="font-size:14px; line-height:20px; padding-bottom:4px; mso-line-height-rule:exactly;">Chez l’adulte&nbsp;: Remb. Séc. Soc. 65% et agréé aux collectivités</td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="font-size:14px; line-height:20px; padding-bottom:4px; mso-line-height-rule:exactly;">Chez l'enfant âgé de 5 à 17 ans dans l'indication LS&nbsp;: Demande de remboursement à l'étude et non agréé aux collectivités (en date du 17/10/2025)</td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="font-size:14px; line-height:20px; padding-bottom:4px; mso-line-height-rule:exactly;">Les deux premières administrations doivent être effectuées en milieu hospitalier.</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <!-- Section 12 -->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="title" align="center"> <span style="color:#FDD354; font-size:25px">Une forme intraveineuse</span> <br>avec <span style="font-weight:300">BENLYSTA<sup style="line-height:0; vertical-align:6px; font-size:60%;">®</sup> 120&nbsp;mg et 400&nbsp;mg </span>en poudre pour solution à diluer pour perfusion. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="30px" padding-bottom="5px">
+      <mj-column width="60%" vertical-align="middle">
+        <mj-text> Conditions de prescription et de délivrance<sup style="line-height:0; vertical-align:4px; font-size:70%;">(2)</sup><br> BENLYSTA<sup style="line-height:0; vertical-align:4px; font-size:70%;">®</sup> 120&nbsp;mg, poudre pour solution à diluer pour perfusion et BENLYSTA<sup style="line-height:0; vertical-align:4px; font-size:70%;">®</sup> 400&nbsp;mg, poudre pour solution à diluer pour perfusion </mj-text>
+      </mj-column>
+      <mj-column width="40%" vertical-align="middle">
+        <mj-image css-class="img-center-on-sm" src="https://www.digitmade.com/projects/260600/img/boxes.png" alt="pour perfusion" width="216px" padding="0 0 10px 0" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0" padding-bottom="5px">
+      <mj-column>
+        <mj-table padding-top="0" padding-bottom="5px">
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="font-size:14px; line-height:20px; padding-bottom:4px; mso-line-height-rule:exactly;">Liste I. Agréé aux Collectivités. Médicament réservé à l’usage hospitalier.</td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="font-size:14px; line-height:20px; padding-bottom:4px; mso-line-height-rule:exactly;">Prescription réservée aux spécialistes en médecine interne, rhumatologie, néphro­logie, dermatologie ou pédiatrie.</td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly;">•</td>
+            <td style="font-size:14px; line-height:20px; padding-bottom:4px; mso-line-height-rule:exactly;">Inscrit sur la liste en sus (dans l’indication LS uniquement).</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <!-- Section 13 -->
+    <mj-section  padding-bottom="20px">
+      <mj-column width="50%">
+        <mj-button href="https://base-donnees-publique.medicaments.gouv.fr/index.php?page=1&choixRecherche=medicament&txtCaracteres=BENLYSTA" target="_blank" background-color="#fdd354" color="#642D80" border-radius="50px" padding="5px" font-size="14px" font-weight="700" align="center" inner-padding="12px 20px"> Cliquez ici pour consulter<br>la Fiche info BENLYSTA<sup style="line-height:0; vertical-align:4px; font-size:70%;">®</sup>
+        </mj-button>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-button href="https://gskpro.com/content/dam/global/hcpportal/fr_FR/legal_pdfs/bum-a-combiner.pdf" target="_blank" background-color="#fdd354" color="#642D80" border-radius="50px" padding="5px" font-size="14px" font-weight="700" align="center" inner-padding="12px 20px"> Cliquez ici pour consulter<br>le bon usage de BENLYSTA<sup style="line-height:0; vertical-align:4px; font-size:70%;">®</sup>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Section 14 -->
+    <mj-section background-color="#f0eaf3" padding-bottom="25px" padding-top="20px">
+      <mj-column width="100%">
+        <mj-text align="center" color="#642D80" font-size="36px" font-weight="700" line-height="50px"> Pour en savoir plus sur BENLYSTA<sup style="font-size:18px; vertical-align: super;">®</sup>
+        </mj-text>
+        <mj-button href="https://gskpro.com/content/dam/global/hcpportal/fr_FR/protected/pdf/loc-fr-dec-25-pm-fr-bel-broc-250009-cr1.pdf" background-color="#fdd354" color="#642D80" border-radius="50px" padding-top="20px"> Consultez sa fiche posologique </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Section 15 -->
+    <mj-section padding-bottom="20px" padding-top="20px">
+      <mj-column width="100%">
+        <mj-text align="center"> GSK s’engage à accompagner les professionnels de santé. </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Section 16 -->
+    <mj-section background-color="#642D80" padding-top="20px">
+      <mj-column vertical-align="middle" width="27%">
+        <mj-image src="https://www.digitmade.com/projects/260600/img/picto05.png" alt="" align="center" />
+      </mj-column>
+      <mj-column vertical-align="middle" width="73%">
+        <mj-text align="center" color="#fff" font-size="20px" font-weight="700"> Découvrez GSKpro.com </mj-text>
+        <mj-text align="center" color="#fff" padding="10px 20px"> Le site de GSK dédié aux professionnels de santé&nbsp;: <br>Expertises médicales, relation patient, événements GSK, e&#8209;catalogue… Inscrivez-vous et apportez un nouvel éclairage à votre pratique. </mj-text>
+        <mj-button href="https://gskpro.com/fr-fr/inscription/" background-color="#fdd354" color="#642D80" border-radius="50px" padding-top="20px"> S’inscrire </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Section 17 -->
+    <mj-section background-color="#F5F5F5">
+      <mj-column width="100%">
+        <mj-text mj-class="sml" color="#777777" padding-bottom="0"> Références&nbsp;: </mj-text>
+        <mj-table color="#777777" font-size="11px" line-height="16px" padding-top="0">
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:11px; mso-line-height-rule:exactly;">1.</td>
+            <td style="font-size:11px; line-height:16px; padding-bottom:0px; mso-line-height-rule:exactly;">Résumé des caractéristiques du produit BENLYSTA<sup style="line-height:0; vertical-align:4px; font-size:70%;">®</sup></td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:11px; mso-line-height-rule:exactly;">2.</td>
+            <td style="font-size:11px; line-height:16px; padding-bottom:0px; mso-line-height-rule:exactly;">HAS. Avis de la Commission de la Transparence du 4 avril 2018, du 10 juin 2020, du 15 décembre 2021 et du 11 décembre 2024 relatifs a BENLYSTA<sup style="line-height:0; vertical-align:4px; font-size:70%;">®</sup>.</td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:11px; mso-line-height-rule:exactly;">3.</td>
+            <td style="font-size:11px; line-height:16px; padding-bottom:0px; mso-line-height-rule:exactly;">Levy RA, et al. 10 Years of belimumab experience&nbsp;: What have we learnt&nbsp;? Lupus. 2021;30(11):1705-1721.</td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:11px; mso-line-height-rule:exactly;">4.</td>
+            <td style="font-size:11px; line-height:16px; padding-bottom:0px; mso-line-height-rule:exactly;">Haute Autorité de Santé. Protocole national de diagnostic et de soins (PNDS)&nbsp;: Lupus érythémateux systémique de l’adulte et de l’enfant. 2024.</td>
+          </tr>
+          <tr>
+            <td style="width:15px; vertical-align:top; font-size:11px; mso-line-height-rule:exactly;">5.</td>
+            <td style="font-size:11px; line-height:16px; padding-bottom:0px; mso-line-height-rule:exactly;">Site FAI2R. Critère: d’activité&nbsp;: SLEDAI. Disponible sur&nbsp;: <a href="https://www.fai2r.org/les-pathologies-rares/lupus-systemique/criteres/criteres-dactivite-sledai/" style="color:#777777 !important; text-decoration:none !important" target="_blank"><span style="color:#777777"><u>https://www.fai2r.org/les-pathologies-rares/lupus-systemique/criteres/criteres-dactivite-sledai/</u></span></a>. (Consulté le 18/09/2025).</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <!-- Footer -->
+    <mj-section padding-bottom="0px">
+      <mj-column>
+        <mj-text mj-class="sml"> ▼ Ce médicament fait l’objet d’une surveillance supplémentaire qui permettra l’identification rapide de nouvelles informations relatives à la sécurité. Déclarez immédiatement tout effet indésirable suspecté d’être dû à un médicament à votre Centre régional de pharmacovigilance (CRPV) ou sur <a href="https://signalement.social-sante.gouv.fr/" style="color:#642D80 !important; text-decoration:none !important" target="_blank"><span style="color:#642D80"><u>https://signalement.social-sante.gouv.fr</u></span></a>. </mj-text>
+        <mj-text mj-class="sml"> Les événements indésirables peuvent également être signalés à GlaxoSmithKline via <a href="https://fr.gsk.com/fr-fr/contacts/#heading1-1" style="color:#642D80 !important; text-decoration:none !important" target="_blank"><span style="color:#642D80"><u>notre formulaire de déclaration en ligne</u></span></a>, par email auprès de notre Département Information et Accueil Médical à <a href="mailto:diam@gsk.com" style="color:#642D80 !important; text-decoration:none !important" target="_blank"><span style="color:#642D80"><u>diam@gsk.com</u></span></a> ou par téléphone au 0139178444 du lundi au vendredi de 9h30 à 18h00. </mj-text>
+        <mj-text mj-class="sml"> Cet e-mail est destiné aux professionnels de santé uniquement (France). </mj-text>
+        <mj-text mj-class="sml"> Marques appartenant ou concédées au groupe GSK. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column vertical-align="middle" width="25%">
+        <mj-image src="https://www.digitmade.com/projects/260600/img/gsk.png" alt="GSK" width="102px" />
+      </mj-column>
+      <mj-column vertical-align="middle" width="75%">
+        <mj-text css-class="center-on-sm" font-size="12px" line-height="18px" padding="0 15px 0 0"> Laboratoire GlaxoSmithKline, France <br>Siège social&nbsp;: 23 rue François Jacob, 92500 Rueil-Malmaison <br>© 2025 Groupe GSK ou ses concédants. Tous droits réservés. <br>PM-FR-BEL-EML-250026 - V1 - 25/10/60205159/PM/008 – Décembre 2025 </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#642D80">
+    <mj-column>
+      <mj-spacer height="50px" />
+    </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
