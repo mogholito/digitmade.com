@@ -425,7 +425,7 @@
         <mj-text css-class="center-on-sm" font-size="12px" line-height="18px" padding="0 15px 0 0"> Laboratoire GlaxoSmithKline, France <br>Siège social&nbsp;: 23 rue François Jacob, 92500 Rueil-Malmaison <br>© 2025 Groupe GSK ou ses concédants. Tous droits réservés. <br>PM-FR-BEL-EML-250026 - V1 - 25/10/60205159/PM/008 – Décembre 2025 </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#642D80">
+    <mj-section background-color="#FFFFFF">
     <mj-column>
       <mj-spacer height="50px" />
     </mj-column>

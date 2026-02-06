@@ -41,6 +41,7 @@ The template uses the following images:
 - gsk.png
 
 ## Deployment
+Page is hosted at: `https://www.digitmade.com/projects/260600/`
 Images are hosted at: `https://www.digitmade.com/projects/260600/img/`
 
 ```bash
