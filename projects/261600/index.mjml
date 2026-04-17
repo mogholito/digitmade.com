@@ -30,7 +30,7 @@
     </mj-section>
     <mj-section padding-top="0" padding-bottom="0">
       <mj-column>
-        <mj-image src="https://www.digitmade.com/projects/260500/img/header1200w.png" alt="CABOMETYX IPSEN" padding="0" />
+        <mj-image src="https://www.digitmade.com/projects/261600/img/header1200w.png" alt="CABOMETYX IPSEN" padding="0" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff">
@@ -40,7 +40,7 @@
         <mj-text mj-class="sml">Indication non remboursable et non agréé aux collectivités à la date du 23/01/2026. <br>Liste I. <br>Médicament soumis à prescription hospitalière. Prescription réservée aux spécialistes en oncologie ou aux médecins compétents en cancérologie. <br>Médicament nécessitant une surveillance particulière pendant le traitement.</mj-text>
         <!-- CABOMETYX® : SEUL ITK INHIBANT VEGFR, MET & AXL -->
         <mj-text color="#105e8e" font-size="16px" font-weight="700" line-height="20px"> CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>&nbsp;: <span style="text-decoration: underline;">SEUL</span> ITK INHIBANT VEGFR, MET &amp; AXL <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup> </mj-text>
-        <mj-image src="https://www.digitmade.com/projects/260500/img/illust1.png" alt="" padding="0" />
+        <mj-image src="https://www.digitmade.com/projects/261600/img/illust1.png" alt="" padding="0" />
         <mj-text font-size="16px" line-height="24px" padding-bottom="0"> <span style="color:#105E8E;font-weight:700">CABOMETYX</span><sup style="color:#105E8E;font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> est une petite molécule inhibitrice de plusieurs récepteurs à activité tyrosine kinase, incluant <span style="color:#105E8E;font-weight:700">VEGFR</span>, <span style="color:#D61934;font-weight:700">MET</span>, et <span style="color:#45A3BA;font-weight:700">AXL</span> qui sont impliqués dans&nbsp;<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup>&nbsp;: </mj-text>
         <mj-table padding-top="0">
           <tr>
@@ -99,7 +99,7 @@
         <mj-table padding-top="0">
           <tr>
             <td width="7%" style="vertical-align:middle; padding-left:1px; line-height:100%;" align="center">
-              <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="23" style="display:inline-block; vertical-align:middle; border:0px;" />
+              <img src="https://www.digitmade.com/projects/261600/img/bullet.png" alt="" width="28" height="23" style="display:inline-block; vertical-align:middle; border:0px;" />
             </td>
             <td width="93%" style="padding-bottom:0px; vertical-align:middle; width:93%;">
               <div style="color:#105e8e;font-family: Arial,sans-serif; font-size:17px; font-weight:700; line-height:24px;"> CRITÈRE PRINCIPAL&nbsp;: SURVIE SANS PROGRESSION (SSP) <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(2)</sup> </div>
@@ -111,24 +111,24 @@
     </mj-section>
     <mj-section padding-top="0">
       <mj-column>
-        <mj-image src="https://www.digitmade.com/projects/260500/img/tneep.png" alt="Cohorte TNEep" />
+        <mj-image src="https://www.digitmade.com/projects/261600/img/tneep.png" alt="Cohorte TNEep" />
       </mj-column>
       <mj-column>
-        <mj-image src="https://www.digitmade.com/projects/260500/img/tnep.png" alt="Cohorte TNEp" />
+        <mj-image src="https://www.digitmade.com/projects/261600/img/tnep.png" alt="Cohorte TNEp" />
       </mj-column>
     </mj-section>
     <mj-section padding-top="0">
       <mj-column>
         <mj-text align="center" color="#105e8e" font-size="15px" font-weight="700"> Suivi médian </mj-text>
-        <mj-image src="https://www.digitmade.com/projects/260500/img/suivi-median.png" alt="23 mois" padding-top="0" />
+        <mj-image src="https://www.digitmade.com/projects/261600/img/suivi-median.png" alt="23 mois" padding-top="0" />
       </mj-column>
     </mj-section>
     <mj-section padding-bottom="0" padding-top="0">
       <mj-column>
-        <mj-image src="https://www.digitmade.com/projects/260500/img/hr038.png" alt="HR 0,38*" />
+        <mj-image src="https://www.digitmade.com/projects/261600/img/hr038.png" alt="HR 0,38*" />
       </mj-column>
       <mj-column>
-        <mj-image src="https://www.digitmade.com/projects/260500/img/hr023.png" alt="HR 0,23*" />
+        <mj-image src="https://www.digitmade.com/projects/261600/img/hr023.png" alt="HR 0,23*" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="0">
@@ -139,7 +139,7 @@
         <mj-table padding-bottom="0">
           <tr>
             <td width="7%" style="vertical-align:middle; padding-left:1px; line-height:100%;" align="center">
-              <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="23" style="display:inline-block; vertical-align:middle; border:0px;" />
+              <img src="https://www.digitmade.com/projects/261600/img/bullet.png" alt="" width="28" height="23" style="display:inline-block; vertical-align:middle; border:0px;" />
             </td>
             <td width="93%" style="padding-bottom:0px; vertical-align:middle; width:93%;">
               <div style="color:#105e8e;font-family: Arial,sans-serif; font-size:17px; font-weight:700; line-height:24px;"> TOLÉRANCE DE L’ÉTUDE <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(2)</sup> </div>
@@ -149,9 +149,9 @@
         <!-- Cohorte TNEep -->
         <mj-button align="left" background-color="#00558A" inner-padding="5px 10px" border-radius="30px" font-size="13px">Cohorte TNEep</mj-button>
         <mj-text color="#6f004c" font-size="16px"> <strong>Durée médiane de traitement&nbsp;:</strong> mois [intervalle] </mj-text>
-        <mj-image src="https://www.digitmade.com/projects/260500/img/duree-mediane.png" alt="Durée médiane de traitement" />
+        <mj-image src="https://www.digitmade.com/projects/261600/img/duree-mediane.png" alt="Durée médiane de traitement" />
         <mj-text color="#6f004c" font-size="16px" font-weight="700"> Incidence des événements indésirables (EI) </mj-text>
-        <mj-image src="https://www.digitmade.com/projects/260500/img/tneep-table.png" alt="Cohorte TNEep&nbsp;: Tableau Incidence des événements indésirables (EI)" padding-top="0" />
+        <mj-image src="https://www.digitmade.com/projects/261600/img/tneep-table.png" alt="Cohorte TNEep&nbsp;: Tableau Incidence des événements indésirables (EI)" padding-top="0" />
         <mj-table padding-top="0">
           <tr>
             <td width="5%" style="color:#00558a; vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
@@ -175,9 +175,9 @@
       <mj-column>
         <mj-button align="left" background-color="#45A3BA" inner-padding="5px 10px" border-radius="30px" font-size="13px">Cohorte TNEp</mj-button>
         <mj-text color="#6f004c" font-size="16px"> <strong>Durée médiane de traitement&nbsp;:</strong> mois [intervalle] </mj-text>
-        <mj-image src="https://www.digitmade.com/projects/260500/img/duree-mediane-tnep.png" alt="Durée médiane de traitement" />
+        <mj-image src="https://www.digitmade.com/projects/261600/img/duree-mediane-tnep.png" alt="Durée médiane de traitement" />
         <mj-text color="#6f004c" font-size="16px" font-weight="700"> Incidence des événements indésirables (EI) </mj-text>
-        <mj-image src="https://www.digitmade.com/projects/260500/img/tnep-table.png" alt="Cohorte TNEp&nbsp;: Tableau Incidence des événements indésirables (EI)" padding-top="0" />
+        <mj-image src="https://www.digitmade.com/projects/261600/img/tnep-table.png" alt="Cohorte TNEp&nbsp;: Tableau Incidence des événements indésirables (EI)" padding-top="0" />
         <mj-table padding-top="0">
           <tr>
             <td width="5%" style="color:#5EA5B9; vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
@@ -199,7 +199,7 @@
         <mj-table padding-bottom="0">
           <tr>
             <td width="7%" style="vertical-align:middle; padding-left:1px; line-height:100%;" align="center">
-              <img src="https://www.digitmade.com/projects/260500/img/bullet.png" alt="" width="28" height="23" style="display:inline-block; vertical-align:middle; border:0px;" />
+              <img src="https://www.digitmade.com/projects/261600/img/bullet.png" alt="" width="28" height="23" style="display:inline-block; vertical-align:middle; border:0px;" />
             </td>
             <td width="93%" style="padding-bottom:0px; vertical-align:middle; width:93%;">
               <div style="color:#105e8e;font-family: Arial,sans-serif; font-size:17px; font-weight:700; line-height:24px;"> DONNÉES DE SÉCURITÉ <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup> </div>
@@ -215,7 +215,7 @@
         <!-- Effets indésirables -->
         <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="30px" font-size="13px">Effets indésirables <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
         <mj-text font-size="16px" line-height="24px"> Très fréquents (&ge; 1/10) et fréquents (de &ge; 1/100 à &lt; 1/10) rapportés au cours des études cliniques ou lors de la commercialisation chez les patients traités par CABOMETYX</span><sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> en monothérapie. <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup> </mj-text>
-        <mj-image src="https://www.digitmade.com/projects/260500/img/effets-indesirables-table.png" alt="Tableau Effets indésirables" padding-top="0" padding-bottom="0" />
+        <mj-image src="https://www.digitmade.com/projects/261600/img/effets-indesirables-table.png" alt="Tableau Effets indésirables" padding-top="0" padding-bottom="0" />
         <mj-text mj-class="sml"> *Des cas mortels ont été rapportés. <br>**Eruption cutanée est un terme composite qui inclut&nbsp;: dermatite, dermatite acnéiforme, dermite bulleuse, éruption cutanée avec exfoliation, éruption cutanée érythémateuse, éruption cutanée folliculaire, éruption cutanée maculaire, éruption cutanée maculo-papuleuse, éruption cutanée papuleuse, éruption cutanée prurigineuse et éruption d’origine médicamenteuse. </mj-text>
       </mj-column>
     </mj-section>
@@ -374,7 +374,7 @@
             </td>
           </tr>
         </mj-table>
-        <mj-image src="https://www.digitmade.com/projects/260500/img/footer900w.png" alt="" align="center" padding="0" />
+        <mj-image src="https://www.digitmade.com/projects/261600/img/footer900w.png" alt="" align="center" padding="0" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="0px" padding-bottom="0px">
