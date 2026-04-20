@@ -89,7 +89,7 @@
     </mj-section>
     <mj-section padding="25px">
       <mj-column css-class="rounded" background-color="#105E8E">
-        <mj-text color="#ffffff" line-height="22px" padding="10px 15px"> CABINET est une étude de phase III, américaine, multicentrique (62 centres), randomisée (2:1), en double aveugle, contrôlée vs placebo, dont l’objectif était d’évaluer l’efficacité et la tolérance de CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> vs placebo chez des patients adultes atteints de tumeurs neuroendocrines extra-pancréatiques (TNEep) ou pancréatiques (TNEp) bien différenciées, localement avancées ou métastatiques, ayant progressé après au moins un traitement antérieur autre que les analogues de la somatostatine. Deux cohortes indépendantes étaient menées en parallèle. Le critère principal d’évaluation était la survie sans progression. <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1,2)</sup> </mj-text>
+        <mj-text color="#ffffff" line-height="22px" padding="10px 15px"> <strong>CABINET est une étude de phase III, américaine, multicentrique (62 centres), randomisée (2:1), en double aveugle, contrôlée vs placebo</strong>, dont l’objectif était d’évaluer l’efficacité et la tolérance de CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> vs placebo chez des patients adultes atteints de tumeurs neuroendocrines extra-pancréatiques (TNEep) ou pancréatiques (TNEp) bien différenciées, localement avancées ou métastatiques, ayant progressé après au moins un traitement antérieur autre que les analogues de la somatostatine. Deux cohortes indépendantes étaient menées en parallèle. Le critère principal d’évaluation était la survie sans progression. <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1,2)</sup> </mj-text>
         <mj-text color="#ffffff" line-height="22px" font-style="italic" padding="10px 15px"> Pour plus d’informations sur la méthodologie de l’étude CABINET, les critères de sélection et les caractéristiques des patients à l’inclusion, cliquez-ici </mj-text>
       </mj-column>
     </mj-section>
@@ -152,11 +152,11 @@
         <mj-image src="https://www.digitmade.com/projects/261600/img/duree-mediane.png" alt="Durée médiane de traitement" />
         <mj-text color="#6f004c" font-size="16px" font-weight="700"> Incidence des événements indésirables (EI) </mj-text>
         <mj-image src="https://www.digitmade.com/projects/261600/img/tneep-table.png" alt="Cohorte TNEep&nbsp;: Tableau Incidence des événements indésirables (EI)" padding-top="0" />
-        <mj-table padding-top="0">
+        <mj-table padding-top="0" padding-bottom="0">
           <tr>
             <td width="5%" style="color:#00558a; vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:92%;">
-              <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:5px"> Les <span style="color:#00558a; font-weight:700">événements indésirables de grade 3 ou 4 les plus fréquents étaient&nbsp;:</span> hypertension (21%), fatigue (13%) et diarrhée (11%) </div>
+              <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:5px"> <span style="color:#00558a; font-weight:700">Les événements indésirables de grade 3 ou 4 les plus fréquents étaient&nbsp;:</span> hypertension (21%), fatigue (13%) et diarrhée (11%) </div>
             </td>
           </tr>
           <tr>
@@ -171,18 +171,18 @@
       </mj-column>
     </mj-section>
     <!-- Cohorte TNEp -->
-    <mj-section background-color="#ffffff">
+    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
       <mj-column>
         <mj-button align="left" background-color="#45A3BA" inner-padding="5px 10px" border-radius="30px" font-size="13px">Cohorte TNEp</mj-button>
         <mj-text color="#6f004c" font-size="16px"> <strong>Durée médiane de traitement&nbsp;:</strong> mois [intervalle] </mj-text>
         <mj-image src="https://www.digitmade.com/projects/261600/img/duree-mediane-tnep.png" alt="Durée médiane de traitement" />
         <mj-text color="#6f004c" font-size="16px" font-weight="700"> Incidence des événements indésirables (EI) </mj-text>
         <mj-image src="https://www.digitmade.com/projects/261600/img/tnep-table.png" alt="Cohorte TNEp&nbsp;: Tableau Incidence des événements indésirables (EI)" padding-top="0" />
-        <mj-table padding-top="0">
+        <mj-table padding-top="0" padding-bottom="0">
           <tr>
             <td width="5%" style="color:#5EA5B9; vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:92%;">
-              <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:5px"> Les <span style="color:#5EA5B9; font-weight:700">événements indésirables de grade 3 ou 4 les plus fréquents étaient&nbsp;:</span> hypertension (22%), fatigue (11%) et événement thromboembolique (11%) </div>
+              <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:5px"> <span style="color:#5EA5B9; font-weight:700">Les événements indésirables de grade 3 ou 4 les plus fréquents étaient&nbsp;:</span> hypertension (22%), fatigue (11%) et événement thromboembolique (11%) </div>
             </td>
           </tr>
           <tr>
@@ -211,7 +211,7 @@
         <mj-text font-size="16px" line-height="24px"> Effets indésirables les plus fréquents tous grades et toutes populations confondus (&ge; 25&nbsp;%)&nbsp;: diarrhée, fatigue, nausée, appétit diminué, syndrome d’erythrodysesthésie palmo-plantaire (SEPP), hypertension. </mj-text>
         <mj-text font-size="16px" line-height="24px"> Effets indésirables peu fréquents (&ge; 1/1000 à &lt; 1/100)&nbsp;: convulsion, accident cérébrovasculaire, syndrome d’encéphalopathie postérieure réversible, infarctus du myocarde aigu, crise aiguë d’hypertension, thrombose artérielle, embolie artérielle, pneumothorax, glossodynie, hépatite cholestatique, ostéonécrose de la mâchoire, complications de plaie. </mj-text>
         <mj-text font-size="16px" line-height="24px"> Effets indésirables avec une fréquence indéterminée (ne peut être estimée à partir des données disponibles)&nbsp;: anévrismes et dissections artérielles, vasculite cutanée. </mj-text>
-        <mj-text color="#105E8E" font-size="16px" font-weight="700" line-height="24px"> Déclarez immédiatement tout effet indésirable suspecté d’être dû à un médicament à votre Centre régional de pharmacovigilance (CRPV) ou sur <a style="color:#105E8E!important; text-decoration:none!important" href="https://signalement.social-sante.gouv.fr" target="_blank"><span style="color:#105E8E;"><u>https://signalement.social-sante.gouv.fr</u></span></a> </mj-text>
+        <mj-text color="#105E8E" font-size="16px" font-weight="700" line-height="24px"> Déclarez immédiatement tout effet indésirable suspecté d’être dû à un médicament à votre Centre régional de pharmacovigilance (CRPV) ou sur <a style="color:#105E8E!important; text-decoration:none!important" href="https://signalement.social-sante.gouv.fr" target="_blank"><span style="color:#105E8E;">https://signalement.social-sante.gouv.fr</span></a> </mj-text>
         <!-- Effets indésirables -->
         <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="30px" font-size="13px">Effets indésirables <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
         <mj-text font-size="16px" line-height="24px"> Très fréquents (&ge; 1/10) et fréquents (de &ge; 1/100 à &lt; 1/10) rapportés au cours des études cliniques ou lors de la commercialisation chez les patients traités par CABOMETYX</span><sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> en monothérapie. <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup> </mj-text>
@@ -221,9 +221,9 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
       <mj-column>
-        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="30px" font-size="10px" padding-bottom="0">CONTRE-INDICATIONS <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
+        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="30px" font-size="10px" padding-bottom="0">CONTRE-INDICATIONS</mj-button>
         <mj-text mj-class="sml"> Hypersensibilité au principe actif ou à l’un des excipients. </mj-text>
-        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="30px" font-size="10px" padding-bottom="0">MISES EN GARDE, PRÉCAUTIONS D’EMPLOI ET CONDUITE À TENIR <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
+        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="30px" font-size="10px" padding-bottom="0">MISES EN GARDE, PRÉCAUTIONS D’EMPLOI ET CONDUITE À TENIR </mj-button>
         <mj-text mj-class="sml" padding-bottom="0"> <strong>Comme la plupart des effets indésirables surviennent au début du traitement, le médecin doit surveiller le patient de façon rapprochée pendant les 8 premières semaines de traitement afin de déterminer si une adaptation de la dose est nécessaire.</strong> Les effets indésirables qui généralement surviennent précocement sont&nbsp;: hypocalcémie, hypokaliémie, thrombopénie, hypertension, syndrome d’érythrodysesthésie palmo-plantaire, protéinurie et effets gastro-intestinaux (douleur abdominale, inflammation des muqueuses, constipation, diarrhée et vomissements). La prise en charge des effets indésirables suspectés peut nécessiter une réduction de la posologie ou une interruption temporaire du traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Des réductions de la posologie et des interruptions de traitement en raison d’un événement indésirable sont survenues chez 46 à 67&nbsp;% et 70 à 84&nbsp;%, respectivement, des patients traités par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> dans les essais cliniques pivots en monothérapie (dont l'essai CABINET dans les TNE). Deux réductions de la posologie ont été nécessaires chez 9,4&nbsp;% à 33&nbsp;% des patients. Le délai médian jusqu’à la première réduction de la posologie était de 38 à 106 jours et le délai jusqu’à la première interruption de traitement était de 28 à 68 jours. </mj-text>
       </mj-column>
     </mj-section>
@@ -330,7 +330,7 @@
     <!-- MISES EN GARDE, PRÉCAUTIONS D’EMPLOI ET CONDUITE À TENIR -->
     <mj-section background-color="#ffffff" padding-bottom="0">
       <mj-column>
-        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="30px" font-size="10px" padding-bottom="0">MISES EN GARDE, PRÉCAUTIONS D’EMPLOI ET CONDUITE À TENIR <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup> </mj-button>
+        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="30px" font-size="10px" padding-bottom="0">MISES EN GARDE, PRÉCAUTIONS D’EMPLOI ET CONDUITE À TENIR </mj-button>
         <mj-text mj-class="sml" padding-bottom="0"> <strong>Femmes en capacité de procréer/Contraception chez les hommes et les femmes</strong>&nbsp;: Il convient de conseiller aux femmes en capacité de procréer d’éviter toute grossesse pendant le traitement sous CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Les partenaires de sexe féminin de patients de sexe masculin traités par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> doivent également éviter de tomber enceintes. Des méthodes de contraception efficaces doivent être utilisées par les patients de sexes masculin et féminin et par leurs partenaires pendant toute la durée du traitement et pendant au moins 4 mois après la fin du traitement. Sachant que les contraceptifs oraux ne peuvent pas être considérés comme des « méthodes efficaces de contraception », ils doivent être utilisés avec une autre méthode, telle qu’une méthode de contraception mécanique. </mj-text>
       </mj-column>
     </mj-section>
@@ -350,14 +350,14 @@
         <mj-text mj-class="sml"> <strong>ASAT</strong>&nbsp;: Aspartate aminotransférase ; <strong>ALAT</strong>&nbsp;: Alanine aminotransférase ; <strong>GGT</strong>&nbsp;: Gamma-glutamyl transférase. </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff">
+    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="10px">
       <mj-column>
         <mj-text color="#105e8e" font-size="16px" font-weight="700" line-height="24px"> Pour une information complète, se reporter au Résumé des Caractéristiques du Produit CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> </mj-text>
-        <mj-divider border-width="2px" border-color="#105e8e" />
+        <mj-divider border-width="2px" border-color="#105e8e" padding-top="15px" />
         <mj-text font-size="16px" line-height="24px"> <span style="color:#105E8E; font-weight:700;">CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> pour le traitement des tumeurs neuroendocrines non résécables ou métastatiques</span>
-          <br>Indication non remboursable et non agréé aux collectivités à la date du 23/01/2026. <br>Liste I. Médicament soumis à prescription hospitalière. Prescription réservée aux spécialistes en oncologie ou aux médecins compétents en cancérologie. <br>Médicament nécessitant une surveillance particulière pendant le traitement. <br>Pour une information complète, consultez le Résumé des Caractéristiques du Produit sur la base de données publique du médicament en <a style="color:#575756!important; text-decoration:none!important" href=" https://base-donnees-publique.medicaments.gouv.fr/index.php?page=1&choixRecherche=medicament&txtCaracteres=CABOMETYX" target="_blank"><span style="color:#575756;"><u>cliquant ici</u></span></a>
+          <br>Indication non remboursable et non agréé aux collectivités à la date du 23/01/2026. <br>Liste I. Médicament soumis à prescription hospitalière. Prescription réservée aux spécialistes en oncologie ou aux médecins compétents en cancérologie. <br>Médicament nécessitant une surveillance particulière pendant le traitement. <br>Pour une information complète, consultez le Résumé des Caractéristiques du Produit sur la base de données publique du médicament en <a style="color:#575756!important; text-decoration:none!important" href="https://base-donnees-publique.medicaments.gouv.fr/index.php?page=1&choixRecherche=medicament&txtCaracteres=CABOMETYX" target="_blank"><span style="color:#575756;"><u>cliquant ici</u></span></a>
         </mj-text>
-        <mj-divider border-width="2px" border-color="#105e8e" />
+        <mj-divider border-width="2px" border-color="#105e8e" padding-top="15px" />
         <!-- Bibliographie -->
         <mj-text color="#105e8e" font-size="16px" font-weight="700" line-height="24px"> Bibliographie </mj-text>
         <mj-table padding-top="0" font-family="Arial,sans-serif" font-size="16px" line-height="24px">
@@ -379,7 +379,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="0px" padding-bottom="0px">
       <mj-column>
-        <mj-text align="center" color="#777777"> Cet e-mail vous est adressé par VIDAL France pour le compte d’IPSEN en sa qualité de responsables du traitement. Les données personnelles traitées pour l'envoi de cette communication sont issues de la base de données des Professionnels de Santé de VIDAL France. IPSEN et VIDAL France ont conjointement sélectionné les groupes de Professionnels de Santé destinataires de cet e-mail. Dans le cadre de la mise en œuvre de cette opération, IPSEN n'est pas autorisé à accéder aux données (coordonnées, etc.) des Professionnels de Santé de la base VIDAL France. </mj-text>
+        <mj-text align="center" color="#777777"> Cet e-mail vous est adressé par VIDAL France et IPSEN en leur qualité de responsables conjoints du traitement. Les données personnelles traitées pour l'envoi de cette communication sont issues de la base de données des Professionnels de Santé de VIDAL France. IPSEN et VIDAL France ont conjointement déterminé les Professionnels de Santé destinataires de cet e-mail. Dans le cadre de la mise en œuvre de cette opération, IPSEN n'est pas autorisé à accéder aux données (coordonnées, etc.) des Professionnels de Santé de la base VIDAL France. </mj-text>
         <mj-text align="center" color="#777777"> Si vous ne souhaitez plus que VIDAL France vous envoie des communications concernant les Actus Santé Labos, <br><a style="color:#777777!important; text-decoration:none!important" href="#" target="_blank"><span style="color:#777777;"><u>veuillez cliquer ici pour vous désinscrire</u></span></a>. </mj-text>
         <mj-text align="center" color="#777777"> Si vous ne souhaitez plus recevoir de communications de la part de VIDAL France, vous pouvez gérer vos préférences en cliquant sur <a style="color:#777777!important; text-decoration:none!important" href="#" target="_blank"><span style="color:#777777;"><u>ce lien</u></span></a>. </mj-text>
         <mj-text align="center" color="#777777"> Pour plus d’informations sur la gestion de vos données et vos droits, vous pouvez consulter la <a style="color:#777777!important; text-decoration:none!important" href="#" target="_blank"><span style="color:#777777;"><u>Politique de protection des données personnelles de VIDAL France</u></span></a>. </mj-text>
@@ -387,10 +387,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="0px" padding-bottom="20px">
       <mj-column>
-        <mj-text align="center" color="#777777"> Pour exercer vos droits, veuillez contacter les DPO d’IPSEN&nbsp;: <a style="color:#777777!important; text-decoration:none!important" href="mailto:dataprivacy@ipsen.com" target="_blank"><span style="color:#777777;"><u>dataprivacy@ipsen.com</u></span></a>. <br>Pour en savoir pus sur le traitement de vos données, veuillez consulter notre site internet&nbsp;: <a style="color:#777777!important; text-decoration:none!important" href="https://www.ipsen.com/france/mentions-dinformation/" target="_blank"><span style="color:#777777;"><u>https://www.ipsen.com/france/mentions-dinformation/</u></span></a> </mj-text>
-        <mj-text align="center" color="#777777"> IPSEN s’engage à respecter la charte de l’information par démarchage ou prospection visant à la promotion des médicaments et le référentiel de certification de l’activité d’information par démarchage ou prospection visant à la promotion des médicaments en vigueur. Les collaborateurs d’IPSEN sont à votre disposition pour vous présenter les règles de déontologie formalisées par notre Entreprise et répondre à vos questions. </mj-text>
-        <mj-text align="center" color="#777777"> Tout commentaire/réclamation concernant la visite d’information promotionnelle du laboratoire IPSEN PHARMA peuvent être adressé à l’adresse suivante&nbsp;: <a style="color:#777777!important; text-decoration:none!important" href="mailto:qualite.charte.vm@ipsen.com" target="_blank"><span style="color:#777777;"><u>qualite.charte.vm@ipsen.com</u></span></a>. </mj-text>
-        <mj-text align="center" color="#777777"> IPSEN PHARMA SAS - 70 rue Balard, 75015 Paris - Tél.&nbsp;: 01.58.33.50.00. <br>- Info. Médic. : 01.58.33.58.20. - <a style="color:#777777!important; text-decoration:none!important" href="mailto:information.medicale@ipsen.com" target="_blank"><span style="color:#777777;"><u>information.medicale@ipsen.com</u></span></a>. </mj-text>
+
       </mj-column>
     </mj-section>
   </mj-body>
