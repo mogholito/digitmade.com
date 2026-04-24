@@ -39,7 +39,7 @@
         </mj-text>
         <mj-text mj-class="sml">Indication non remboursable et non agréé aux collectivités à la date du 23/01/2026. <br>Liste I. <br>Médicament soumis à prescription hospitalière. Prescription réservée aux spécialistes en oncologie ou aux médecins compétents en cancérologie. <br>Médicament nécessitant une surveillance particulière pendant le traitement.</mj-text>
         <!-- CABOMETYX® : ITK INHIBANT VEGFR, MET & AXL -->
-        <mj-text color="#105e8e" font-size="16px" font-weight="700" line-height="20px"> CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>&nbsp;: <span style="text-decoration: underline;">SEUL</span> ITK INHIBANT VEGFR, MET &amp; AXL <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup> </mj-text>
+        <mj-text color="#105e8e" font-size="16px" font-weight="700" line-height="20px"> CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>&nbsp;: ITK INHIBANT VEGFR, MET &amp; AXL <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup> </mj-text>
         <mj-image src="https://www.digitmade.com/projects/261600/img/illust1.png" alt="" padding="0" />
         <mj-text font-size="16px" line-height="24px" padding-bottom="0"> <span style="color:#105E8E;font-weight:700">CABOMETYX</span><sup style="color:#105E8E;font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> est une petite molécule inhibitrice de plusieurs récepteurs à activité tyrosine kinase, incluant <span style="color:#105E8E;font-weight:700">VEGFR</span>, <span style="color:#D61934;font-weight:700">MET</span>, et <span style="color:#45A3BA;font-weight:700">AXL</span> qui sont impliqués dans&nbsp;<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup>&nbsp;: </mj-text>
         <mj-table padding-top="0">
@@ -89,7 +89,7 @@
     </mj-section>
     <mj-section padding="25px">
       <mj-column css-class="rounded" background-color="#105E8E">
-        <mj-text color="#ffffff" line-height="22px" padding="10px 15px"> <strong>CABINET est une étude de phase III, américaine, multicentrique (62 centres), randomisée (2:1), en double aveugle, contrôlée vs placebo</strong>, dont l’objectif était d’évaluer l’efficacité et la tolérance de CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> vs placebo chez des patients adultes atteints de tumeurs neuroendocrines extra-pancréatiques (TNEep) ou pancréatiques (TNEp) bien différenciées, localement avancées ou métastatiques, ayant progressé après au moins un traitement antérieur autre que les analogues de la somatostatine. Deux cohortes indépendantes étaient menées en parallèle. Le critère principal d’évaluation était la survie sans progression. <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1,2)</sup> </mj-text>
+        <mj-text color="#ffffff" line-height="22px" padding="10px 15px"> CABINET est une étude de phase III, américaine, multicentrique (62 centres), randomisée (2:1), en double aveugle, contrôlée vs placebo, dont l’objectif était d’évaluer l’efficacité et la tolérance de CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> vs placebo chez des patients adultes atteints de tumeurs neuroendocrines extra-pancréatiques (TNEep) ou pancréatiques (TNEp) bien différenciées, localement avancées ou métastatiques, ayant progressé après au moins un traitement antérieur autre que les analogues de la somatostatine. Deux cohortes indépendantes étaient menées en parallèle. Le critère principal d’évaluation était la survie sans progression. <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1,2)</sup> </mj-text>
         <mj-text color="#ffffff" line-height="22px" font-style="italic" padding="10px 15px"> Pour plus d’informations sur la méthodologie de l’étude CABINET, les critères de sélection et les caractéristiques des patients à l’inclusion, cliquez-ici </mj-text>
       </mj-column>
     </mj-section>
@@ -111,10 +111,10 @@
     </mj-section>
     <mj-section padding-top="0">
       <mj-column>
-        <mj-image src="https://www.digitmade.com/projects/261600/img/tneep.png" alt="Cohorte TNEep" />
+        <mj-image src="https://www.digitmade.com/projects/261600/img/tneep-2.png" alt="Cohorte TNEep" />
       </mj-column>
       <mj-column>
-        <mj-image src="https://www.digitmade.com/projects/261600/img/tnep.png" alt="Cohorte TNEp" />
+        <mj-image src="https://www.digitmade.com/projects/261600/img/tnep-2.png" alt="Cohorte TNEp" />
       </mj-column>
     </mj-section>
     <mj-section padding-top="0">
@@ -221,9 +221,9 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
       <mj-column>
-        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="30px" font-size="10px" padding-bottom="0">CONTRE-INDICATIONS</mj-button>
+        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="30px" font-size="10px" padding-bottom="0">CONTRE-INDICATIONS <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
         <mj-text mj-class="sml"> Hypersensibilité au principe actif ou à l’un des excipients. </mj-text>
-        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="30px" font-size="10px" padding-bottom="0">MISES EN GARDE, PRÉCAUTIONS D’EMPLOI ET CONDUITE À TENIR </mj-button>
+        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="30px" font-size="10px" padding-bottom="0">MISES EN GARDE, PRÉCAUTIONS D’EMPLOI ET CONDUITE À TENIR <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
         <mj-text mj-class="sml" padding-bottom="0"> <strong>Comme la plupart des effets indésirables surviennent au début du traitement, le médecin doit surveiller le patient de façon rapprochée pendant les 8 premières semaines de traitement afin de déterminer si une adaptation de la dose est nécessaire.</strong> Les effets indésirables qui généralement surviennent précocement sont&nbsp;: hypocalcémie, hypokaliémie, thrombopénie, hypertension, syndrome d’érythrodysesthésie palmo-plantaire, protéinurie et effets gastro-intestinaux (douleur abdominale, inflammation des muqueuses, constipation, diarrhée et vomissements). La prise en charge des effets indésirables suspectés peut nécessiter une réduction de la posologie ou une interruption temporaire du traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Des réductions de la posologie et des interruptions de traitement en raison d’un événement indésirable sont survenues chez 46 à 67&nbsp;% et 70 à 84&nbsp;%, respectivement, des patients traités par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> dans les essais cliniques pivots en monothérapie (dont l'essai CABINET dans les TNE). Deux réductions de la posologie ont été nécessaires chez 9,4&nbsp;% à 33&nbsp;% des patients. Le délai médian jusqu’à la première réduction de la posologie était de 38 à 106 jours et le délai jusqu’à la première interruption de traitement était de 28 à 68 jours. </mj-text>
       </mj-column>
     </mj-section>
@@ -330,7 +330,7 @@
     <!-- MISES EN GARDE, PRÉCAUTIONS D’EMPLOI ET CONDUITE À TENIR -->
     <mj-section background-color="#ffffff" padding-bottom="0">
       <mj-column>
-        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="30px" font-size="10px" padding-bottom="0">MISES EN GARDE, PRÉCAUTIONS D’EMPLOI ET CONDUITE À TENIR </mj-button>
+        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="30px" font-size="10px" padding-bottom="0">MISES EN GARDE, PRÉCAUTIONS D’EMPLOI ET CONDUITE À TENIR <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
         <mj-text mj-class="sml" padding-bottom="0"> <strong>Femmes en capacité de procréer/Contraception chez les hommes et les femmes</strong>&nbsp;: Il convient de conseiller aux femmes en capacité de procréer d’éviter toute grossesse pendant le traitement sous CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Les partenaires de sexe féminin de patients de sexe masculin traités par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> doivent également éviter de tomber enceintes. Des méthodes de contraception efficaces doivent être utilisées par les patients de sexes masculin et féminin et par leurs partenaires pendant toute la durée du traitement et pendant au moins 4 mois après la fin du traitement. Sachant que les contraceptifs oraux ne peuvent pas être considérés comme des « méthodes efficaces de contraception », ils doivent être utilisés avec une autre méthode, telle qu’une méthode de contraception mécanique. </mj-text>
       </mj-column>
     </mj-section>
@@ -375,14 +375,16 @@
           </tr>
         </mj-table>
         <mj-image src="https://www.digitmade.com/projects/261600/img/footer900w.png" alt="" align="center" padding="0" />
+        <mj-text align="center" color="#777777" padding-top="20px" padding-bottom="15px"> IPSEN PHARMA SAS - 70 rue Balard, 75015 Paris - Tél.&nbsp;: 01.58.33.50.00. <br>- Info. Médic. : 01.58.33.58.20. - <a style="color:#777777!important; text-decoration:none!important" href="mailto:information.medicale@ipsen.com" target="_blank"><span style="color:#777777;"><u>information.medicale@ipsen.com</u></span></a>. </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0px" padding-bottom="0px">
+    <mj-section background-color="#F5F5F5" padding-top="0px" padding-bottom="0px">
       <mj-column>
-        <mj-text align="center" color="#777777"> Cet e-mail vous est adressé par VIDAL France et IPSEN en leur qualité de responsables conjoints du traitement. Les données personnelles traitées pour l'envoi de cette communication sont issues de la base de données des Professionnels de Santé de VIDAL France. IPSEN et VIDAL France ont conjointement déterminé les Professionnels de Santé destinataires de cet e-mail. Dans le cadre de la mise en œuvre de cette opération, IPSEN n'est pas autorisé à accéder aux données (coordonnées, etc.) des Professionnels de Santé de la base VIDAL France. </mj-text>
-        <mj-text align="center" color="#777777"> Si vous ne souhaitez plus que VIDAL France vous envoie des communications concernant les Actus Santé Labos, <br><a style="color:#777777!important; text-decoration:none!important" href="#" target="_blank"><span style="color:#777777;"><u>veuillez cliquer ici pour vous désinscrire</u></span></a>. </mj-text>
-        <mj-text align="center" color="#777777"> Si vous ne souhaitez plus recevoir de communications de la part de VIDAL France, vous pouvez gérer vos préférences en cliquant sur <a style="color:#777777!important; text-decoration:none!important" href="#" target="_blank"><span style="color:#777777;"><u>ce lien</u></span></a>. </mj-text>
-        <mj-text align="center" color="#777777"> Pour plus d’informations sur la gestion de vos données et vos droits, vous pouvez consulter la <a style="color:#777777!important; text-decoration:none!important" href="#" target="_blank"><span style="color:#777777;"><u>Politique de protection des données personnelles de VIDAL France</u></span></a>. </mj-text>
+        <mj-text mj-class="sml" align="center" color="#777777"> Cet e-mail vous est adressé par VIDAL France et IPSEN en leur qualité de responsables conjoints du traitement. Les données personnelles traitées pour l'envoi de cette communication sont issues de la base de données des Professionnels de Santé de VIDAL France. IPSEN et VIDAL France ont conjointement déterminé les Professionnels de Santé destinataires de cet e-mail. Dans le cadre de la mise en œuvre de cette opération, IPSEN n'est pas autorisé à accéder aux données (coordonnées, etc.) des Professionnels de Santé de la base VIDAL&nbsp;France. </mj-text>
+        <mj-text mj-class="sml" align="center" color="#777777"> IPSEN s’engage à respecter la charte de l’information par démarchage ou prospection visant à la promotion des médicaments et le référentiel de certification de l’activité d’information par démarchage ou prospection visant à la promotion des médicaments en vigueur. Les collaborateurs d’IPSEN sont à votre disposition pour vous présenter les règles de déontologie formalisées par notre Entreprise et répondre à vos questions. Tout commentaire/réclamation concernant la visite d’information promotionnelle du laboratoire IPSEN PHARMA peuvent être adressé à l’adresse suivante&nbsp;: <a style="color:#777777!important; text-decoration:none!important" href="mailto: qualite.charte.vm@ipsen.com" target="_blank"><span style="color:#777777;"><u>qualite.charte.vm@ipsen.com</u></span></a> </mj-text>
+        <mj-text mj-class="sml" align="center" color="#777777"> Si vous ne souhaitez plus que VIDAL France vous envoie des communications concernant les Actus Santé Labos, <a style="color:#777777!important; text-decoration:none!important" href="#" target="_blank"><span style="color:#777777;"><u>veuillez cliquer ici pour vous désinscrire</u></span></a>. </mj-text>
+        <mj-text mj-class="sml" align="center" color="#777777"> Si vous ne souhaitez plus recevoir de communications de la part de VIDAL France, vous pouvez gérer vos préférences en cliquant sur <a style="color:#777777!important; text-decoration:none!important" href="#" target="_blank"><span style="color:#777777;"><u>ce lien</u></span></a>. </mj-text>
+        <mj-text mj-class="sml" align="center" color="#777777"> Pour plus d’informations sur la gestion de vos données et vos droits, vous pouvez consulter la <a style="color:#777777!important; text-decoration:none!important" href="#" target="_blank"><span style="color:#777777;"><u>Politique de protection des données personnelles de VIDAL France</u></span></a>. </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="0px" padding-bottom="20px">
