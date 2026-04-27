@@ -12,7 +12,7 @@
     </mj-raw>
     <mj-attributes>
       <mj-section background-color="#fff" padding-bottom="10px" padding-top="10px" />
-      <mj-text align="left" color="#575756" font-family="Arial,sans-serif" font-size="14px" line-height="20px" />
+      <mj-text align="justify" color="#575756" font-family="Arial,sans-serif" font-size="14px" line-height="20px" />
       <mj-table align="left" color="#575756" font-family="Arial,sans-serif" font-size="14px" line-height="20px" />
       <mj-button background-color="#575756" border-radius="0" font-family="Arial,sans-serif" font-size="16px" font-weight="700" />
       <mj-class name="sml" font-size="13px" line-height="17px" />
@@ -88,7 +88,7 @@
       </mj-column>
     </mj-section>
     <mj-section padding="25px">
-      <mj-column css-class="rounded" background-color="#105E8E">
+      <mj-column css-class="" background-color="#105E8E">
         <mj-text color="#ffffff" line-height="22px" padding="10px 15px"> CABINET est une étude de phase III, américaine, multicentrique (62 centres), randomisée (2:1), en double aveugle, contrôlée vs placebo, dont l’objectif était d’évaluer l’efficacité et la tolérance de CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> vs placebo chez des patients adultes atteints de tumeurs neuroendocrines extra-pancréatiques (TNEep) ou pancréatiques (TNEp) bien différenciées, localement avancées ou métastatiques, ayant progressé après au moins un traitement antérieur autre que les analogues de la somatostatine. Deux cohortes indépendantes étaient menées en parallèle. Le critère principal d’évaluation était la survie sans progression. <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1,2)</sup> </mj-text>
         <mj-text color="#ffffff" line-height="22px" font-style="italic" padding="10px 15px"> Pour plus d’informations sur la méthodologie de l’étude CABINET, les critères de sélection et les caractéristiques des patients à l’inclusion, cliquez-ici </mj-text>
       </mj-column>
