@@ -1,4 +1,4 @@
-<mjml>
+<mjml lang="fr">
   <mj-head>
     <mj-raw>
       <!--[if mso | IE
@@ -12,13 +12,13 @@
     </mj-raw>
     <mj-attributes>
       <mj-section background-color="#fff" padding-bottom="10px" padding-top="10px" />
-      <mj-text align="justify" color="#575756" font-family="Arial,sans-serif" font-size="14px" line-height="20px" />
+      <mj-text align="justify" color="#575756" css-class="hyphenate" font-family="Arial,sans-serif" font-size="14px" line-height="20px" />
       <mj-table align="left" color="#575756" font-family="Arial,sans-serif" font-size="14px" line-height="20px" />
       <mj-button background-color="#575756" border-radius="0" font-family="Arial,sans-serif" font-size="16px" font-weight="700" />
       <mj-class name="sml" font-size="13px" line-height="17px" />
       <mj-class name="email_link" align="center" color="#6a6a6a" font-size="11px" line-height="1.4" />
     </mj-attributes>
-    <mj-style> .no-hyphens { hyphens: none; } .copy { font-size: 12px; } .va-top { vertical-align: top; padding-bottom: 4px } .bullet { width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly; } .list { font-size:14px; line-height:20px; padding-bottom:4px; mso-line-height-rule:exactly; } </mj-style>
+    <mj-style> .hyphenate { -webkit-hyphens: auto; -ms-hyphens: auto; hyphens: auto; word-break: normal; overflow-wrap: normal; } .no-hyphens { -webkit-hyphens: none; -ms-hyphens: none; hyphens: none; } .copy { font-size: 12px; } .va-top { vertical-align: top; padding-bottom: 4px } .bullet { width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly; } .list { font-size:14px; line-height:20px; padding-bottom:4px; mso-line-height-rule:exactly; } </mj-style>
     <mj-style> @media only screen and (max-width: 600px) { .appleLinks a { color: #000000 !important; text-decoration: none !important; } .appleLinksWhite a { color: #ffffff !important; text-decoration: none !important; } .table-scroll { overflow-x: auto; overflow-y: hidden; width: calc(97vw - 100px); } .table-scroll table { width: 550px !important; } .img-center-on-sm { padding-left: 25px !important; padding-right: 25px !important; text-align:center !important; } .center-on-sm { padding-left:15px !important; padding-right:15px !important; } .center-on-sm div { text-align: center !important; } .center-on-sm table { margin: 0 auto !important; } .default-width-on-sm > table td {width:100% !important; padding-right: 10px !important; padding-left: 10px !important; } .default-hpad-on-sm { padding-right: 25px !important; padding-left: 25px !important; } } @media only screen and (max-width: 480px) { } </mj-style>
     <mj-style inline="inline"> .rounded > table { border-collapse:separate; border-radius:20px; } </mj-style>
   </mj-head>

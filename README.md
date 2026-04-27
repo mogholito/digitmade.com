@@ -18,9 +18,10 @@ A single page website for DigitMade.
 ├── CNAME                        # Custom domain configuration
 ├── robots.txt                   # Robots directives
 ├── magic-wand-metrize-icon.cur  # Site favicon (cursor)
-├── assets/                       # Minified assets
+├── digitmade.com.code-workspace # VS Code workspace config
+├── assets/                      # Minified assets
 │   ├── script.min.js
-│   └── style.css
+│   ├── style.css
 │   └── magic-wand-metrize-white-icon.cur
 ├── css/                         # Stylesheets
 │   ├── font-awesome.min.css
@@ -42,9 +43,25 @@ A single page website for DigitMade.
     │   ├── index.mjml
     │   ├── README.md
     │   └── img/
-    └── 260600/
-        ├── index.html
+    ├── 260600/
+    │   ├── index.html
+    │   ├── index.mjml
+    │   ├── README.md
+    │   └── img/
+    ├── 261600/
+    │   ├── index.html
+    │   ├── index.mjml
+    │   ├── README.md
+    │   ├── diff_only_html.txt
+    │   ├── diff_only_pdf.txt
+    │   ├── html_extracted.txt
+    │   ├── pdf_extracted.txt
+    │   └── img/
+    └── 261701/
+        ├── index.html            # Version 2 (current)
         ├── index.mjml
+        ├── index0.html           # Version 1 (archived)
+        ├── index0.mjml
         ├── README.md
         └── img/
 ```
