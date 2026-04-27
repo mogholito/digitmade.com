@@ -1,19 +1,24 @@
-# Project 261600 - CABOMETYX Email Campaign
+# Project 261701 - CABOMETYX Email Campaign
 
 ## Overview
 This project contains an email template for CABOMETYX® (cabozantinib), a pharmaceutical product by IPSEN for the treatment of neuroendocrine tumors (NETs).
 
 ## Project Structure
 ```
-261600/
+261701/
+├── NL_Them_CABOMETYX_IPSEN_VF2_300126 (1).pdf   # Source PDF
 ├── index.mjml          # MJML source file
 ├── index.html          # Compiled HTML email
+├── index0.mjml         # Archived v1 MJML
+├── index0.html         # Archived v1 HTML
 ├── img/                # Image assets folder
 │   ├── header1200w.png
 │   ├── footer900w.png
 │   ├── illust1.png
 │   ├── tneep.png
 │   ├── tnep.png
+│   ├── tneep-2.png
+│   ├── tnep-2.png
 │   ├── suivi-median.png
 │   ├── hr038.png
 │   ├── hr023.png
@@ -29,7 +34,8 @@ This project contains an email template for CABOMETYX® (cabozantinib), a pharma
 │   ├── btn-mise-en-garde.png
 │   ├── btn-resume-profil-tolerance.png
 │   ├── btn-tneep.png
-│   └── btn-tnep.png
+│   ├── btn-tnep.png
+│   └── plan1.dwg
 └── README.md           # This file
 ```
 
@@ -73,13 +79,13 @@ mjml -w index.mjml -o index.html
 - **Language**: French
 
 ## Notes
-- The HTML is accessible at: `https://www.digitmade.com/projects/261600/`
-- All images are hosted on: `https://www.digitmade.com/projects/261600/img/`
+- The HTML is accessible at: `https://www.digitmade.com/projects/261701/`
+- All images are hosted on: `https://www.digitmade.com/projects/261701/img/`
 
 To push the project:
 ```bash
-cd "/Users/minht.vu/DigitMade/DM website/digitmade.com" && git add projects/261600/ && git commit -m "Update projects/261600 with latest changes" && git push origin main
+cd "/Users/minhtvu/DigitMade/DM website/digitmade.com" && git add projects/261701/ && git commit -m "Update projects/261701 with latest changes" && git push origin main
 ```
 
 ## Last Updated
-January 29, 2026
+April 27, 2026
