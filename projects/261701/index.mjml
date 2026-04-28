@@ -147,7 +147,7 @@
           </tr>
         </mj-table>
         <!-- Cohorte TNEep -->
-        <mj-button align="left" background-color="#00558A" inner-padding="5px 10px" border-radius="30px" font-size="13px">Cohorte TNEep</mj-button>
+        <mj-button align="left" background-color="#00558A" inner-padding="5px 10px" border-radius="0" font-size="13px">Cohorte TNEep</mj-button>
         <mj-text color="#6f004c" font-size="16px"> <strong>Durée médiane de traitement&nbsp;:</strong> mois [intervalle] </mj-text>
         <mj-image src="https://www.digitmade.com/projects/261701/img/duree-mediane.png" alt="Durée médiane de traitement" />
         <mj-text color="#6f004c" font-size="16px" font-weight="700"> Incidence des événements indésirables (EI) </mj-text>
@@ -173,7 +173,7 @@
     <!-- Cohorte TNEp -->
     <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
       <mj-column>
-        <mj-button align="left" background-color="#45A3BA" inner-padding="5px 10px" border-radius="30px" font-size="13px">Cohorte TNEp</mj-button>
+        <mj-button align="left" background-color="#45A3BA" inner-padding="5px 10px" border-radius="0" font-size="13px">Cohorte TNEp</mj-button>
         <mj-text color="#6f004c" font-size="16px"> <strong>Durée médiane de traitement&nbsp;:</strong> mois [intervalle] </mj-text>
         <mj-image src="https://www.digitmade.com/projects/261701/img/duree-mediane-tnep.png" alt="Durée médiane de traitement" />
         <mj-text color="#6f004c" font-size="16px" font-weight="700"> Incidence des événements indésirables (EI) </mj-text>
@@ -206,14 +206,14 @@
             </td>
           </tr>
         </mj-table>
-        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="30px" font-size="13px">Résumé du profil de tolérance <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
+        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="0" font-size="13px">Résumé du profil de tolérance <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
         <mj-text font-size="16px" line-height="24px"> Dans la population atteinte de TNE, les effets indésirables graves les plus fréquents (&ge; 1%) sont&nbsp;: hypertension, fatigue, embolie pulmonaire, vomissement, diarrhée, nausée, embolie. </mj-text>
         <mj-text font-size="16px" line-height="24px"> Effets indésirables les plus fréquents tous grades et toutes populations confondus (&ge; 25&nbsp;%)&nbsp;: diarrhée, fatigue, nausée, appétit diminué, syndrome d’erythrodysesthésie palmo-plantaire (SEPP), hypertension. </mj-text>
         <mj-text font-size="16px" line-height="24px"> Effets indésirables peu fréquents (&ge; 1/1000 à &lt; 1/100)&nbsp;: convulsion, accident cérébrovasculaire, syndrome d’encéphalopathie postérieure réversible, infarctus du myocarde aigu, crise aiguë d’hypertension, thrombose artérielle, embolie artérielle, pneumothorax, glossodynie, hépatite cholestatique, ostéonécrose de la mâchoire, complications de plaie. </mj-text>
         <mj-text font-size="16px" line-height="24px"> Effets indésirables avec une fréquence indéterminée (ne peut être estimée à partir des données disponibles)&nbsp;: anévrismes et dissections artérielles, vasculite cutanée. </mj-text>
         <mj-text color="#105E8E" font-size="16px" font-weight="700" line-height="24px"> Déclarez immédiatement tout effet indésirable suspecté d’être dû à un médicament à votre Centre régional de pharmacovigilance (CRPV) ou sur <a style="color:#105E8E!important; text-decoration:none!important" href="https://signalement.social-sante.gouv.fr" target="_blank"><span style="color:#105E8E;">https://signalement.social-sante.gouv.fr</span></a> </mj-text>
         <!-- Effets indésirables -->
-        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="30px" font-size="13px">Effets indésirables <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
+        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="0" font-size="13px">Effets indésirables <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
         <mj-text font-size="16px" line-height="24px"> Très fréquents (&ge; 1/10) et fréquents (de &ge; 1/100 à &lt; 1/10) rapportés au cours des études cliniques ou lors de la commercialisation chez les patients traités par CABOMETYX</span><sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> en monothérapie. <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup> </mj-text>
         <mj-image src="https://www.digitmade.com/projects/261701/img/effets-indesirables-table.png" alt="Tableau Effets indésirables" padding-top="0" padding-bottom="0" />
         <mj-text mj-class="sml"> *Des cas mortels ont été rapportés. <br>**Eruption cutanée est un terme composite qui inclut&nbsp;: dermatite, dermatite acnéiforme, dermite bulleuse, éruption cutanée avec exfoliation, éruption cutanée érythémateuse, éruption cutanée folliculaire, éruption cutanée maculaire, éruption cutanée maculo-papuleuse, éruption cutanée papuleuse, éruption cutanée prurigineuse et éruption d’origine médicamenteuse. </mj-text>
@@ -221,9 +221,9 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
       <mj-column>
-        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="30px" font-size="10px" padding-bottom="0">CONTRE-INDICATIONS <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
+        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="0" font-size="10px" padding-bottom="0">CONTRE-INDICATIONS <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
         <mj-text mj-class="sml"> Hypersensibilité au principe actif ou à l’un des excipients. </mj-text>
-        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="30px" font-size="10px" padding-bottom="0">MISES EN GARDE, PRÉCAUTIONS D’EMPLOI ET CONDUITE À TENIR <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
+        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="0" font-size="10px" padding-bottom="0">MISES EN GARDE, PRÉCAUTIONS D’EMPLOI ET CONDUITE À TENIR <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
         <mj-text mj-class="sml" padding-bottom="0"> <strong>Comme la plupart des effets indésirables surviennent au début du traitement, le médecin doit surveiller le patient de façon rapprochée pendant les 8 premières semaines de traitement afin de déterminer si une adaptation de la dose est nécessaire.</strong> Les effets indésirables qui généralement surviennent précocement sont&nbsp;: hypocalcémie, hypokaliémie, thrombopénie, hypertension, syndrome d’érythrodysesthésie palmo-plantaire, protéinurie et effets gastro-intestinaux (douleur abdominale, inflammation des muqueuses, constipation, diarrhée et vomissements). La prise en charge des effets indésirables suspectés peut nécessiter une réduction de la posologie ou une interruption temporaire du traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Des réductions de la posologie et des interruptions de traitement en raison d’un événement indésirable sont survenues chez 46 à 67&nbsp;% et 70 à 84&nbsp;%, respectivement, des patients traités par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> dans les essais cliniques pivots en monothérapie (dont l'essai CABINET dans les TNE). Deux réductions de la posologie ont été nécessaires chez 9,4&nbsp;% à 33&nbsp;% des patients. Le délai médian jusqu’à la première réduction de la posologie était de 38 à 106 jours et le délai jusqu’à la première interruption de traitement était de 28 à 68 jours. </mj-text>
       </mj-column>
     </mj-section>
@@ -330,7 +330,7 @@
     <!-- MISES EN GARDE, PRÉCAUTIONS D’EMPLOI ET CONDUITE À TENIR -->
     <mj-section background-color="#ffffff" padding-bottom="0">
       <mj-column>
-        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="30px" font-size="10px" padding-bottom="0">MISES EN GARDE, PRÉCAUTIONS D’EMPLOI ET CONDUITE À TENIR <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
+        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="0" font-size="10px" padding-bottom="0">MISES EN GARDE, PRÉCAUTIONS D’EMPLOI ET CONDUITE À TENIR <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
         <mj-text mj-class="sml" padding-bottom="0"> <strong>Femmes en capacité de procréer/Contraception chez les hommes et les femmes</strong>&nbsp;: Il convient de conseiller aux femmes en capacité de procréer d’éviter toute grossesse pendant le traitement sous CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Les partenaires de sexe féminin de patients de sexe masculin traités par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> doivent également éviter de tomber enceintes. Des méthodes de contraception efficaces doivent être utilisées par les patients de sexes masculin et féminin et par leurs partenaires pendant toute la durée du traitement et pendant au moins 4 mois après la fin du traitement. Sachant que les contraceptifs oraux ne peuvent pas être considérés comme des « méthodes efficaces de contraception », ils doivent être utilisés avec une autre méthode, telle qu’une méthode de contraception mécanique. </mj-text>
       </mj-column>
     </mj-section>
