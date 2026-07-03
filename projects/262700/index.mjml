@@ -186,7 +186,7 @@
 
     <mj-section background-color="#f1efed" padding-bottom="0">
       <mj-column>
-        <mj-text css-class="no-hyphen" align="left" color="#5f3187" font-size="21px" line-height="30px" padding-bottom="0"> <strong>Erleada<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">®</sup> pour vos patients avec un cancer de la prostate<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;"> 2,3</sup></strong> </mj-text>
+        <mj-text css-class="no-hyphen" align="left" color="#5f3187" font-size="21px" line-height="30px" padding-bottom="0"> <strong>Erleada<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">®</sup> pour vos patients avec un cancer de la prostate<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">&nbsp;2,3</sup></strong> </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#f1efed" padding-top="0" >
@@ -195,7 +195,7 @@
           <tr>
             <td width="8%" style="vertical-align:top; padding-top:2px; padding-left:10px; width:8%; font-size:12px; mso-line-height-rule:exactly;">●</td>
             <td width="92%" style="padding-bottom:0px; vertical-align:middle; width:92%;">
-              <div style="font-family: Arial,sans-serif; font-size:14px; line-height:22px;"> <strong>Sensible à la castration</strong><sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;"> 2,3</sup> </div>
+              <div style="font-family: Arial,sans-serif; font-size:14px; line-height:22px;"> <strong>Sensible à la castration</strong><sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">&nbsp;2,3</sup> </div>
             </td>
           </tr>
           <tr>
