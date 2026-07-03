@@ -6,7 +6,6 @@ This project contains an email template for CABOMETYX® (cabozantinib), a pharma
 ## Project Structure
 ```
 261701/
-├── NL_Them_CABOMETYX_IPSEN_VF2_300126 (1).pdf   # Source PDF
 ├── index.mjml          # MJML source file
 ├── index.html          # Compiled HTML email
 ├── index0.mjml         # Archived v1 MJML
