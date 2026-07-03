@@ -277,7 +277,7 @@
     </mj-section>
     <mj-section padding-top="0">
       <mj-column>
-        <mj-button href="/BUM_ERLEADA.pdf" background-color="#c5d300" color="#ffffff" inner-padding="10px 20px" border-radius="0" font-size="16px" padding="10px 15px" width="100%">Données de Bon Usage et de Tolérance Générale</mj-button>
+        <mj-button href="https://www.digitmade.com/projects/262700/BUM_ERLEADA.pdf" background-color="#c5d300" color="#ffffff" inner-padding="10px 20px" border-radius="0" font-size="16px" padding="10px 15px" width="100%">Données de Bon Usage et de Tolérance Générale</mj-button>
       </mj-column>
     </mj-section>
     <!-- BON USAGE ERLEADA -->
