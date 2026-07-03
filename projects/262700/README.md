@@ -1,61 +1,78 @@
-# Project 262700 - Johnson & Johnson - ERLEADA Email Campaign
+# Project 262700 - ERLEADA Email Campaign
 
 ## Overview
-This project contains an email template for Johnson & Johnson - ERLEADA® , a pharmaceutical product by IPSEN for the treatment of neuroendocrine tumors (NETs).
+This project contains the French MJML email template for ERLEADA (apalutamide), built for Johnson & Johnson.
+
+The email highlights the final analysis of the TITAN study, ERLEADA indications, efficacy messaging, safety information, contraindications, precautions, interactions, and prescribing references.
 
 ## Project Structure
 ```
 262700/
-├── index.mjml          # MJML source file
+├── BUM_ERLEADA.pdf     # Source prescribing information/reference PDF
+├── index.mjml          # Main MJML source file
 ├── index.html          # Compiled HTML email
-├── img/                # Image assets folder
+├── index0.mjml         # Alternate/archived MJML version kept with the project
+├── img/                # Campaign image assets
 └── README.md           # This file
 ```
 
 ## Technology
-- **MJML Framework**: Responsive email markup language
-- **Output**: HTML email compatible with major email clients
-- **Styling**: Inline CSS with responsive breakpoints for mobile devices
+- **MJML**: Responsive email markup language
+- **Output**: HTML email for major email clients
+- **Styling**: Inline email-safe CSS with responsive mobile rules
 
 ## Development
 
-### Compiling MJML to HTML
-To compile the MJML file to HTML:
+### Compile MJML to HTML
+```bash
+cd "/Users/minhtvu/DigitMade/DM website/digitmade.com/projects/262700"
+mjml index.mjml -o index.html
+```
+
+For iterative work:
 
 ```bash
-# Using MJML CLI
-mjml index.mjml -o index.html
-
-# Or with watch mode for development
+cd "/Users/minhtvu/DigitMade/DM website/digitmade.com/projects/262700"
 mjml -w index.mjml -o index.html
 ```
 
 ### Requirements
-- MJML CLI installed (`npm install -g mjml`)
-- Web server for previewing (optional)
+- MJML CLI installed: `npm install -g mjml`
+- A browser or email testing tool for previewing the compiled HTML
+
+## Content Highlights
+- TITAN final analysis headline and efficacy claims
+- Indications for mHSPC and nmCRPC high-risk patients
+- Contraindications and warnings/precautions blocks
+- Safety tables and adverse-event content
+- Footer links to the summary of product characteristics and Johnson & Johnson website
 
 ## Features
-- Fully responsive design (desktop, tablet, mobile)
-- Outlook/MSO compatibility
-- Proper superscript rendering across email clients
-- Custom bullet styling
-- Rounded corner sections
-- Horizontal scrolling tables for mobile devices
+- Responsive layout for desktop and mobile email clients
+- Outlook/MSO compatibility handling
+- Email-safe button and table layouts
+- Mobile horizontal scrolling support for wide tables
+- Superscript-heavy medical references rendered for email clients
 
 ## Client Information
-- **Client**: VIDAL France
-- **Product**: Johnson & Johnson - ERLEADA® 
-- **Campaign Type**: Healthcare Professional Communication
+- **Client**: Johnson & Johnson
+- **Product**: ERLEADA (apalutamide)
+- **Campaign Type**: Healthcare professional email communication
 - **Language**: French
 
 ## Notes
-- The HTML is accessible at: `https://www.digitmade.com/projects/262700/`
-- All images are hosted on: `https://www.digitmade.com/projects/262700/img/`
+- Project URL: `https://www.digitmade.com/projects/262700/`
+- Asset base URL: `https://www.digitmade.com/projects/262700/img/`
+- Deployment flow: push changes to `main`
 
-To push the project:
+To publish project updates:
+
 ```bash
-cd "/Users/minhtvu/DigitMade/DM website/digitmade.com" && git add projects/262700/ && git commit -m "Update projects/262700 with latest changes" && git push origin main
+cd "/Users/minhtvu/DigitMade/DM website/digitmade.com"
+git add projects/262700
+git commit -m "Update project 262700"
+git push origin main
 ```
 
 ## Last Updated
-July 1, 2026
+July 3, 2026

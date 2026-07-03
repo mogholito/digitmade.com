@@ -32,10 +32,10 @@ A single page website for DigitMade.
 │       ├── jquery.min.js
 │       └── jquery.tweet.js
 ├── img/                         # Images
-└── infogestion/                 # Info & Gestion section
-    ├── index.html
-    ├── css/styles.css
-    └── js/script.js
+├── infogestion/                 # Info & Gestion section
+│   ├── index.html
+│   ├── css/styles.css
+│   └── js/script.js
 └── projects/                    # Project email templates
     ├── 260500/
     │   ├── 260500.code-workspace
@@ -57,10 +57,17 @@ A single page website for DigitMade.
     │   ├── html_extracted.txt
     │   ├── pdf_extracted.txt
     │   └── img/
-    └── 261701/
-        ├── index.html            # Version 2 (current)
+    ├── 261701/
+    │   ├── index.html            # Version 2 (current)
+    │   ├── index.mjml
+    │   ├── index0.html           # Version 1 (archived)
+    │   ├── index0.mjml
+    │   ├── README.md
+    │   └── img/
+    └── 262700/
+        ├── BUM_ERLEADA.pdf
+        ├── index.html
         ├── index.mjml
-        ├── index0.html           # Version 1 (archived)
         ├── index0.mjml
         ├── README.md
         └── img/
