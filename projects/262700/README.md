@@ -72,6 +72,9 @@ cd "/Users/minhtvu/DigitMade/DM website/digitmade.com"
 git add projects/262700
 git commit -m "Update project 262700"
 git push origin main
+
+# Example
+cd '/Users/minhtvu/DigitMade/DM website/digitmade.com' && git add README.md projects/262700/index.html && git commit -m "Regenerate 262700 HTML output" && git push origin main
 ```
 
 ## Last Updated
