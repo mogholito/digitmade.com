@@ -67,8 +67,8 @@ A single page website for DigitMade.
     └── 262700/
         ├── BUM_ERLEADA.pdf
         ├── index.html
-        ├── index.mjml
-        ├── index0.mjml
+        ├── index.mjml            # Version 1 (current)
+        ├── index0.mjml           # Pre-version (archived)
         ├── README.md
         └── img/
 ```
