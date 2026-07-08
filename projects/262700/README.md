@@ -9,6 +9,8 @@ The email highlights the final analysis of the TITAN study, ERLEADA indications,
 ```
 262700/
 ├── BUM_ERLEADA.pdf     # Source prescribing information/reference PDF
+├── files/
+│   └── sources.zip     # Import package (index.html + img/ + BUM_ERLEADA.pdf)
 ├── index.mjml          # Main MJML source file
 ├── index.html          # Compiled HTML email
 ├── index0.mjml         # Alternate/archived MJML version kept with the project
