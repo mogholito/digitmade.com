@@ -30,7 +30,7 @@
     </mj-section>
     <mj-section padding-top="0">
       <mj-column>
-        <mj-image src="https://digitmade.test/projects/263800/img/header-group4.png" alt="Pomóż swoim pacjentom zadbać o aktualną ochronę" padding="0" />
+        <mj-image src="https://www.digitmade.com/projects/263800//img/header-group4.png" alt="Pomóż swoim pacjentom zadbać o aktualną ochronę" padding="0" />
       </mj-column>
     </mj-section>
     <!-- First Section -->
@@ -48,7 +48,7 @@
         <mj-table cellpadding="0" cellspacing="0" width="100%">
           <tr>
             <td width="32" style="padding-right: 12px; vertical-align:middle;">
-              <img src="https://digitmade.test/projects/263800/img/Frame-10-1.png" alt="" width="32" height="32" style="display:block; width:32px; height:32px; border:0;" />
+              <img src="https://www.digitmade.com/projects/263800//img/Frame-10-1.png" alt="" width="32" height="32" style="display:block; width:32px; height:32px; border:0;" />
             </td>
             <td style="border-left:1px solid #826FA9; padding-left:12px; font-family:Arial,sans-serif; font-size:13.7px; line-height:20px; color:#3A3A3A; vertical-align:middle;">COVID-19 nadal krąży i ewoluuje.<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">1,2</sup></td>
           </tr>
@@ -56,7 +56,7 @@
         <mj-table cellpadding="0" cellspacing="0" width="100%">
           <tr>
             <td width="32" style="padding-right: 12px; vertical-align:middle;">
-              <img src="https://digitmade.test/projects/263800/img/Frame-10-2.png" alt="" width="32" height="32" style="display:block; width:32px; height:32px; border:0;" />
+              <img src="https://www.digitmade.com/projects/263800//img/Frame-10-2.png" alt="" width="32" height="32" style="display:block; width:32px; height:32px; border:0;" />
             </td>
             <td style="padding-left:12px; border-left:1px solid #826FA9; padding-left:12px; font-family:Arial,sans-serif; font-size:13.7px; line-height:20px; color:#3A3A3A; vertical-align:middle;">Warianty SARS-CoV-2 są nadal monitorowane.</td>
           </tr>
@@ -64,7 +64,7 @@
         <mj-table cellpadding="0" cellspacing="0" width="100%">
           <tr>
             <td width="32" style="padding-right: 12px; vertical-align:middle;">
-              <img src="https://digitmade.test/projects/263800/img/Frame-10-3.png" alt="" width="32" height="32" style="display:block; width:32px; height:32px; border:0;" />
+              <img src="https://www.digitmade.com/projects/263800//img/Frame-10-3.png" alt="" width="32" height="32" style="display:block; width:32px; height:32px; border:0;" />
             </td>
             <td style="padding-left:12px; border-left:1px solid #826FA9; padding-left:12px; font-family:Arial,sans-serif; font-size:13.7px; line-height:20px; color:#3A3A3A; vertical-align:middle;">COVID-19 nadal może prowadzić do ciężkiego przebiegu choroby, szczególnie u osób starszych oraz osób z chorobami przewlekłymi lub obniżoną odpornością.<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">3</sup></td>
           </tr>
@@ -72,7 +72,7 @@
         <mj-table cellpadding="0" cellspacing="0" width="100%">
           <tr>
             <td width="32" style="padding-right: 12px; vertical-align:middle;">
-              <img src="https://digitmade.test/projects/263800/img/Frame-10-4.png" alt="" width="32" height="32" style="display:block; width:32px; height:32px; border:0;" />
+              <img src="https://www.digitmade.com/projects/263800//img/Frame-10-4.png" alt="" width="32" height="32" style="display:block; width:32px; height:32px; border:0;" />
             </td>
             <td style="padding:0; border-left:1px solid #826FA9; padding-left:12px; font-family:Arial,sans-serif; font-size:13.7px; -c-height:20px; color:#3A3A3A; vertical-align:middle;">Sezonowe szczepienia przeciw COVID-19 pozostają istotnym elementem profilaktyki w populacjach o zwiększonym ryzyku.</td>
           </tr>
@@ -92,17 +92,17 @@
     <!-- 3 columns section -->
     <mj-section padding-top="0">
       <mj-column border-right="1px solid #C9BDEA">
-        <mj-image src="https://digitmade.test/projects/263800/img/icon01.png" alt="" width="100px" padding="0px" />
+        <mj-image src="https://www.digitmade.com/projects/263800//img/icon01.png" alt="" width="100px" padding="0px" />
         <mj-text align="center" color="#2A1A6E" font-size="15px" line-height="20px" padding="0">Osoby starsze</mj-text>
         <mj-text align="center" font-size="12px" line-height="18px">Osoby starsze mogą być bardziej narażone na ciężki przebieg COVID-19.<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">3</sup></mj-text>
       </mj-column>
       <mj-column border-right="1px solid #C9BDEA">
-        <mj-image src="https://digitmade.test/projects/263800/img/icon02.png" alt="" width="100px" padding="0px" />
+        <mj-image src="https://www.digitmade.com/projects/263800//img/icon02.png" alt="" width="100px" padding="0px" />
         <mj-text align="center" color="#2A1A6E" font-size="15px" line-height="20px" padding="0">Pacjenci z chorobami przewlekłymi</mj-text>
         <mj-text align="center" font-size="12px" line-height="18px">Choroby przewlekłe mogą zwiększać ryzyko ciężkiego przebiegu COVID-19.<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">3</sup></mj-text>
       </mj-column>
       <mj-column>
-        <mj-image src="https://digitmade.test/projects/263800/img/icon03.png" alt="" width="100px" padding="0px" />
+        <mj-image src="https://www.digitmade.com/projects/263800//img/icon03.png" alt="" width="100px" padding="0px" />
         <mj-text align="center" color="#2A1A6E" font-size="15px" line-height="20px" padding="0">Osoby z obniżoną odpornością</mj-text>
         <mj-text align="center" font-size="12px" line-height="18px">Osoby z obniżoną odpornością są bardziej narażone na ciężki przebieg choroby.<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">3</sup></mj-text>
       </mj-column>
@@ -111,12 +111,12 @@
     <mj-section padding-top="0">
       <mj-column width="16%"></mj-column>
       <mj-column width="33%" border-right="1px solid #C9BDEA">
-        <mj-image src="https://digitmade.test/projects/263800/img/icon04.png" alt="" width="100px" padding="0px" />
+        <mj-image src="https://www.digitmade.com/projects/263800//img/icon04.png" alt="" width="100px" padding="0px" />
         <mj-text align="center" color="#2A1A6E" font-size="15px" line-height="20px" padding="0">Kobiety w ciąży</mj-text>
         <mj-text align="center" font-size="12px" line-height="18px">Kobiety w ciąży mogą być bardziej narażone na ciężki przebieg COVID-19.<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">4</sup></mj-text>
       </mj-column>
       <mj-column width="33%">
-        <mj-image src="https://digitmade.test/projects/263800/img/icon05.png" alt="" width="100px" padding="0px" />
+        <mj-image src="https://www.digitmade.com/projects/263800//img/icon05.png" alt="" width="100px" padding="0px" />
         <mj-text align="center" color="#2A1A6E" font-size="15px" line-height="20px" padding-top="0" padding-bottom="0">Pracownicy ochrony zdrowia / opiekunowie</mj-text>
         <mj-text align="center" font-size="12px" line-height="18px">Pracownicy ochrony zdrowia / opiekunowie.</mj-text>
       </mj-column>
@@ -129,7 +129,7 @@
           <mj-table cellpadding="0" cellspacing="0" width="100%">
             <tr>
               <td width="35" style="padding-right: 12px; vertical-align:middle;">
-                <img src="https://digitmade.test/projects/263800/img/icon-shield.png" alt="" width="35" height="35" style="display:block; width:35px; height:35px; border:0;" />
+                <img src="https://www.digitmade.com/projects/263800//img/icon-shield.png" alt="" width="35" height="35" style="display:block; width:35px; height:35px; border:0;" />
               </td>
               <td style="padding:0; border-left:1px solid #826FA9; padding-left:12px; font-family:Arial,sans-serif; font-size:12px; line-height:18px; color:#3A3A3A; vertical-align:middle;">Ostateczne brzmienie kryteriów kwalifikacji musi być zgodne z zatwierdzonymi zaleceniami dla Polski na dany sezon.</td>
             </tr>
@@ -156,7 +156,7 @@
           </mj-text>
         </mj-column>
         <mj-column width="60%">
-          <mj-image src="https://digitmade.test/projects/263800/img/vaccinating.png" alt="" align="center" padding="0" />
+          <mj-image src="https://www.digitmade.com/projects/263800//img/vaccinating.png" alt="" align="center" padding="0" />
         </mj-column>
       </mj-section>
     </mj-wrapper>
@@ -167,7 +167,7 @@
           <mj-table cellpadding="0" cellspacing="0" width="100%" padding-left="45px">
             <tr>
               <td width="24" valign="middle" style="padding-right:8px;">
-                <img src="https://digitmade.test/projects/263800/img/bulb.png" alt="" width="24" height="24" style="display:block; width:24px; height:24px; border:0;" />
+                <img src="https://www.digitmade.com/projects/263800//img/bulb.png" alt="" width="24" height="24" style="display:block; width:24px; height:24px; border:0;" />
               </td>
               <td style="font-family:Arial,sans-serif; font-size:14px; line-height:18px; font-weight:700; color:#FFFFFF; text-transform:uppercase; letter-spacing:0.2px;">CZY WIESZ, ŻE?</td>
             </tr>
@@ -201,7 +201,7 @@
           <mj-table css-class="border-bottom-on-sm" cellpadding="0" cellspacing="0" width="100%" padding="5px 10px">
             <tr>
               <td width="35" style="padding-right: 12px; vertical-align:middle;">
-                <img src="https://digitmade.test/projects/263800/img/frame301.png" alt="" width="35" height="35" style="display:block; width:35px; height:35px; border:0;" />
+                <img src="https://www.digitmade.com/projects/263800//img/frame301.png" alt="" width="35" height="35" style="display:block; width:35px; height:35px; border:0;" />
               </td>
               <td class="td" style=" border-right:1px solid #C9BDEA; padding:0 5px 0 0; font-family:Arial,sans-serif; font-size:12px; line-height:18px; color:#3A3A3A; vertical-align:middle;">
                 <div style="color:#2B1B6B;margin-bottom:4px;"><strong>Przygotuj się już dziś z myślą o zdrowszym jutrze.</strong></div>Planowanie z wyprzedzeniem może pomóc chronić większą liczbę pacjentów, gdy rozpocznie się sezon.
@@ -213,7 +213,7 @@
           <mj-table cellpadding="0" cellspacing="0" width="100%" padding="5px 10px">
             <tr>
               <td width="35" style="padding-right: 12px; vertical-align:middle;">
-                <img src="https://digitmade.test/projects/263800/img/frame302.png" alt="" width="35" height="35" style="display:block; width:35px; height:35px; border:0;" />
+                <img src="https://www.digitmade.com/projects/263800//img/frame302.png" alt="" width="35" height="35" style="display:block; width:35px; height:35px; border:0;" />
               </td>
               <td style="padding:0; font-family:Arial,sans-serif; font-size:12px; line-height:18px; color:#2B1B6B; vertical-align:middle;"><strong>Ostateczne brzmienie kryteriów kwalifikacji musi być zgodne z zatwierdzonymi zaleceniami dla Polski na dany sezon.</strong></td>
             </tr>
@@ -242,7 +242,7 @@
             <tr>
               <td style="width:155px; font-family:Arial,sans-serif; font-size:10.5px; line-height:14px; color:#5B3596; font-weight:700; text-align:left; vertical-align:middle;">JAKI MOŻESZ MIEĆ WPŁYW</td>
               <td style="vertical-align:middle; width:auto;">
-                <img src="https://digitmade.test/projects/263800/img/subheading-line.png" alt="" width="400" align="center" style="display:inline-block; vertical-align:middle; border:0px; max-width:100%" />
+                <img src="https://www.digitmade.com/projects/263800//img/subheading-line.png" alt="" width="400" align="center" style="display:inline-block; vertical-align:middle; border:0px; max-width:100%" />
               </td>
             </tr>
           </mj-table>
@@ -250,24 +250,24 @@
       </mj-section>
       <mj-section padding-top="0">
         <mj-column width="50%" border-right="1px solid #C9BDEA">
-          <mj-image src="https://digitmade.test/projects/263800/img/twoja1.png" alt="" width="41px" />
+          <mj-image src="https://www.digitmade.com/projects/263800//img/twoja1.png" alt="" width="41px" />
           <mj-text align="center" color="#2A1A6E" font-size="14px" line-height="16px" font-weight="700" padding="0">REKOMENDUJ</mj-text>
           <mj-text align="center" font-size="12px" line-height="18px">Rozpoczynaj rozmowy na temat szczepień przeciw grypie i COVID-19 z pacjentami kwalifikującymi się do szczepienia.</mj-text>
         </mj-column>
         <mj-column width="50%">
-          <mj-image src="https://digitmade.test/projects/263800/img/twoja2.png" alt="" width="41px" />
+          <mj-image src="https://www.digitmade.com/projects/263800//img/twoja2.png" alt="" width="41px" />
           <mj-text align="center" color="#2A1A6E" font-size="14px" line-height="16px" font-weight="700" padding="0">DOSTOSUJ REKOMENDACJĘ</mj-text>
           <mj-text align="center" font-size="12px" line-height="18px">Dostosuj rekomendację do wieku, stanu zdrowia i czynników ryzyka każdego pacjenta.</mj-text>
         </mj-column>
       </mj-section>
       <mj-section padding-top="0">
         <mj-column width="50%" border-right="1px solid #C9BDEA">
-          <mj-image src="https://digitmade.test/projects/263800/img/twoja1.png" alt="" width="41px" />
+          <mj-image src="https://www.digitmade.com/projects/263800//img/twoja1.png" alt="" width="41px" />
           <mj-text align="center" color="#2A1A6E" font-size="14px" line-height="16px" font-weight="700" padding="0">ROZWIEWAJ WĄTPLIWOŚCI</mj-text>
           <mj-text align="center" font-size="12px" line-height="18px">Odpowiadaj na pytania i wątpliwości pacjentów, pomagając budować zaufanie do szczepień.</mj-text>
         </mj-column>
         <mj-column width="50%">
-          <mj-image src="https://digitmade.test/projects/263800/img/twoja2.png" alt="" width="41px" />
+          <mj-image src="https://www.digitmade.com/projects/263800//img/twoja2.png" alt="" width="41px" />
           <mj-text align="center" color="#2A1A6E" font-size="14px" line-height="16px" font-weight="700" padding="0">DZIAŁAJ</mj-text>
           <mj-text align="center" font-size="12px" line-height="18px">Jeśli jest to wskazane, zaproponuj jednoczesne podanie szczepionek przeciw grypie i COVID-19 podczas jednej wizyty.</mj-text>
         </mj-column>
@@ -276,13 +276,13 @@
     <!-- Banner Section -->
     <mj-section background-color="#ffffff" padding-top="0" padding-bottom="10px">
       <mj-column>
-        <mj-image src="https://digitmade.test/projects/263800/img/Banner.png" alt="" align="center" padding="25px" />
+        <mj-image src="https://www.digitmade.com/projects/263800//img/Banner.png" alt="" align="center" padding="25px" />
       </mj-column>
     </mj-section>
     <!-- Footer Section -->
     <mj-section background-color="#54447F" padding-bottom="0px">
       <mj-column>
-        <mj-image src="https://digitmade.test/projects/263800/img/moderna-logo-54447F.png" alt="Moderna" width="110px" align="left" />
+        <mj-image src="https://www.digitmade.com/projects/263800//img/moderna-logo-54447F.png" alt="Moderna" width="110px" align="left" />
         <mj-text color="#ffffff" font-size="11px" line-height="11px">Ten e-mail jest sponsorowany przez Moderna.</mj-text>
         <mj-text color="#ffffff" font-size="10px" line-height="10px">PL-NP-COV-2600007 09/26 © 2026 Moderna, Inc.</mj-text>
       </mj-column>
