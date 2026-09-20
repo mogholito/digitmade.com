@@ -1,14 +1,14 @@
 <mjml lang="fr">
   <mj-head>
     <mj-raw>
-      <!--[if mso | IE
-        ]><mj-style>
+      <!--[if mso | IE]>
+      <style>
           body * {
             mso-line-height-rule: exactly;
           }
           sup { font-size: 75%; line-height: 0; }
-        </mj-style><!
-      [endif]-->
+        </style>
+      <![endif]-->
     </mj-raw>
     <mj-attributes>
       <mj-section background-color="#fff" padding-bottom="10px" padding-top="10px" />
@@ -37,17 +37,12 @@
     <mj-section background-color="#ffffff">
       <mj-column>
         <!-- SubHeading -->
-        <mj-table css-class="subheading-on-sm" cellspacing="0" cellpadding="0" width="100%" padding-bottom="0">
-          <tr>
-            <td style="width:34%;"></td>
-            <td style="width:32%; font-family:Arial,sans-serif; font-size:11px; line-height:18px; color:#54447F; font-weight:700; letter-spacing:0.4px; padding-bottom:2px; text-align:center; border-bottom:2px dashed #826FA9;"> COVID-19 NADAL EWOLUUJE </td>
-            <td></td>
-          </tr>
-        </mj-table>
+        <mj-text align="center" color="#54447F" font-size="11px" line-height="18px" font-weight="700" padding-bottom="2px"> COVID-19 NADAL EWOLUUJE </mj-text>
+        <mj-image src="https://www.digitmade.com/projects/263800/img/subheading-line1.png" alt="" width="230px" padding="0" />
         <!-- Icon and Text Section -->
         <mj-table cellpadding="0" cellspacing="0" width="100%">
           <tr>
-            <td width="32" style="padding-right: 12px; vertical-align:middle;">
+            <td width="32" style="line-height:100%; padding-right: 12px; vertical-align:middle;">
               <img src="https://www.digitmade.com/projects/263800//img/Frame-10-1.png" alt="" width="32" height="32" style="display:block; width:32px; height:32px; border:0;" />
             </td>
             <td style="border-left:1px solid #826FA9; padding-left:12px; font-family:Arial,sans-serif; font-size:13.7px; line-height:20px; color:#3A3A3A; vertical-align:middle;">COVID-19 nadal krąży i ewoluuje.<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">1,2</sup></td>
@@ -55,7 +50,7 @@
         </mj-table>
         <mj-table cellpadding="0" cellspacing="0" width="100%">
           <tr>
-            <td width="32" style="padding-right: 12px; vertical-align:middle;">
+            <td width="32" style="line-height:100%; padding-right: 12px; vertical-align:middle;">
               <img src="https://www.digitmade.com/projects/263800//img/Frame-10-2.png" alt="" width="32" height="32" style="display:block; width:32px; height:32px; border:0;" />
             </td>
             <td style="padding-left:12px; border-left:1px solid #826FA9; padding-left:12px; font-family:Arial,sans-serif; font-size:13.7px; line-height:20px; color:#3A3A3A; vertical-align:middle;">Warianty SARS-CoV-2 są nadal monitorowane.</td>
@@ -63,7 +58,7 @@
         </mj-table>
         <mj-table cellpadding="0" cellspacing="0" width="100%">
           <tr>
-            <td width="32" style="padding-right: 12px; vertical-align:middle;">
+            <td width="32" style="line-height:100%; padding-right: 12px; vertical-align:middle;">
               <img src="https://www.digitmade.com/projects/263800//img/Frame-10-3.png" alt="" width="32" height="32" style="display:block; width:32px; height:32px; border:0;" />
             </td>
             <td style="padding-left:12px; border-left:1px solid #826FA9; padding-left:12px; font-family:Arial,sans-serif; font-size:13.7px; line-height:20px; color:#3A3A3A; vertical-align:middle;">COVID-19 nadal może prowadzić do ciężkiego przebiegu choroby, szczególnie u osób starszych oraz osób z chorobami przewlekłymi lub obniżoną odpornością.<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">3</sup></td>
@@ -71,20 +66,15 @@
         </mj-table>
         <mj-table cellpadding="0" cellspacing="0" width="100%">
           <tr>
-            <td width="32" style="padding-right: 12px; vertical-align:middle;">
+            <td width="32" style="line-height:100%; padding-right: 12px; vertical-align:middle;">
               <img src="https://www.digitmade.com/projects/263800//img/Frame-10-4.png" alt="" width="32" height="32" style="display:block; width:32px; height:32px; border:0;" />
             </td>
-            <td style="padding:0; border-left:1px solid #826FA9; padding-left:12px; font-family:Arial,sans-serif; font-size:13.7px; -c-height:20px; color:#3A3A3A; vertical-align:middle;">Sezonowe szczepienia przeciw COVID-19 pozostają istotnym elementem profilaktyki w populacjach o zwiększonym ryzyku.</td>
+            <td style="line-height:100%; padding:0; border-left:1px solid #826FA9; padding-left:12px; font-family:Arial,sans-serif; font-size:13.7px; -c-height:20px; color:#3A3A3A; vertical-align:middle;">Sezonowe szczepienia przeciw COVID-19 pozostają istotnym elementem profilaktyki w populacjach o zwiększonym ryzyku.</td>
           </tr>
         </mj-table>
         <!-- SubHeading 2 -->
-        <mj-table css-class="subheading-on-sm" cellspacing="0" cellpadding="0" width="100%" padding-bottom="0">
-          <tr>
-            <td style="width:32%;"></td>
-            <td style="width:36%; font-family:Arial,sans-serif; font-size:11px; line-height:18px; color:#54447F; font-weight:700; letter-spacing:0.4px; padding-bottom:2px; text-align:center; border-bottom:2px dashed #826FA9;"> PACJENCI KWALIFIKUJĄCY SIĘ </td>
-            <td></td>
-          </tr>
-        </mj-table>
+        <mj-text align="center" color="#54447F" font-size="11px" line-height="18px" font-weight="700" padding-bottom="2px"> PACJENCI KWALIFIKUJĄCY SIĘ </mj-text>
+        <mj-image src="https://www.digitmade.com/projects/263800/img/subheading-line2.png" alt="" width="170px" padding="0" />
         <mj-text align="center" color="#3C2F6E" font-weight="700" font-size="18px" line-height="22px" padding-bottom="0">Pacjenci wymagający szczególnej uwagi</mj-text>
         <mj-text align="center">Zwróć szczególną uwagę na poniższe grupy pacjentów podczas rozmowy o szczepieniu przeciw COVID-19.</mj-text>
       </mj-column>
@@ -128,7 +118,7 @@
         <mj-column>
           <mj-table cellpadding="0" cellspacing="0" width="100%">
             <tr>
-              <td width="35" style="padding-right: 12px; vertical-align:middle;">
+              <td width="35" style="line-height:100%; padding-right: 12px; vertical-align:middle;">
                 <img src="https://www.digitmade.com/projects/263800//img/icon-shield.png" alt="" width="35" height="35" style="display:block; width:35px; height:35px; border:0;" />
               </td>
               <td style="padding:0; border-left:1px solid #826FA9; padding-left:12px; font-family:Arial,sans-serif; font-size:12px; line-height:18px; color:#3A3A3A; vertical-align:middle;">Ostateczne brzmienie kryteriów kwalifikacji musi być zgodne z zatwierdzonymi zaleceniami dla Polski na dany sezon.</td>
@@ -142,13 +132,9 @@
       <mj-section>
         <mj-column width="40%">
           <!-- SubHeading 4 -->
-          <mj-table padding-left="0" cellspacing="0" width="100%">
-            <tr>
-              <td width="105px" style="font-family:Arial,sans-serif; font-size:11px; line-height:18px; color:#54447F; font-weight:700; padding-bottom:2px;border-bottom:2px dashed #826FA9;"> GRYPA + COVID-19 </td>
-              <td></td>
-            </tr>
-          </mj-table>
-          <mj-text color="#3C2F6E" font-weight="700" font-size="18px" line-height="22px" padding="0">Ochrona podczas jednej wizyty</mj-text>
+        <mj-text align="left" color="#54447F" font-size="11px" line-height="18px" font-weight="700" padding-bottom="2px" padding-left="0"> GRYPA + COVID-19 </mj-text>
+        <mj-image src="https://www.digitmade.com/projects/263800/img/subheading-line3.png" alt="" width="170px" padding="0" align="left" />
+          <mj-text color="#3C2F6E" font-weight="700" font-size="18px" line-height="22px" padding="10px 0 0">Ochrona podczas jednej wizyty</mj-text>
           <mj-text font-size="12px" line-height="17px" padding-left="0" padding-bottom="0"> Szczepionki przeciw COVID-19 i grypie mogą być podane podczas tej samej wizyty, jeśli istnieją wskazania do obu szczepień.<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">6</sup>
           </mj-text>
           <mj-text font-size="12px" line-height="17px" padding-left="0">
@@ -163,10 +149,10 @@
     <!-- 4 blocks -->
     <mj-wrapper background-color="#FFFFFF" padding="0 25px">
       <mj-section padding="0">
-        <mj-column css-class="fixed-height-150" vertical-align="middle" width="50%" background-color="#47407E" padding="0px 10px"  border-right="5px solid white">
+        <mj-column css-class="fixed-height-150" vertical-align="middle" width="50%" background-color="#47407E" padding="0px 10px" border-right="5px solid white">
           <mj-table cellpadding="0" cellspacing="0" width="100%" padding-left="45px">
             <tr>
-              <td width="24" valign="middle" style="padding-right:8px;">
+              <td width="24" valign="middle" style="line-height:100%; padding-right:8px;">
                 <img src="https://www.digitmade.com/projects/263800//img/bulb.png" alt="" width="24" height="24" style="display:block; width:24px; height:24px; border:0;" />
               </td>
               <td style="font-family:Arial,sans-serif; font-size:14px; line-height:18px; font-weight:700; color:#FFFFFF; text-transform:uppercase; letter-spacing:0.2px;">CZY WIESZ, ŻE?</td>
@@ -175,7 +161,7 @@
           <mj-text align="center" color="#FFFFFF" font-size="12px" line-height="18px" padding="5px 0 0 0"> Aktualne szczepienie przeciw COVID-19 pozostaje ważnym elementem ochrony pacjentów, szczególnie tych o zwiększonym ryzyku ciężkiego przebiegu choroby.<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">5,6</sup>
           </mj-text>
         </mj-column>
-        <mj-column css-class="fixed-height-150" vertical-align="middle" width="50%" background-color="#F6F4FD" padding="0px 10px"  border-left="5px solid white">
+        <mj-column css-class="fixed-height-150" vertical-align="middle" width="50%" background-color="#F6F4FD" padding="0px 10px" border-left="5px solid white">
           <mj-text color="#47407E" font-size="16px" line-height="20px" font-weight="700" padding="0" align="center">65+</mj-text>
           <mj-text align="center" color="#3A3A3A" font-size="12px" line-height="18px" padding="12px 0 0 0"> Osoby starsze, w tym osoby w wieku 65 lat i więcej, są bardziej narażone na ciężki przebieg COVID-19.<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">3</sup>
           </mj-text>
@@ -200,7 +186,7 @@
         <mj-column vertical-align="middle" width="55%">
           <mj-table css-class="border-bottom-on-sm" cellpadding="0" cellspacing="0" width="100%" padding="5px 10px">
             <tr>
-              <td width="35" style="padding-right: 12px; vertical-align:middle;">
+              <td width="35" style="line-height:100%; padding-right: 12px; vertical-align:middle;">
                 <img src="https://www.digitmade.com/projects/263800//img/frame301.png" alt="" width="35" height="35" style="display:block; width:35px; height:35px; border:0;" />
               </td>
               <td class="td" style=" border-right:1px solid #C9BDEA; padding:0 5px 0 0; font-family:Arial,sans-serif; font-size:12px; line-height:18px; color:#3A3A3A; vertical-align:middle;">
@@ -212,7 +198,7 @@
         <mj-column vertical-align="middle" width="45%">
           <mj-table cellpadding="0" cellspacing="0" width="100%" padding="5px 10px">
             <tr>
-              <td width="35" style="padding-right: 12px; vertical-align:middle;">
+              <td width="35" style="line-height:100%; padding-right: 12px; vertical-align:middle;">
                 <img src="https://www.digitmade.com/projects/263800//img/frame302.png" alt="" width="35" height="35" style="display:block; width:35px; height:35px; border:0;" />
               </td>
               <td style="padding:0; font-family:Arial,sans-serif; font-size:12px; line-height:18px; color:#2B1B6B; vertical-align:middle;"><strong>Ostateczne brzmienie kryteriów kwalifikacji musi być zgodne z zatwierdzonymi zaleceniami dla Polski na dany sezon.</strong></td>
@@ -224,13 +210,8 @@
     <mj-section background-color="#FFFFFF" padding-bottom="0">
       <mj-column>
         <!-- SubHeading 5 -->
-        <mj-table css-class="subheading-on-sm" cellspacing="0" cellpadding="0" width="100%" padding-bottom="0">
-          <tr>
-            <td style="width:22%;"></td>
-            <td style="width:56%; font-family:Arial,sans-serif; font-size:11px; line-height:18px; color:#54447F; font-weight:700; letter-spacing:0.4px; padding-bottom:2px; text-align:center; border-bottom:2px dashed #826FA9;"> TWÓJ WPŁYW NA ZDROWIE PUBLICZNE W POLSCE </td>
-            <td></td>
-          </tr>
-        </mj-table>
+        <mj-text align="center" color="#54447F" font-size="11px" line-height="18px" font-weight="700" padding-bottom="2px"> TWÓJ WPŁYW NA ZDROWIE PUBLICZNE W POLSCE </mj-text>
+        <mj-image src="https://www.digitmade.com/projects/263800/img/subheading-line4.png" alt="" width="280px" padding="0" />
         <mj-text align="center" color="#3C2F6E" font-weight="700" font-size="18px" line-height="22px" padding-bottom="0">Twoja rekomendacja ma znaczenie</mj-text>
         <mj-text align="center">Pracownicy ochrony zdrowia odgrywają kluczową rolę w informowaniu o sezonowych szczeieniach przeciw grypie i COVID-19 oraz w ochronie pacjentów, którzy najbardziej jej potrzebują.</mj-text>
       </mj-column>
@@ -241,7 +222,7 @@
           <mj-table cellspacing="0" cellpadding="0" width="100%" padding-bottom="0">
             <tr>
               <td style="width:155px; font-family:Arial,sans-serif; font-size:10.5px; line-height:14px; color:#5B3596; font-weight:700; text-align:left; vertical-align:middle;">JAKI MOŻESZ MIEĆ WPŁYW</td>
-              <td style="vertical-align:middle; width:auto;">
+              <td style="line-height:100%; vertical-align:middle; width:auto;">
                 <img src="https://www.digitmade.com/projects/263800//img/subheading-line.png" alt="" width="400" align="center" style="display:inline-block; vertical-align:middle; border:0px; max-width:100%" />
               </td>
             </tr>
