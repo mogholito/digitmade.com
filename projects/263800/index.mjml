@@ -2,394 +2,357 @@
   <mj-head>
     <mj-raw>
       <!--[if mso | IE
-        ]><style>
+        ]><mj-style>
           body * {
             mso-line-height-rule: exactly;
           }
           sup { font-size: 75%; line-height: 0; }
-        </style><!
+        </mj-style><!
       [endif]-->
     </mj-raw>
     <mj-attributes>
       <mj-section background-color="#fff" padding-bottom="10px" padding-top="10px" />
-      <mj-text align="justify" color="#575756" css-class="hyphenate" font-family="Arial,sans-serif" font-size="14px" line-height="20px" />
-      <mj-table align="left" color="#575756" font-family="Arial,sans-serif" font-size="14px" line-height="20px" />
-      <mj-button background-color="#575756" border-radius="0" font-family="Arial,sans-serif" font-size="16px" font-weight="700" />
+      <mj-text align="left" color="#3A3A3A" css-class="no-hyphen" font-family="Arial,sans-serif" font-size="13.7px" line-height="20px" />
+      <mj-table align="left" color="#3A3A3A" font-family="Arial,sans-serif" font-size="13.7px" line-height="20px" />
+      <mj-button background-color="#3A3A3A" border-radius="0" font-family="Arial,sans-serif" font-size="16px" font-weight="700" />
       <mj-class name="sml" font-size="13px" line-height="17px" />
-      <mj-class name="email_link" align="center" color="#6a6a6a" font-size="11px" line-height="1.4" />
+      <mj-class name="email_link" align="center" color="#6a6a6a" font-size="12px" line-height="1.4" />
     </mj-attributes>
-    <mj-style> .hyphenate { -webkit-hyphens: auto; -ms-hyphens: auto; hyphens: auto; word-break: normal; overflow-wrap: normal; } .no-hyphens { -webkit-hyphens: none; -ms-hyphens: none; hyphens: none; } .copy { font-size: 12px; } .va-top { vertical-align: top; padding-bottom: 4px } .bullet { width:15px; vertical-align:top; font-size:16px; mso-line-height-rule:exactly; } .list { font-size:14px; line-height:20px; padding-bottom:4px; mso-line-height-rule:exactly; } </mj-style>
-    <mj-style> @media only screen and (max-width: 600px) { .appleLinks a { color: #000000 !important; text-decoration: none !important; } .appleLinksWhite a { color: #ffffff !important; text-decoration: none !important; } .table-scroll { overflow-x: auto; overflow-y: hidden; width: calc(97vw - 100px); } .table-scroll table { width: 550px !important; } .img-center-on-sm { padding-left: 25px !important; padding-right: 25px !important; text-align:center !important; } .center-on-sm { padding-left:15px !important; padding-right:15px !important; } .center-on-sm div { text-align: center !important; } .center-on-sm table { margin: 0 auto !important; } .default-width-on-sm > table td {width:100% !important; padding-right: 10px !important; padding-left: 10px !important; } .default-hpad-on-sm { padding-right: 25px !important; padding-left: 25px !important; } } @media only screen and (max-width: 480px) { } </mj-style>
-    <mj-style inline="inline"> .rounded > table { border-collapse:separate; border-radius:20px; } </mj-style>
+    <mj-style> .hyphenate { -webkit-hyphens: auto; -ms-hyphens: auto; hyphens: auto; word-break: normal; overflow-wrap: normal; } .no-hyphens { -webkit-hyphens: none; -ms-hyphens: none; hyphens: none; } .copy { font-size: 12px; } .va-top { vertical-align: top; padding-bottom: 4px } .bullet { width: 15px; vertical-align: top; font-size: 16px; mso-line-height-rule: exactly; } .list { font-size: 13.7px; line-height: 20px; padding-bottom: 4px; mso-line-height-rule: exactly; } .facts-table table { border-collapse: collapse; margin-top: 4px; } </mj-style>
+    <mj-style> @media only screen and (max-width: 600px) { .appleLinks a { color: #000000 !important; text-decoration: none !important; } .appleLinksWhite a { color: #ffffff !important; text-decoration: none !important; } .table-scroll { overflow-x: auto; overflow-y: hidden; width: calc(97vw - 100px); } .table-scroll table { width: 550px !important; } .img-center-on-sm { padding-left: 25px !important; padding-right: 25px !important; text-align: center !important; } .center-on-sm { padding-left: 15px !important; padding-right: 15px !important; } .center-on-sm div { text-align: center !important; } .center-on-sm table { margin: 0 auto !important; } .default-width-on-sm>table td { width: 100% !important; padding-right: 10px !important; padding-left: 10px !important; } .default-hpad-on-sm { padding-right: 25px !important; padding-left: 25px !important; } .subheading-on-sm td { width:auto !important; } } @media only screen and (max-width: 480px) {.border-bottom-on-sm table td { border-bottom:1px solid #C9BDEA; border-right: none !important; } .border-bottom-on-sm .td { padding:0 5px 10px 0 !important; } .fixed-height-150 table td { border-left:0 !important; border-right:0 !important; } } </mj-style>
+    <mj-style inline="inline"> .rounded > table { border-collapse:separate; border-radius:5px; } .fixed-height-150 > table { height:150px !important; } .fixed-height-150 > table > tbody > tr > td { height:150px !important; } </mj-style>
   </mj-head>
   <mj-body background-color="#f5f5f5">
     <mj-section background-color="#f5f5f5" padding-bottom="0">
       <mj-column>
-        <mj-text mj-class="email_link">Si vous ne visualisez pas correctement cet email, <a style="text-decoration: none !important" href="#0" target="_blank"><span style="color: #6a6a6a">cliquez ici</span></a>.</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-image src="https://www.digitmade.com/projects/261701/img/header1200w.png" alt="CABOMETYX IPSEN" padding="0" />
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff">
-      <mj-column>
-        <mj-text color="#6f004c" font-size="16px" font-weight="700" line-height="24px"> <span style="color:#6f004c;font-weight:700">CABOMETYX</span><sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> (cabozantinib) est indiqué pour le traitement des patients adultes atteints de tumeurs neuroendocrines extra-pancréatiques (TNEep) et pancréatiques (TNEp) bien différenciées, non résécables ou métastatiques, qui ont progressé après au moins un traitement systémique antérieur autre que les analogues de la somatostatine. <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup>
-        </mj-text>
-        <mj-text mj-class="sml">Indication non remboursable et non agréé aux collectivités à la date du 23/01/2026. <br>Liste I. <br>Médicament soumis à prescription hospitalière. Prescription réservée aux spécialistes en oncologie ou aux médecins compétents en cancérologie. <br>Médicament nécessitant une surveillance particulière pendant le traitement.</mj-text>
-        <!-- CABOMETYX® : ITK INHIBANT VEGFR, MET & AXL -->
-        <mj-text color="#105e8e" font-size="16px" font-weight="700" line-height="20px"> CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>&nbsp;: ITK INHIBANT VEGFR, MET &amp; AXL <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup> </mj-text>
-        <mj-image src="https://www.digitmade.com/projects/261701/img/illust1.png" alt="" padding="0" />
-        <mj-text font-size="16px" line-height="24px" padding-bottom="0"> <span style="color:#105E8E;font-weight:700">CABOMETYX</span><sup style="color:#105E8E;font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> est une petite molécule inhibitrice de plusieurs récepteurs à activité tyrosine kinase, incluant <span style="color:#105E8E;font-weight:700">VEGFR</span>, <span style="color:#D61934;font-weight:700">MET</span>, et <span style="color:#45A3BA;font-weight:700">AXL</span> qui sont impliqués dans&nbsp;<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup>&nbsp;: </mj-text>
-        <mj-table padding-top="0">
-          <tr>
-            <td width="5%" style="vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
-            <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:92%;">
-              <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px;"> la croissance et l’angiogenèse tumorale&nbsp;; </div>
-            </td>
-          </tr>
-          <tr>
-            <td width="5%" style="vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
-            <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:92%;">
-              <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px;"> la résistance aux médicaments&nbsp;; </div>
-            </td>
-          </tr>
-          <tr>
-            <td width="5%" style="vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
-            <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:92%;">
-              <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px;"> la progression métastatique du cancer. </div>
-            </td>
-          </tr>
-        </mj-table>
-        <mj-text font-size="16px" line-height="24px" padding-bottom="0"> Dans un large éventail de modèles précliniques de tumeurs, <span style="color:#105E8E;font-weight:700">CABOMETYX</span><sup style="color:#105E8E;font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> a été associé à&nbsp;<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup>&nbsp;: </mj-text>
-        <mj-table padding-top="0">
-          <tr>
-            <td width="5%" style="vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
-            <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:95%;">
-              <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px;"> une <span style="color:#6f004c; font-weight:700;">inhibition dose-dépendante de la croissance tumorale</span>&nbsp;; </div>
-            </td>
-          </tr>
-          <tr>
-            <td width="5%" style="vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
-            <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:95%;">
-              <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px;"> une <span style="color:#6f004c; font-weight:700;">régression tumorale</span>&nbsp;; </div>
-            </td>
-          </tr>
-          <tr>
-            <td width="5%" style="vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
-            <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:95%;">
-              <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px;"> et/ou une <span style="color:#6f004c; font-weight:700;">inhibition de la formation de métastases</span>. </div>
-            </td>
-          </tr>
-        </mj-table>
-        <mj-text mj-class="sml"> <strong>VEGFR</strong>&nbsp;: récepteur «&nbsp;vascular endothelial growth factor&nbsp;» pour facteur de croissance vasculaire endothélial&nbsp;; <strong>MET</strong>&nbsp;: récepteur du facteur de croissance hépatocytaire de nature protéique; <strong>AXL</strong>&nbsp;: anexelekto&nbsp;; <strong>ITK</strong>&nbsp;: inhibiteur de la tyrosine kinase. </mj-text>
-        <mj-text color="#6f004c" font-size="16px" font-weight="700" line-height="24px" padding-bottom="0"> ÉTUDE CABINET&nbsp;: UNE EFFICACITÉ DÉMONTRÉE AVEC <span style="color:#6f004c; font-weight:700">CABOMETYX</span><sup style="color:#6f004c; font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> VS PLACEBO DANS LE TRAITEMENT DES TUMEURS NEUROENDOCRINES NON RÉSÉCABLES OU MÉTASTATIQUES <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(2)</sup> </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="25px">
-      <mj-column css-class="" background-color="#105E8E">
-        <mj-text color="#ffffff" line-height="22px" padding="10px 15px"> CABINET est une étude de phase III, américaine, multicentrique (62 centres), randomisée (2:1), en double aveugle, contrôlée vs placebo, dont l’objectif était d’évaluer l’efficacité et la tolérance de CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> vs placebo chez des patients adultes atteints de tumeurs neuroendocrines extra-pancréatiques (TNEep) ou pancréatiques (TNEp) bien différenciées, localement avancées ou métastatiques, ayant progressé après au moins un traitement antérieur autre que les analogues de la somatostatine. Deux cohortes indépendantes étaient menées en parallèle. Le critère principal d’évaluation était la survie sans progression. <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1,2)</sup> </mj-text>
-        <mj-text color="#ffffff" line-height="22px" font-style="italic" padding="10px 15px"> Pour plus d’informations sur la méthodologie de l’étude CABINET, les critères de sélection et les caractéristiques des patients à l’inclusion, cliquez-ici </mj-text>
-      </mj-column>
-    </mj-section>
-    <!-- CRITÈRE PRINCIPAL -->
-    <mj-section background-color="#ffffff">
-      <mj-column>
-        <mj-table padding-top="0">
-          <tr>
-            <td width="7%" style="vertical-align:middle; padding-left:1px; line-height:100%;" align="center">
-              <img src="https://www.digitmade.com/projects/261701/img/bullet.png" alt="" width="28" height="23" style="display:inline-block; vertical-align:middle; border:0px;" />
-            </td>
-            <td width="93%" style="padding-bottom:0px; vertical-align:middle; width:93%;">
-              <div style="color:#105e8e;font-family: Arial,sans-serif; font-size:17px; font-weight:700; line-height:24px;"> CRITÈRE PRINCIPAL&nbsp;: SURVIE SANS PROGRESSION (SSP) <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(2)</sup> </div>
-            </td>
-          </tr>
-        </mj-table>
-        <mj-text font-size="16px" line-height="24px"> Évaluation radiologique par un comité indépendant en aveugle selon RECIST&nbsp;1.1 - Médiane estimée selon la méthode de Kaplan-Meier. </mj-text>
+        <mj-text mj-class="email_link">Jeśli ta wiadomość e-mail nie wyświetla się poprawnie, <a style="text-decoration: none !important" href="#0" target="_blank"><span style="color:#6a6a6a; text-decoration:underline;">kliknij tutaj</span></a>.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding-top="0">
       <mj-column>
-        <mj-image src="https://www.digitmade.com/projects/261701/img/tneep-2.png" alt="Cohorte TNEep" />
-      </mj-column>
-      <mj-column>
-        <mj-image src="https://www.digitmade.com/projects/261701/img/tnep-2.png" alt="Cohorte TNEp" />
+        <mj-image src="https://digitmade.test/projects/263800/img/header-group4.png" alt="Pomóż swoim pacjentom zadbać o aktualną ochronę" padding="0" />
       </mj-column>
     </mj-section>
+    <!-- First Section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <!-- SubHeading -->
+        <mj-table css-class="subheading-on-sm" cellspacing="0" cellpadding="0" width="100%" padding-bottom="0">
+          <tr>
+            <td style="width:34%;"></td>
+            <td style="width:32%; font-family:Arial,sans-serif; font-size:11px; line-height:18px; color:#54447F; font-weight:700; letter-spacing:0.4px; padding-bottom:2px; text-align:center; border-bottom:2px dashed #826FA9;"> COVID-19 NADAL EWOLUUJE </td>
+            <td></td>
+          </tr>
+        </mj-table>
+        <!-- Icon and Text Section -->
+        <mj-table cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td width="32" style="padding-right: 12px; vertical-align:middle;">
+              <img src="https://digitmade.test/projects/263800/img/Frame-10-1.png" alt="" width="32" height="32" style="display:block; width:32px; height:32px; border:0;" />
+            </td>
+            <td style="border-left:1px solid #826FA9; padding-left:12px; font-family:Arial,sans-serif; font-size:13.7px; line-height:20px; color:#3A3A3A; vertical-align:middle;">COVID-19 nadal krąży i ewoluuje.<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">1,2</sup></td>
+          </tr>
+        </mj-table>
+        <mj-table cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td width="32" style="padding-right: 12px; vertical-align:middle;">
+              <img src="https://digitmade.test/projects/263800/img/Frame-10-2.png" alt="" width="32" height="32" style="display:block; width:32px; height:32px; border:0;" />
+            </td>
+            <td style="padding-left:12px; border-left:1px solid #826FA9; padding-left:12px; font-family:Arial,sans-serif; font-size:13.7px; line-height:20px; color:#3A3A3A; vertical-align:middle;">Warianty SARS-CoV-2 są nadal monitorowane.</td>
+          </tr>
+        </mj-table>
+        <mj-table cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td width="32" style="padding-right: 12px; vertical-align:middle;">
+              <img src="https://digitmade.test/projects/263800/img/Frame-10-3.png" alt="" width="32" height="32" style="display:block; width:32px; height:32px; border:0;" />
+            </td>
+            <td style="padding-left:12px; border-left:1px solid #826FA9; padding-left:12px; font-family:Arial,sans-serif; font-size:13.7px; line-height:20px; color:#3A3A3A; vertical-align:middle;">COVID-19 nadal może prowadzić do ciężkiego przebiegu choroby, szczególnie u osób starszych oraz osób z chorobami przewlekłymi lub obniżoną odpornością.<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">3</sup></td>
+          </tr>
+        </mj-table>
+        <mj-table cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td width="32" style="padding-right: 12px; vertical-align:middle;">
+              <img src="https://digitmade.test/projects/263800/img/Frame-10-4.png" alt="" width="32" height="32" style="display:block; width:32px; height:32px; border:0;" />
+            </td>
+            <td style="padding:0; border-left:1px solid #826FA9; padding-left:12px; font-family:Arial,sans-serif; font-size:13.7px; -c-height:20px; color:#3A3A3A; vertical-align:middle;">Sezonowe szczepienia przeciw COVID-19 pozostają istotnym elementem profilaktyki w populacjach o zwiększonym ryzyku.</td>
+          </tr>
+        </mj-table>
+        <!-- SubHeading 2 -->
+        <mj-table css-class="subheading-on-sm" cellspacing="0" cellpadding="0" width="100%" padding-bottom="0">
+          <tr>
+            <td style="width:32%;"></td>
+            <td style="width:36%; font-family:Arial,sans-serif; font-size:11px; line-height:18px; color:#54447F; font-weight:700; letter-spacing:0.4px; padding-bottom:2px; text-align:center; border-bottom:2px dashed #826FA9;"> PACJENCI KWALIFIKUJĄCY SIĘ </td>
+            <td></td>
+          </tr>
+        </mj-table>
+        <mj-text align="center" color="#3C2F6E" font-weight="700" font-size="18px" line-height="22px" padding-bottom="0">Pacjenci wymagający szczególnej uwagi</mj-text>
+        <mj-text align="center">Zwróć szczególną uwagę na poniższe grupy pacjentów podczas rozmowy o szczepieniu przeciw COVID-19.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 3 columns section -->
     <mj-section padding-top="0">
+      <mj-column border-right="1px solid #C9BDEA">
+        <mj-image src="https://digitmade.test/projects/263800/img/icon01.png" alt="" width="100px" padding="0px" />
+        <mj-text align="center" color="#2A1A6E" font-size="15px" line-height="20px" padding="0">Osoby starsze</mj-text>
+        <mj-text align="center" font-size="12px" line-height="18px">Osoby starsze mogą być bardziej narażone na ciężki przebieg COVID-19.<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">3</sup></mj-text>
+      </mj-column>
+      <mj-column border-right="1px solid #C9BDEA">
+        <mj-image src="https://digitmade.test/projects/263800/img/icon02.png" alt="" width="100px" padding="0px" />
+        <mj-text align="center" color="#2A1A6E" font-size="15px" line-height="20px" padding="0">Pacjenci z chorobami przewlekłymi</mj-text>
+        <mj-text align="center" font-size="12px" line-height="18px">Choroby przewlekłe mogą zwiększać ryzyko ciężkiego przebiegu COVID-19.<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">3</sup></mj-text>
+      </mj-column>
       <mj-column>
-        <mj-text align="center" color="#105e8e" font-size="15px" font-weight="700"> Suivi médian </mj-text>
-        <mj-image src="https://www.digitmade.com/projects/261701/img/suivi-median.png" alt="23 mois" padding-top="0" />
+        <mj-image src="https://digitmade.test/projects/263800/img/icon03.png" alt="" width="100px" padding="0px" />
+        <mj-text align="center" color="#2A1A6E" font-size="15px" line-height="20px" padding="0">Osoby z obniżoną odpornością</mj-text>
+        <mj-text align="center" font-size="12px" line-height="18px">Osoby z obniżoną odpornością są bardziej narażone na ciężki przebieg choroby.<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">3</sup></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding-bottom="0" padding-top="0">
-      <mj-column>
-        <mj-image src="https://www.digitmade.com/projects/261701/img/hr038.png" alt="HR 0,38*" />
+    <!-- 2 columns section -->
+    <mj-section padding-top="0">
+      <mj-column width="16%"></mj-column>
+      <mj-column width="33%" border-right="1px solid #C9BDEA">
+        <mj-image src="https://digitmade.test/projects/263800/img/icon04.png" alt="" width="100px" padding="0px" />
+        <mj-text align="center" color="#2A1A6E" font-size="15px" line-height="20px" padding="0">Kobiety w ciąży</mj-text>
+        <mj-text align="center" font-size="12px" line-height="18px">Kobiety w ciąży mogą być bardziej narażone na ciężki przebieg COVID-19.<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">4</sup></mj-text>
       </mj-column>
-      <mj-column>
-        <mj-image src="https://www.digitmade.com/projects/261701/img/hr023.png" alt="HR 0,23*" />
+      <mj-column width="33%">
+        <mj-image src="https://digitmade.test/projects/263800/img/icon05.png" alt="" width="100px" padding="0px" />
+        <mj-text align="center" color="#2A1A6E" font-size="15px" line-height="20px" padding-top="0" padding-bottom="0">Pracownicy ochrony zdrowia / opiekunowie</mj-text>
+        <mj-text align="center" font-size="12px" line-height="18px">Pracownicy ochrony zdrowia / opiekunowie.</mj-text>
       </mj-column>
+      <mj-column width="16%"></mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0">
+    <!-- Text box 1 -->
+    <mj-wrapper background-color="#FFFFFF" padding="0 25px">
+      <mj-section background-color="#F4F2F9" border-radius="5px" css-class="rounded">
+        <mj-column>
+          <mj-table cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+              <td width="35" style="padding-right: 12px; vertical-align:middle;">
+                <img src="https://digitmade.test/projects/263800/img/icon-shield.png" alt="" width="35" height="35" style="display:block; width:35px; height:35px; border:0;" />
+              </td>
+              <td style="padding:0; border-left:1px solid #826FA9; padding-left:12px; font-family:Arial,sans-serif; font-size:12px; line-height:18px; color:#3A3A3A; vertical-align:middle;">Ostateczne brzmienie kryteriów kwalifikacji musi być zgodne z zatwierdzonymi zaleceniami dla Polski na dany sezon.</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!-- Vaccinating banner -->
+    <mj-wrapper background-color="#FFFFFF" padding="0 25px">
+      <mj-section>
+        <mj-column width="40%">
+          <!-- SubHeading 4 -->
+          <mj-table padding-left="0" cellspacing="0" width="100%">
+            <tr>
+              <td width="105px" style="font-family:Arial,sans-serif; font-size:11px; line-height:18px; color:#54447F; font-weight:700; padding-bottom:2px;border-bottom:2px dashed #826FA9;"> GRYPA + COVID-19 </td>
+              <td></td>
+            </tr>
+          </mj-table>
+          <mj-text color="#3C2F6E" font-weight="700" font-size="18px" line-height="22px" padding="0">Ochrona podczas jednej wizyty</mj-text>
+          <mj-text font-size="12px" line-height="17px" padding-left="0" padding-bottom="0"> Szczepionki przeciw COVID-19 i grypie mogą być podane podczas tej samej wizyty, jeśli istnieją wskazania do obu szczepień.<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">6</sup>
+          </mj-text>
+          <mj-text font-size="12px" line-height="17px" padding-left="0">
+            <strong>Każda rozmowa o szczepieniu przeciw grypie jest również okazją do sprawdzenia statusu szczepienia przeciw COVID-19.</strong>
+          </mj-text>
+        </mj-column>
+        <mj-column width="60%">
+          <mj-image src="https://digitmade.test/projects/263800/img/vaccinating.png" alt="" align="center" padding="0" />
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!-- 4 blocks -->
+    <mj-wrapper background-color="#FFFFFF" padding="0 25px">
+      <mj-section padding="0">
+        <mj-column css-class="fixed-height-150" vertical-align="middle" width="50%" background-color="#47407E" padding="0px 10px"  border-right="5px solid white">
+          <mj-table cellpadding="0" cellspacing="0" width="100%" padding-left="45px">
+            <tr>
+              <td width="24" valign="middle" style="padding-right:8px;">
+                <img src="https://digitmade.test/projects/263800/img/bulb.png" alt="" width="24" height="24" style="display:block; width:24px; height:24px; border:0;" />
+              </td>
+              <td style="font-family:Arial,sans-serif; font-size:14px; line-height:18px; font-weight:700; color:#FFFFFF; text-transform:uppercase; letter-spacing:0.2px;">CZY WIESZ, ŻE?</td>
+            </tr>
+          </mj-table>
+          <mj-text align="center" color="#FFFFFF" font-size="12px" line-height="18px" padding="5px 0 0 0"> Aktualne szczepienie przeciw COVID-19 pozostaje ważnym elementem ochrony pacjentów, szczególnie tych o zwiększonym ryzyku ciężkiego przebiegu choroby.<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">5,6</sup>
+          </mj-text>
+        </mj-column>
+        <mj-column css-class="fixed-height-150" vertical-align="middle" width="50%" background-color="#F6F4FD" padding="0px 10px"  border-left="5px solid white">
+          <mj-text color="#47407E" font-size="16px" line-height="20px" font-weight="700" padding="0" align="center">65+</mj-text>
+          <mj-text align="center" color="#3A3A3A" font-size="12px" line-height="18px" padding="12px 0 0 0"> Osoby starsze, w tym osoby w wieku 65 lat i więcej, są bardziej narażone na ciężki przebieg COVID-19.<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">3</sup>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0">
+        <mj-column css-class="fixed-height-150" vertical-align="middle" width="50%" background-color="#F6F4FD" padding="0px 10px" border-right="5px solid white">
+          <mj-text color="#47407E" font-size="16px" line-height="20px" font-weight="700" padding="0" align="center">WIEK MA ZNACZENIE</mj-text>
+          <mj-text align="center" color="#3A3A3A" font-size="12px" line-height="18px" padding="12px 0 0 0"> Ryzyko hospitalizacji związanej z COVID-19 wzrasta wraz z wiekiem.<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">3</sup>
+          </mj-text>
+        </mj-column>
+        <mj-column css-class="fixed-height-150" vertical-align="middle" width="50%" background-color="#F6F4FD" padding="0px 10px" border-left="5px solid white">
+          <mj-text color="#47407E" font-size="16px" line-height="20px" font-weight="700" padding="0" align="center">CIĘŻKI PRZEBIEG CHOROBY</mj-text>
+          <mj-text align="center" color="#3A3A3A" font-size="12px" line-height="18px" padding="12px 0 0 0"> Osoby starsze pozostają szczególnie narażone na ciężki przebieg COVID-19.<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">3,4</sup>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!-- Text box 2 -->
+    <mj-wrapper background-color="#FFFFFF" padding="15px 25px 0">
+      <mj-section css-class="rounded" background-color="#F4F2F9" border-radius="5px">
+        <mj-column vertical-align="middle" width="55%">
+          <mj-table css-class="border-bottom-on-sm" cellpadding="0" cellspacing="0" width="100%" padding="5px 10px">
+            <tr>
+              <td width="35" style="padding-right: 12px; vertical-align:middle;">
+                <img src="https://digitmade.test/projects/263800/img/frame301.png" alt="" width="35" height="35" style="display:block; width:35px; height:35px; border:0;" />
+              </td>
+              <td class="td" style=" border-right:1px solid #C9BDEA; padding:0 5px 0 0; font-family:Arial,sans-serif; font-size:12px; line-height:18px; color:#3A3A3A; vertical-align:middle;">
+                <div style="color:#2B1B6B;margin-bottom:4px;"><strong>Przygotuj się już dziś z myślą o zdrowszym jutrze.</strong></div>Planowanie z wyprzedzeniem może pomóc chronić większą liczbę pacjentów, gdy rozpocznie się sezon.
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+        <mj-column vertical-align="middle" width="45%">
+          <mj-table cellpadding="0" cellspacing="0" width="100%" padding="5px 10px">
+            <tr>
+              <td width="35" style="padding-right: 12px; vertical-align:middle;">
+                <img src="https://digitmade.test/projects/263800/img/frame302.png" alt="" width="35" height="35" style="display:block; width:35px; height:35px; border:0;" />
+              </td>
+              <td style="padding:0; font-family:Arial,sans-serif; font-size:12px; line-height:18px; color:#2B1B6B; vertical-align:middle;"><strong>Ostateczne brzmienie kryteriów kwalifikacji musi być zgodne z zatwierdzonymi zaleceniami dla Polski na dany sezon.</strong></td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section background-color="#FFFFFF" padding-bottom="0">
       <mj-column>
-        <mj-text mj-class="sml" font-style="italic"> *Estimé à l’aide du modèle des risques proportionnels de Cox. L’étude CABINET a été interrompue pour des raisons d’efficacité au moment d’une analyse intermédiaire prévue uniquement à des fins de futilité. L’erreur de type I n’a pas été formellement contrôlée et les valeurs p ne sont pas présentées. L’intervalle de confiance à 95&nbsp;% présenté est descriptif et ne signifie pas que la significativité statistique a été atteinte. </mj-text>
-        <mj-text mj-class="sml"> <strong>SSP</strong>&nbsp;: survie sans progression&nbsp;; <strong>RECIST</strong>&nbsp;: «&nbsp;response evaluation criteria in solid tumors&nbsp;» pour critères d’évaluation de la réponse dans les tumeurs solides&nbsp;; <strong>IC</strong>&nbsp;: intervalle de confiance&nbsp;; <strong>HR</strong>&nbsp;: «&nbsp;hazard ratio&nbsp;». </mj-text>
-        <!-- TOLÉRANCE DE L’ÉTUDE -->
-        <mj-table padding-bottom="0">
+        <!-- SubHeading 5 -->
+        <mj-table css-class="subheading-on-sm" cellspacing="0" cellpadding="0" width="100%" padding-bottom="0">
           <tr>
-            <td width="7%" style="vertical-align:middle; padding-left:1px; line-height:100%;" align="center">
-              <img src="https://www.digitmade.com/projects/261701/img/bullet.png" alt="" width="28" height="23" style="display:inline-block; vertical-align:middle; border:0px;" />
-            </td>
-            <td width="93%" style="padding-bottom:0px; vertical-align:middle; width:93%;">
-              <div style="color:#105e8e;font-family: Arial,sans-serif; font-size:17px; font-weight:700; line-height:24px;"> TOLÉRANCE DE L’ÉTUDE <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(2)</sup> </div>
-            </td>
+            <td style="width:22%;"></td>
+            <td style="width:56%; font-family:Arial,sans-serif; font-size:11px; line-height:18px; color:#54447F; font-weight:700; letter-spacing:0.4px; padding-bottom:2px; text-align:center; border-bottom:2px dashed #826FA9;"> TWÓJ WPŁYW NA ZDROWIE PUBLICZNE W POLSCE </td>
+            <td></td>
           </tr>
         </mj-table>
-        <!-- Cohorte TNEep -->
-        <mj-button align="left" background-color="#00558A" inner-padding="5px 10px" border-radius="0" font-size="13px">Cohorte TNEep</mj-button>
-        <mj-text color="#6f004c" font-size="16px"> <strong>Durée médiane de traitement&nbsp;:</strong> mois [intervalle] </mj-text>
-        <mj-image src="https://www.digitmade.com/projects/261701/img/duree-mediane.png" alt="Durée médiane de traitement" />
-        <mj-text color="#6f004c" font-size="16px" font-weight="700"> Incidence des événements indésirables (EI) </mj-text>
-        <mj-image src="https://www.digitmade.com/projects/261701/img/tneep-table.png" alt="Cohorte TNEep&nbsp;: Tableau Incidence des événements indésirables (EI)" padding-top="0" />
-        <mj-table padding-top="0" padding-bottom="0">
-          <tr>
-            <td width="5%" style="color:#00558a; vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
-            <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:92%;">
-              <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:5px"> <span style="color:#00558a; font-weight:700">Les événements indésirables de grade 3 ou 4 les plus fréquents étaient&nbsp;:</span> hypertension (21%), fatigue (13%) et diarrhée (11%) </div>
-            </td>
-          </tr>
-          <tr>
-            <td width="5%" style="color:#00558a; vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
-            <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:92%;">
-              <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:8px"><span style="color:#00558a; font-weight:700"> 4 événements de grade 5 ont été identifiés comme possiblement lié au traitement,</span> parmi lesquels un cas d’hémorragie gastrique, un cas d’arrêt cardiaque. </div>
-            </td>
-          </tr>
-        </mj-table>
-        <mj-text color="#6f004c" font-size="16px" font-weight="700"> Evénements indésirables les plus fréquents </mj-text>
-        <mj-text font-size="16px" line-height="24px"> Effets indésirables les plus fréquents (avec une incidence ≥ 20&nbsp;% pour les EI tous grades confondus et &ge; 10&nbsp;% pour les EI de grade &ge; 3 dans le bras CABOMETYX</span><sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>)&nbsp;: fatigue, diarrhée, ↑ ASAT, ↑ ALAT, hypertension, thrombocytopénie, nausée, mucite buccale, syndrome d’erythrodysesthésie palmo-plantaire (SEPP), anorexie, dysgueusie, neutropénie, leucopénie, anémie, lymphopénie, hypothyroïdisme, éruption maculopapuleuse, perte de poids. </mj-text>
+        <mj-text align="center" color="#3C2F6E" font-weight="700" font-size="18px" line-height="22px" padding-bottom="0">Twoja rekomendacja ma znaczenie</mj-text>
+        <mj-text align="center">Pracownicy ochrony zdrowia odgrywają kluczową rolę w informowaniu o sezonowych szczeieniach przeciw grypie i COVID-19 oraz w ochronie pacjentów, którzy najbardziej jej potrzebują.</mj-text>
       </mj-column>
     </mj-section>
-    <!-- Cohorte TNEp -->
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-button align="left" background-color="#45A3BA" inner-padding="5px 10px" border-radius="0" font-size="13px">Cohorte TNEp</mj-button>
-        <mj-text color="#6f004c" font-size="16px"> <strong>Durée médiane de traitement&nbsp;:</strong> mois [intervalle] </mj-text>
-        <mj-image src="https://www.digitmade.com/projects/261701/img/duree-mediane-tnep.png" alt="Durée médiane de traitement" />
-        <mj-text color="#6f004c" font-size="16px" font-weight="700"> Incidence des événements indésirables (EI) </mj-text>
-        <mj-image src="https://www.digitmade.com/projects/261701/img/tnep-table.png" alt="Cohorte TNEp&nbsp;: Tableau Incidence des événements indésirables (EI)" padding-top="0" />
-        <mj-table padding-top="0" padding-bottom="0">
-          <tr>
-            <td width="5%" style="color:#5EA5B9; vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
-            <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:92%;">
-              <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:5px"> <span style="color:#5EA5B9; font-weight:700">Les événements indésirables de grade 3 ou 4 les plus fréquents étaient&nbsp;:</span> hypertension (22%), fatigue (11%) et événement thromboembolique (11%) </div>
-            </td>
-          </tr>
-          <tr>
-            <td width="5%" style="color:#5EA5B9; vertical-align:top; padding-top:2px; padding-left:10px; width:5%; font-size:12px; mso-line-height-rule:exactly;">●</td>
-            <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:92%;">
-              <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:8px"><span style="color:#5EA5B9; font-weight:700"> Aucun événement de grade 5 n’a été notifié. </div>
-            </td>
-          </tr>
-        </mj-table>
-        <mj-text color="#6f004c" font-size="16px" font-weight="700"> Evénements indésirables les plus fréquents </mj-text>
-        <mj-text font-size="16px" line-height="24px"> Effets indésirables les plus fréquents (avec une incidence ≥ 20&nbsp;% pour les EI tous grades confondus et &ge; 10&nbsp;% pour les EI de grade &ge; 3 dans le bras CABOMETYX</span><sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>)&nbsp;: fatigue, diarrhée, ↑ ASAT, ↑ ALAT, hypertension, thrombocytopénie, nausée, mucite buccale, syndrome d’erythrodysesthésie palmo-plantaire (SEPP), anorexie, dysgueusie, neutropénie, ↑ PAL, vomissements, hypophosphatémie, événement thromboembolique. </mj-text>
-        <mj-text mj-class="sml"> <strong>EI</strong>&nbsp;: événements indésirables&nbsp;; <strong>ASAT</strong>&nbsp;: Aspartate aminotransférase&nbsp;; <strong>ALAT</strong>&nbsp;: Alanine aminotransférase&nbsp;; <strong>SEPP</strong>&nbsp;: Syndrome d’érythrodysesthésie palmo-plantaire&nbsp;; <strong>PAL</strong>&nbsp;: Phosphatase alcaline&nbsp;; <strong>GGT</strong>&nbsp;: Gamma-glutamyl transférase. </mj-text>
-        <!-- DONNÉES DE SÉCURITÉ -->
-        <mj-table padding-bottom="0">
-          <tr>
-            <td width="7%" style="vertical-align:middle; padding-left:1px; line-height:100%;" align="center">
-              <img src="https://www.digitmade.com/projects/261701/img/bullet.png" alt="" width="28" height="23" style="display:inline-block; vertical-align:middle; border:0px;" />
-            </td>
-            <td width="93%" style="padding-bottom:0px; vertical-align:middle; width:93%;">
-              <div style="color:#105e8e;font-family: Arial,sans-serif; font-size:17px; font-weight:700; line-height:24px;"> DONNÉES DE SÉCURITÉ <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup> </div>
-            </td>
-          </tr>
-        </mj-table>
-        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="0" font-size="13px">Résumé du profil de tolérance <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
-        <mj-text font-size="16px" line-height="24px"> Dans la population atteinte de TNE, les effets indésirables graves les plus fréquents (&ge; 1%) sont&nbsp;: hypertension, fatigue, embolie pulmonaire, vomissement, diarrhée, nausée, embolie. </mj-text>
-        <mj-text font-size="16px" line-height="24px"> Effets indésirables les plus fréquents tous grades et toutes populations confondus (&ge; 25&nbsp;%)&nbsp;: diarrhée, fatigue, nausée, appétit diminué, syndrome d’erythrodysesthésie palmo-plantaire (SEPP), hypertension. </mj-text>
-        <mj-text font-size="16px" line-height="24px"> Effets indésirables peu fréquents (&ge; 1/1000 à &lt; 1/100)&nbsp;: convulsion, accident cérébrovasculaire, syndrome d’encéphalopathie postérieure réversible, infarctus du myocarde aigu, crise aiguë d’hypertension, thrombose artérielle, embolie artérielle, pneumothorax, glossodynie, hépatite cholestatique, ostéonécrose de la mâchoire, complications de plaie. </mj-text>
-        <mj-text font-size="16px" line-height="24px"> Effets indésirables avec une fréquence indéterminée (ne peut être estimée à partir des données disponibles)&nbsp;: anévrismes et dissections artérielles, vasculite cutanée. </mj-text>
-        <mj-text color="#105E8E" font-size="16px" font-weight="700" line-height="24px"> Déclarez immédiatement tout effet indésirable suspecté d’être dû à un médicament à votre Centre régional de pharmacovigilance (CRPV) ou sur <a style="color:#105E8E!important; text-decoration:none!important" href="https://signalement.social-sante.gouv.fr" target="_blank"><span style="color:#105E8E;">https://signalement.social-sante.gouv.fr</span></a> </mj-text>
-        <!-- Effets indésirables -->
-        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="0" font-size="13px">Effets indésirables <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
-        <mj-text font-size="16px" line-height="24px"> Très fréquents (&ge; 1/10) et fréquents (de &ge; 1/100 à &lt; 1/10) rapportés au cours des études cliniques ou lors de la commercialisation chez les patients traités par CABOMETYX</span><sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> en monothérapie. <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup> </mj-text>
-        <mj-image src="https://www.digitmade.com/projects/261701/img/effets-indesirables-table.png" alt="Tableau Effets indésirables" padding-top="0" padding-bottom="0" />
-        <mj-text mj-class="sml"> *Des cas mortels ont été rapportés. <br>**Eruption cutanée est un terme composite qui inclut&nbsp;: dermatite, dermatite acnéiforme, dermite bulleuse, éruption cutanée avec exfoliation, éruption cutanée érythémateuse, éruption cutanée folliculaire, éruption cutanée maculaire, éruption cutanée maculo-papuleuse, éruption cutanée papuleuse, éruption cutanée prurigineuse et éruption d’origine médicamenteuse. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="0" font-size="10px" padding-bottom="0">CONTRE-INDICATIONS <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
-        <mj-text mj-class="sml"> Hypersensibilité au principe actif ou à l’un des excipients. </mj-text>
-        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="0" font-size="10px" padding-bottom="0">MISES EN GARDE, PRÉCAUTIONS D’EMPLOI ET CONDUITE À TENIR <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
-        <mj-text mj-class="sml" padding-bottom="0"> <strong>Comme la plupart des effets indésirables surviennent au début du traitement, le médecin doit surveiller le patient de façon rapprochée pendant les 8 premières semaines de traitement afin de déterminer si une adaptation de la dose est nécessaire.</strong> Les effets indésirables qui généralement surviennent précocement sont&nbsp;: hypocalcémie, hypokaliémie, thrombopénie, hypertension, syndrome d’érythrodysesthésie palmo-plantaire, protéinurie et effets gastro-intestinaux (douleur abdominale, inflammation des muqueuses, constipation, diarrhée et vomissements). La prise en charge des effets indésirables suspectés peut nécessiter une réduction de la posologie ou une interruption temporaire du traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Des réductions de la posologie et des interruptions de traitement en raison d’un événement indésirable sont survenues chez 46 à 67&nbsp;% et 70 à 84&nbsp;%, respectivement, des patients traités par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> dans les essais cliniques pivots en monothérapie (dont l'essai CABINET dans les TNE). Deux réductions de la posologie ont été nécessaires chez 9,4&nbsp;% à 33&nbsp;% des patients. Le délai médian jusqu’à la première réduction de la posologie était de 38 à 106 jours et le délai jusqu’à la première interruption de traitement était de 28 à 68 jours. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-text mj-class="sml" padding-top="0" padding-bottom="0"> <strong>Hépatotoxicité</strong>&nbsp;: Des anomalies des tests de la fonction hépatique (augmentation de l’ALAT, de l’ASAT et de la bilirubine) ont été fréquemment observées chez les patients traités par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Il est recommandé de pratiquer des tests de la fonction hépatique (ALAT, ASAT et bilirubine) avant l’initiation du traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> et d’effectuer une surveillance attentive au cours du traitement. Chez les patients présentant une détérioration de la fonction hépatique considérée comme liée au traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> (c’est-à-dire lorsqu’aucune autre cause n’est identifiée), il convient de suivre les recommandations d’adaptation de posologie (voir rubrique Posologie et mode d’administration du RCP). De rares cas de syndrome de raréfaction des voies biliaires ont été rapportés. Tous les cas sont survenus chez des patients ayant reçu des inhibiteurs de points de contrôle immunitaire, avant ou en même temps que le traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> est éliminé principalement par voie hépatique. Une surveillance accrue de la tolérance générale est recommandée chez les patients présentant une insuffisance hépatique légère ou modérée. Une proportion relative plus élevée de patients présentant une insuffisance hépatique modérée (Child-Pugh B) a développé une encéphalopathie hépatique au cours du traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> n’est pas recommandé en cas d’insuffisance hépatique sévère (Child-Pugh C). </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-text mj-class="sml" padding-top="0" padding-bottom="0"> <strong>Perforations et fistules</strong>&nbsp;: Des cas graves de perforations gastro-intestinales (Gl) et de fistules, parfois d’issue fatale, ont été observées avec CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Les patients qui souffrent de maladies inflammatoires de l’intestin (par exemple maladie de Crohn, colite ulcéreuse, péritonite, diverticulite ou appendicite), d’une infiltration tumorale du tractus digestif, ou qui présentent des complications d’une chirurgie digestive antérieure (en particulier quand elle est associée à une cicatrisation tardive ou incomplète), doivent être attentivement évalués avant le début d’un traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> par la suite, ces patients doivent être surveillés de façon rapprochée afin de détecter les symptômes éventuels de perforations et de fistules, y compris d’abcès et de septicémie. Une diarrhée persistante ou récurrente pendant le traitement peut être un facteur de risque de fistule anale. Le traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> doit être interrompu chez les patients présentant une perforation Gl ou une fistule qui ne peut être prise en charge de façon appropriée. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-text mj-class="sml" padding-top="0" padding-bottom="0"><strong>Troubles gastro-intestinaux (Gl)</strong>&nbsp;: La diarrhée, les nausées/vomissements, la diminution de l’appétit et la stomatite /douleur buccale figurent parmi les effets indésirables Gl les plus fréquemment rapportés (voir rubrique Effets indésirables du RCP). Une prise en charge médicale précoce, comprenant des soins de support par antiémétiques, antidiarrhéiques ou antiacides, doit être instaurée pour éviter la déshydratation, les déséquilibres électrolytiques et la perte de poids. L’interruption ou la réduction de la dose, ou l’arrêt définitif de CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>, doivent être envisagés en cas d’effets indésirables Gl significatifs persistants ou récurrents. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-text mj-class="sml" padding-top="0" padding-bottom="0"> <strong>Événements thromboemboliques</strong>&nbsp;: Des événements thromboemboliques veineux, dont des embolies pulmonaires, et des événements thromboemboliques artériels, parfois fatals, ont été observés avec CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> doit être utilisé avec précaution chez les patients présentant un risque ou ayant des antécédents d’événements thromboemboliques. Le traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> doit être arrêté chez les patients qui développent un infarctus aigu du myocarde ou toute autre complication thromboembolique cliniquement significative. Dans l'étude CABINET, la fréquence des événements thromboemboliques veineux était plus élevée dans la cohorte TNEp (19&nbsp;%) que dans la cohorte TNEep (3,8&nbsp;%) chez les patients ayant reçu CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-text mj-class="sml" padding-top="0" padding-bottom="0"> <strong>Hémorragies</strong>&nbsp;: Des hémorragies sévères, parfois fatales, ont été observées avec CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Les patients ayant des antécédents de saignements sévères doivent faire l’objet d’une évaluation minutieuse avant d’initier un traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> ne doit pas être administré aux patients qui présentent ou sont à risque de présenter une hémorragie sévère. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-text mj-class="sml" padding-top="0" padding-bottom="0"> <strong>Anévrismes et dissections artérielles</strong>&nbsp;: L’utilisation d’inhibiteurs des voies du VEGF chez les patients souffrants ou non d’hypertension peut favoriser la formation d’anévrismes et/ou de dissections artérielles. Avant l’instauration de CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>, ce risque doit être soigneusement pris en considération chez les patients présentant des facteurs de risque tels que l’hypertension ou des antécédents d’anévrisme. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-text mj-class="sml" padding-top="0" padding-bottom="0"> <strong>Thrombopénie</strong>&nbsp;: Au cours de l’étude CABINET dans les TNE notamment, des cas de thrombopénie et de diminution des plaquettes ont été rapportés avec CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Le taux de plaquettes doit être surveillé au cours du traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> et la dose doit être modifiée en fonction de la sévérité de la thrombopénie. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-text mj-class="sml" padding-top="0" padding-bottom="0"> <strong>Complications de la cicatrisation des plaies</strong>&nbsp;: Des cas de complications de la cicatrisation des plaies ont été observés avec CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Dans la mesure du possible, le traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> doit être arrêté au moins 28 jours avant une opération chirurgicale programmée, y compris une chirurgie dentaire ou des soins dentaires invasifs. Après l’intervention chirurgicale, la décision de reprendre le traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> doit être fondée sur l’observation d’une cicatrisation adéquate selon le jugement du clinicien. CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> doit être arrêté chez les patients qui présentent des complications de la cicatrisation nécessitant une intervention médicale. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-text mj-class="sml" padding-top="0" padding-bottom="0"> <strong>Hypertension</strong>&nbsp;: Des cas d’hypertension, incluant une crise aiguë d’hypertension, ont été observés avec CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. La tension artérielle doit être correctement contrôlée avant l’instauration du traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Après l’initiation de CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>, la tension artérielle doit être surveillée précocement et régulièrement, et traitée si nécessaire par un traitement antihypertenseur approprié. Si l’hypertension persiste malgré le traitement antihypertenseur, le traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> doit être arrêté jusqu’à ce que la pression artérielle soit contrôlée, après quoi le traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> peut être repris à une dose réduite. CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> doit être arrêté en cas d’hypertension sévère et persistante, malgré le traitement antihypertensif et la réduction de la dose de CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. En cas de crise hypertensive avérée, le traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> doit être arrêté. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-text mj-class="sml" padding-top="0" padding-bottom="0"> <strong>Ostéonécrose</strong>&nbsp;: Des cas d’ostéonécrose de la mâchoire (ONM) ont été observés avec CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Un examen de la cavité buccale doit être effectué avant l’initiation de CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> et régulièrement pendant le traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. La pratique des règles d’hygiène bucco-dentaire doit être recommandée aux patients. Dans la mesure du possible, le traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> doit être suspendu au moins 28 jours avant une chirurgie dentaire programmée ou des soins dentaires invasifs. La prudence s’impose chez les patients recevant des produits associés à des ONM, tels que les bisphosphonates. Le traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> doit être interrompu chez les patients qui développent une ONM. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-text mj-class="sml" padding-top="0" padding-bottom="0"> <strong>Syndrome d’érythrodysesthésie palmo-plantaire (SEPP)</strong>&nbsp;: Des cas de syndrome d’érythrodysesthésie palmoplantaire (SEPP ou syndrome main-pied) ont été observés avec CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Dans les cas de SEPP sévères, il faut envisager l’arrêt du traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Le traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> pourra être repris à une dose plus faible après résolution du SEPP à un grade 1. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-text mj-class="sml" padding-top="0" padding-bottom="0"> <strong>Protéinurie</strong>&nbsp;: Des cas de protéinurie ont été observés avec CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Le taux de protéines dans les urines doit être surveillé régulièrement pendant le traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Le traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> doit être arrêté chez les patients qui développent un syndrome néphrotique. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-text mj-class="sml" padding-top="0" padding-bottom="0"> <strong>Syndrome d’encéphalopathie postérieure réversible (SEPR)</strong>&nbsp;: Des cas de SEPR ont été observés avec CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Ce syndrome doit être envisagé chez tout patient présentant des symptômes tels que des convulsions, des maux de tête, des troubles visuels, une confusion ou une altération des fonctions mentales. Le traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> doit être arrêté chez les patients qui présentent un SEPR. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-text mj-class="sml" padding-top="0" padding-bottom="0"> <strong>Prolongation de l’intervalle QT</strong>&nbsp;: CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> doit être utilisé avec précaution chez les patients ayant un antécédent d’allongement de l’intervalle QT, chez les patients prenant des traitements antiarythmiques ou chez les patients ayant des maladies cardiaques préexistantes, une bradycardie ou une anomalie électrolytique. Pendant le traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>, une surveillance régulière de l’ECG et des électrolytes (calcémie, kaliémie et magnésémie) doit être envisagée. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-text mj-class="sml" padding-top="0" padding-bottom="0"> <strong>Dysfonctionnement thyroïdien</strong>&nbsp;: Une exploration biologique de la fonction thyroïdienne est recommandée chez tous les patients avant l’initiation du traitement. Les patients avec une hypothyroïdie ou une hyperthyroïdie préexistante doivent être traités conformément à la pratique médicale courante avant le début du traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Pendant le traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>, tous les patients doivent être étroitement surveillés afin de détecter tout signe et symptôme de dysfonctionnement thyroïdien. La fonction thyroïdienne doit être surveillée régulièrement tout au long du traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Les patients qui développent un dysfonctionnement thyroïdien doivent être traités conformément à la pratique médicale courante. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-text mj-class="sml" padding-top="0" padding-bottom="0"><strong>Anomalies biologiques</strong>&nbsp;: CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> a été associé à une incidence accrue d’anomalies électrolytiques (incluant hypo- et hyperkaliémie, hypomagnésémie, hypocalcémie, hyponatrémie). Il est recommandé de surveiller les paramètres biochimiques au cours du traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> et d’instaurer, si nécessaire, un traitement correctif approprié selon les référentiels de pratique clinique. L’interruption du traitement ou la réduction de la dose, ou l'arrêt définitif de CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>, doivent être envisagés en cas d’anomalies significatives, persistantes ou récurrentes. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-text mj-class="sml" padding-top="0" padding-bottom="0"> <strong>Inducteurs et inhibiteurs du CYP3A4</strong>&nbsp;: CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> est un substrat du CYP3A4. L’administration concomitante de CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> et de kétoconazole, un puissant inhibiteur du CYP3A4, a entrainé une augmentation de la concentration plasmatique de CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. La prudence est requise lorsque CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> est administré avec de puissants inhibiteurs du CYP3A4. L’administration concomitante de CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> et de rifampicine, un puissant inducteur du CYP3A4, a entrainé une diminution de la concentration plasmatique de CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Il faut donc éviter l’administration prolongée de puissants inducteurs du CYP3A4 avec CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-text mj-class="sml" padding-top="0" padding-bottom="0"> <strong>Substrats de la P-glycoprotéine</strong>&nbsp;: CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> est un inhibiteur de la P-gp. Il est donc possible que CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> puisse augmenter les concentrations plasmatiques des substrats de la P-gp co-administrés. Il convient donc de mettre en garde les patients quant à la prise de substrats de la P-gp (par ex., fexofénadine, aliskiren, ambrisentan, dabigatran étexilate, digoxine, colchicine, maraviroc, posaconazole, ranolazine, saxagliptine, sitagliptine, talinolol, tolvaptan) pendant leur traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-text mj-class="sml" padding-top="0" padding-bottom="0"> <strong>Inhibiteurs de la MRP2</strong>&nbsp;: L’administration d’inhibiteurs de la MRP2 peut entrainer des augmentations des concentrations plasmatiques de CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. La prudence est requise lors de l’utilisation concomitante d’inhibiteurs de la MRP2 (par ex. ciclosporine, éfavirenz, emtricitabine). <br><strong>Excipients&nbsp;: Lactose</strong> (excipient à effet notoire)&nbsp;: Les patients présentant une intolérance au galactose, un déficit total en lactase ou un syndrome de malabsorption du glucose ou du galactose (maladies héréditaires rares) ne doivent pas prendre ce médicament. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-text mj-class="sml" padding-top="0" padding-bottom="0"> <strong>Sodium</strong>&nbsp;: Ce médicament contient moins de 1 mmol (23 mg) de sodium par comprimé, c.-a-d. qu'il est essentiellement "sans sodium". </mj-text>
-      </mj-column>
-    </mj-section>
-    <!-- MISES EN GARDE, PRÉCAUTIONS D’EMPLOI ET CONDUITE À TENIR -->
-    <mj-section background-color="#ffffff" padding-bottom="0">
-      <mj-column>
-        <mj-button align="left" background-color="#105E8E" inner-padding="5px 10px" border-radius="0" font-size="10px" padding-bottom="0">MISES EN GARDE, PRÉCAUTIONS D’EMPLOI ET CONDUITE À TENIR <sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">(1)</sup></mj-button>
-        <mj-text mj-class="sml" padding-bottom="0"> <strong>Femmes en capacité de procréer/Contraception chez les hommes et les femmes</strong>&nbsp;: Il convient de conseiller aux femmes en capacité de procréer d’éviter toute grossesse pendant le traitement sous CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Les partenaires de sexe féminin de patients de sexe masculin traités par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> doivent également éviter de tomber enceintes. Des méthodes de contraception efficaces doivent être utilisées par les patients de sexes masculin et féminin et par leurs partenaires pendant toute la durée du traitement et pendant au moins 4 mois après la fin du traitement. Sachant que les contraceptifs oraux ne peuvent pas être considérés comme des « méthodes efficaces de contraception », ils doivent être utilisés avec une autre méthode, telle qu’une méthode de contraception mécanique. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-text mj-class="sml" padding-top="0" padding-bottom="0"> <strong>Grossesse</strong>&nbsp;: Aucune étude n’a été réalisée sur des femmes enceintes traitées par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>. Des études sur des animaux ont mis en évidence des effets embryo-foetaux et tératogènes. On ne connait pas le risque potentiel pour l’homme. CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> ne doit pas être utilisé pendant la grossesse, à moins que la situation clinique de la femme ne justifie le traitement avec ce composé. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-text mj-class="sml" padding-top="0" padding-bottom="0"> <strong>Allaitement</strong>&nbsp;: On ne sait pas si CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> et/ou ses métabolites sont excrétés dans le lait maternel. Compte tenu du danger potentiel pour le nourrisson, les patientes doivent arrêter d’allaiter pendant le traitement par CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup>, et pendant au moins 4 mois après la fin du traitement. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
-      <mj-column>
-        <mj-text mj-class="sml" padding-top="0" padding-bottom="0"><strong>Fertilité</strong>&nbsp;: On ne dispose d’aucune donnée sur la fertilité humaine. Il est recommandé aux hommes et aux femmes en âge de procréer de prendre conseil afin d’envisager des stratégies de préservation de la fertilité avant de démarrer le traitement. </mj-text>
-        <mj-text mj-class="sml"> <strong>ASAT</strong>&nbsp;: Aspartate aminotransférase ; <strong>ALAT</strong>&nbsp;: Alanine aminotransférase ; <strong>GGT</strong>&nbsp;: Gamma-glutamyl transférase. </mj-text>
-      </mj-column>
-    </mj-section>
+    <mj-wrapper background-color="#FFFFFF" padding-top="0" padding-bottom="0">
+      <mj-section background-color="#ffffff" padding-top="0">
+        <mj-column>
+          <mj-table cellspacing="0" cellpadding="0" width="100%" padding-bottom="0">
+            <tr>
+              <td style="width:155px; font-family:Arial,sans-serif; font-size:10.5px; line-height:14px; color:#5B3596; font-weight:700; text-align:left; vertical-align:middle;">JAKI MOŻESZ MIEĆ WPŁYW</td>
+              <td style="vertical-align:middle; width:auto;">
+                <img src="https://digitmade.test/projects/263800/img/subheading-line.png" alt="" width="400" align="center" style="display:inline-block; vertical-align:middle; border:0px; max-width:100%" />
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0">
+        <mj-column width="50%" border-right="1px solid #C9BDEA">
+          <mj-image src="https://digitmade.test/projects/263800/img/twoja1.png" alt="" width="41px" />
+          <mj-text align="center" color="#2A1A6E" font-size="14px" line-height="16px" font-weight="700" padding="0">REKOMENDUJ</mj-text>
+          <mj-text align="center" font-size="12px" line-height="18px">Rozpoczynaj rozmowy na temat szczepień przeciw grypie i COVID-19 z pacjentami kwalifikującymi się do szczepienia.</mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image src="https://digitmade.test/projects/263800/img/twoja2.png" alt="" width="41px" />
+          <mj-text align="center" color="#2A1A6E" font-size="14px" line-height="16px" font-weight="700" padding="0">DOSTOSUJ REKOMENDACJĘ</mj-text>
+          <mj-text align="center" font-size="12px" line-height="18px">Dostosuj rekomendację do wieku, stanu zdrowia i czynników ryzyka każdego pacjenta.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0">
+        <mj-column width="50%" border-right="1px solid #C9BDEA">
+          <mj-image src="https://digitmade.test/projects/263800/img/twoja1.png" alt="" width="41px" />
+          <mj-text align="center" color="#2A1A6E" font-size="14px" line-height="16px" font-weight="700" padding="0">ROZWIEWAJ WĄTPLIWOŚCI</mj-text>
+          <mj-text align="center" font-size="12px" line-height="18px">Odpowiadaj na pytania i wątpliwości pacjentów, pomagając budować zaufanie do szczepień.</mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image src="https://digitmade.test/projects/263800/img/twoja2.png" alt="" width="41px" />
+          <mj-text align="center" color="#2A1A6E" font-size="14px" line-height="16px" font-weight="700" padding="0">DZIAŁAJ</mj-text>
+          <mj-text align="center" font-size="12px" line-height="18px">Jeśli jest to wskazane, zaproponuj jednoczesne podanie szczepionek przeciw grypie i COVID-19 podczas jednej wizyty.</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!-- Banner Section -->
     <mj-section background-color="#ffffff" padding-top="0" padding-bottom="10px">
       <mj-column>
-        <mj-text color="#105e8e" font-size="16px" font-weight="700" line-height="24px"> Pour une information complète, se reporter au Résumé des Caractéristiques du Produit CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> </mj-text>
-        <mj-divider border-width="2px" border-color="#105e8e" padding-top="15px" />
-        <mj-text font-size="16px" line-height="24px"> <span style="color:#105E8E; font-weight:700;">CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> pour le traitement des tumeurs neuroendocrines non résécables ou métastatiques</span>
-          <br>Indication non remboursable et non agréé aux collectivités à la date du 23/01/2026. <br>Liste I. Médicament soumis à prescription hospitalière. Prescription réservée aux spécialistes en oncologie ou aux médecins compétents en cancérologie. <br>Médicament nécessitant une surveillance particulière pendant le traitement. <br>Pour une information complète, consultez le Résumé des Caractéristiques du Produit sur la base de données publique du médicament en <a style="color:#575756!important; text-decoration:none!important" href="https://base-donnees-publique.medicaments.gouv.fr/index.php?page=1&choixRecherche=medicament&txtCaracteres=CABOMETYX" target="_blank"><span style="color:#575756;"><u>cliquant ici</u></span></a>
+        <mj-image src="https://digitmade.test/projects/263800/img/Banner.png" alt="" align="center" padding="25px" />
+      </mj-column>
+    </mj-section>
+    <!-- Footer Section -->
+    <mj-section background-color="#54447F" padding-bottom="0px">
+      <mj-column>
+        <mj-image src="https://digitmade.test/projects/263800/img/moderna-logo-54447F.png" alt="Moderna" width="110px" align="left" />
+        <mj-text color="#ffffff" font-size="11px" line-height="11px">Ten e-mail jest sponsorowany przez Moderna.</mj-text>
+        <mj-text color="#ffffff" font-size="10px" line-height="10px">PL-NP-COV-2600007 09/26 © 2026 Moderna, Inc.</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text color="#ffffff" font-size="12px" line-height="18px" padding-bottom="0"><strong>Kontakt z firmą Moderna</strong></mj-text>
+        <mj-text color="#ffffff" font-size="12px" line-height="18px" padding-bottom="0">Email: WeCare@modernatx.com</mj-text>
+        <mj-text color="#ffffff" font-size="12px" line-height="18px" padding-bottom="0">Phone: <strong>800 702 406</strong></mj-text>
+        <mj-text color="#ffffff" font-size="12px" line-height="18px">(pon.–pt., 09:00–17:00, z wyłączeniem dni ustawowo wolnych od pracy)</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#54447F" padding-top="0px" padding-bottom="0px">
+      <mj-column>
+        <mj-divider border-width="1px" border-color="#826FA9" padding="0 25px" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#54447F" padding-top="0px">
+      <mj-column>
+        <mj-text color="#ffffff" font-size="11px" line-height="16px"><a style="text-decoration: none !important" href="https://engage.modernatx.com/professional-manage-preferences?tc=em_mkto1772&vanityUrl=https%3A%2F%2Fpages.modernatx.com%2Fmanage-preferences.html%3Ftc%3Dem_mkto1772" target="_blank"><span style="color:#FFFFFF; text-decoration:underline;">Kliknij tutaj</span></a>, aby zarządzać swoimi preferencjami komunikacyjnymi. </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text align="right" color="#ffffff" font-size="12px" line-height="18px">
+          <a style="text-decoration: none !important" href="https://www.modernatx.com/pl-PL/privacy-statement" target="_blank"><span style="color:#FFFFFF; text-decoration:underline;font-weight:700">Oświadczenie o prywatności</span></a> | <a style="text-decoration: none !important" href="https://www.modernatx.com/pl-PL/terms-of-use" target="_blank"><span style="color:#FFFFFF; text-decoration:underline;font-weight:700">Warunki&nbsp;i&nbsp;zasady</span></a>
         </mj-text>
-        <mj-divider border-width="2px" border-color="#105e8e" padding-top="15px" />
-        <!-- Bibliographie -->
-        <mj-text color="#105e8e" font-size="16px" font-weight="700" line-height="24px"> Bibliographie </mj-text>
-        <mj-table padding-top="0" font-family="Arial,sans-serif" font-size="16px" line-height="24px">
+      </mj-column>
+    </mj-section>
+    <!-- References Section -->
+    <mj-section background-color="#FFF" padding-bottom="0px">
+      <mj-column>
+        <mj-table font-family="Arial,sans-serif" font-size="11px" line-height="14px">
           <tr>
-            <td width="5%" style="vertical-align:top; padding-bottom:5px; font-family: Arial,sans-serif; font-size:16px; line-height:24px; width:5%;">1.</td>
-            <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:92%;">
-              <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:5px"> Résumé des Caractéristiques du Produit CABOMETYX<sup style="font-size: 75%; line-height: 0; vertical-align: super; mso-text-raise: 4px;">®</sup> </div>
+            <td style="vertical-align:top; padding-bottom:10px; font-family: Arial,sans-serif; width:3%;">1.</td>
+            <td style="padding-bottom:0px; vertical-align:middle; width:97%;">
+              <div style="font-family: Arial,sans-serif; margin-bottom:10px"> World Health Organization (WHO). The effects of virus variants on COVID-19 vaccines. <a style="text-decoration: none !important" href="https://www.who.int/news-room/feature-stories/detail/the-effects-of-virus-variantson-covid-19-vaccines" target="_blank"><span style="color:#826FA9; text-decoration:underline;">https://www.who.int/news-room/feature-stories/detail/the-effects-of-virus-variantson-covid-19-vaccines</span></a></div>
             </td>
           </tr>
           <tr>
-            <td width="5%" style="vertical-align:top; padding-bottom:5px; font-family: Arial,sans-serif; font-size:16px; line-height:24px; width:5%;">2.</td>
-            <td width="95%" style="padding-bottom:0px; vertical-align:middle; width:92%;">
-              <div style="font-family: Arial,sans-serif; font-size:16px; line-height:24px; margin-bottom:8px"> Chan JA, <em>et al</em>. Phase 3 Trial of Cabozantinib to Treat Advanced Neuroendocrine Tumors. N Engl J Med 2025;392:653-65. [Etude retenue lors de l’évaluation du dossier d’AMM] </div>
+            <td style="vertical-align:top; padding-bottom:10px; font-family: Arial,sans-serif; width:3%;">2.</td>
+            <td style="padding-bottom:0px; vertical-align:middle; width:97%;">
+              <div style="font-family: Arial,sans-serif; margin-bottom:10px"> World Health Organization (WHO). Tracking SARS-CoV-2 variants. <a style="text-decoration: none !important" href="https://www.who.int/activities/tracking-SARS-CoV-2-variants" target="_blank"><span style="color:#826FA9; text-decoration:underline;">https://www.who.int/activities/tracking-SARS-CoV-2-variants</span></a></div>
+            </td>
+          </tr>
+          <tr>
+            <td style="vertical-align:top; padding-bottom:10px; font-family: Arial,sans-serif; width:3%;">3.</td>
+            <td style="padding-bottom:0px; vertical-align:middle; width:97%;">
+              <div style="font-family: Arial,sans-serif; margin-bottom:10px"> European Centre for Disease Prevention and Control (ECDC). COVID-19: Risk factors and risk groups. <a style="text-decoration: none !important" href="https://www.ecdc.europa.eu/en/covid-19/latest-evidence/riskfactors-risk-groups" target="_blank"><span style="color:#826FA9; text-decoration:underline;">https://www.ecdc.europa.eu/en/covid-19/latest-evidence/riskfactors-risk-groups</span></a></div>
+            </td>
+          </tr>
+          <tr>
+            <td style="vertical-align:top; padding-bottom:10px; font-family: Arial,sans-serif; width:3%;">4.</td>
+            <td style="padding-bottom:0px; vertical-align:middle; width:97%;">
+              <div style="font-family: Arial,sans-serif; margin-bottom:10px"> World Health Organization (WHO). Coronavirus disease (COVID-19). <a style="text-decoration: none !important" href="https://www.who.int/news-room/fact-sheets/detail/coronavirus-disease-(covid-19)" target="_blank"><span style="color:#826FA9; text-decoration:underline;">https://www.who.int/news-room/fact-sheets/detail/coronavirus-disease-(covid-19)</span></a></div>
+            </td>
+          </tr>
+          <tr>
+            <td style="vertical-align:top; padding-bottom:10px; font-family: Arial,sans-serif; width:3%;">5.</td>
+            <td style="padding-bottom:0px; vertical-align:middle; width:97%;">
+              <div style="font-family: Arial,sans-serif; margin-bottom:10px"> European Centre for Disease Prevention and Control (ECDC). COVID-19 vaccination. <a style="text-decoration: none !important" href="https://www.ecdc.europa.eu/en/covid-19/prevention-and-control/vaccines" target="_blank"><span style="color:#826FA9; text-decoration:underline;">https://www.ecdc.europa.eu/en/covid-19/prevention-and-control/vaccines</span></a></div>
+            </td>
+          </tr>
+          <tr>
+            <td style="vertical-align:top; padding-bottom:10px; font-family: Arial,sans-serif; width:3%;">6.</td>
+            <td style="padding-bottom:0px; vertical-align:middle; width:97%;">
+              <div style="font-family: Arial,sans-serif; margin-bottom:10px"> Komunikat nr 39 Ministra Zdrowia w sprawie realizacji szczepień przeciw COVID-19 w sezonie 2026/2027. <a style="text-decoration: none !important" href="https://www.gov.pl/web/zdrowie/komunikat-nr-39-ministra-zdrowia-w-sprawie-realizacji-szczepien-przeciw-covid-19-w-sezonie-20262027" target="_blank"><span style="color:#826FA9; text-decoration:underline;">https://www.gov.pl/web/zdrowie/komunikat-nr-39-ministra-zdrowia-w-sprawie-realizacji-szczepien-przeciw-covid-19-w-sezonie-20262027</span></a></div>
             </td>
           </tr>
         </mj-table>
-        <mj-image src="https://www.digitmade.com/projects/261701/img/footer900w.png" alt="" align="center" padding="0" />
-        <mj-text align="center" color="#777777" padding-top="20px" padding-bottom="15px"> IPSEN PHARMA SAS - 70 rue Balard, 75015 Paris - Tél.&nbsp;: 01.58.33.50.00. <br>- Info. Médic. : 01.58.33.58.20. - <a style="color:#777777!important; text-decoration:none!important" href="mailto:information.medicale@ipsen.com" target="_blank"><span style="color:#777777;"><u>information.medicale@ipsen.com</u></span></a>. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#F5F5F5" padding-top="0px" padding-bottom="0px">
-      <mj-column>
-        <mj-text mj-class="sml" align="center" color="#777777"> Cet e-mail vous est adressé par VIDAL France et IPSEN en leur qualité de responsables conjoints du traitement. Les données personnelles traitées pour l'envoi de cette communication sont issues de la base de données des Professionnels de Santé de VIDAL France. IPSEN et VIDAL France ont conjointement déterminé les Professionnels de Santé destinataires de cet e-mail. Dans le cadre de la mise en œuvre de cette opération, IPSEN n'est pas autorisé à accéder aux données (coordonnées, etc.) des Professionnels de Santé de la base VIDAL&nbsp;France. </mj-text>
-        <mj-text mj-class="sml" align="center" color="#777777"> IPSEN s’engage à respecter la charte de l’information par démarchage ou prospection visant à la promotion des médicaments et le référentiel de certification de l’activité d’information par démarchage ou prospection visant à la promotion des médicaments en vigueur. Les collaborateurs d’IPSEN sont à votre disposition pour vous présenter les règles de déontologie formalisées par notre Entreprise et répondre à vos questions. Tout commentaire/réclamation concernant la visite d’information promotionnelle du laboratoire IPSEN PHARMA peuvent être adressé à l’adresse suivante&nbsp;: <a style="color:#777777!important; text-decoration:none!important" href="mailto: qualite.charte.vm@ipsen.com" target="_blank"><span style="color:#777777;"><u>qualite.charte.vm@ipsen.com</u></span></a> </mj-text>
-        <mj-text mj-class="sml" align="center" color="#777777"> Si vous ne souhaitez plus que VIDAL France vous envoie des communications concernant les Actus Santé Labos, <a style="color:#777777!important; text-decoration:none!important" href="#" target="_blank"><span style="color:#777777;"><u>veuillez cliquer ici pour vous désinscrire</u></span></a>. </mj-text>
-        <mj-text mj-class="sml" align="center" color="#777777"> Si vous ne souhaitez plus recevoir de communications de la part de VIDAL France, vous pouvez gérer vos préférences en cliquant sur <a style="color:#777777!important; text-decoration:none!important" href="#" target="_blank"><span style="color:#777777;"><u>ce lien</u></span></a>. </mj-text>
-        <mj-text mj-class="sml" align="center" color="#777777"> Pour plus d’informations sur la gestion de vos données et vos droits, vous pouvez consulter la <a style="color:#777777!important; text-decoration:none!important" href="#" target="_blank"><span style="color:#777777;"><u>Politique de protection des données personnelles de VIDAL France</u></span></a>. </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-top="0px" padding-bottom="20px">
       <mj-column>
-
       </mj-column>
     </mj-section>
   </mj-body>

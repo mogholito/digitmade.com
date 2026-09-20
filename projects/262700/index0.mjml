@@ -8,7 +8,7 @@
           }
           sup { font-size: 75%; line-height: 0; }
         </mj-style><!
-      [endif]-->
+      [ENDIF]-->
     </mj-raw>
     <mj-attributes>
       <mj-all color="#111" font-family="Arial,sans-serif" font-size="14px" line-height="22px" />

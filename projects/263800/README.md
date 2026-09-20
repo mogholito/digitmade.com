@@ -42,7 +42,7 @@ mjml -w index.mjml -o index.html
 
 To push the project:
 ```bash
-cd "/Users/minhtvu/DigitMade/DM website/digitmade.com" && git add projects/263800/ && git commit -m "Update projects/263800 with latest changes" && git push origin main
+cd "/Users/minhtvu/DigitMade/DM website/digitmade.com" && git add projects/263800/ && git commit -m "Add projects/263800" && git push origin main
 ```
 
 ## Last Updated
