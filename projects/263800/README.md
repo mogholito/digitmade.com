@@ -43,6 +43,8 @@ mjml -w index.mjml -o index.html
 To push the project:
 ```bash
 cd "/Users/minhtvu/DigitMade/DM website/digitmade.com" && git add projects/263800/ && git commit -m "Add projects/263800" && git push origin main
+
+git add projects/263800/index.mjml projects/263800/index.html projects/263800/README.md && git commit -m "Debuging and compiling email" && git push origin main && git status --short --branch && git log -1 --oneline --decorate
 ```
 
 ## Last Updated
