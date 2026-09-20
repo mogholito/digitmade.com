@@ -19,7 +19,7 @@
       <mj-class name="email_link" align="center" color="#6a6a6a" font-size="12px" line-height="1.4" />
     </mj-attributes>
     <mj-style> .hyphenate { -webkit-hyphens: auto; -ms-hyphens: auto; hyphens: auto; word-break: normal; overflow-wrap: normal; } .no-hyphens { -webkit-hyphens: none; -ms-hyphens: none; hyphens: none; } .copy { font-size: 12px; } .va-top { vertical-align: top; padding-bottom: 4px } .bullet { width: 15px; vertical-align: top; font-size: 16px; mso-line-height-rule: exactly; } .list { font-size: 13.7px; line-height: 20px; padding-bottom: 4px; mso-line-height-rule: exactly; } .facts-table table { border-collapse: collapse; margin-top: 4px; } </mj-style>
-    <mj-style> @media only screen and (max-width: 600px) { .appleLinks a { color: #000000 !important; text-decoration: none !important; } .appleLinksWhite a { color: #ffffff !important; text-decoration: none !important; } .table-scroll { overflow-x: auto; overflow-y: hidden; width: calc(97vw - 100px); } .table-scroll table { width: 550px !important; } .img-center-on-sm { padding-left: 25px !important; padding-right: 25px !important; text-align: center !important; } .center-on-sm { padding-left: 15px !important; padding-right: 15px !important; } .center-on-sm div { text-align: center !important; } .center-on-sm table { margin: 0 auto !important; } .default-width-on-sm>table td { width: 100% !important; padding-right: 10px !important; padding-left: 10px !important; } .default-hpad-on-sm { padding-right: 25px !important; padding-left: 25px !important; } .subheading-on-sm td { width:auto !important; } } @media only screen and (max-width: 480px) {.border-bottom-on-sm table td { border-bottom:1px solid #C9BDEA; border-right: none !important; } .border-bottom-on-sm .td { padding:0 5px 10px 0 !important; } .fixed-height-150 table td { border-left:0 !important; border-right:0 !important; } } </mj-style>
+    <mj-style> @media only screen and (max-width: 600px) { .appleLinks a { color: #000000 !important; text-decoration: none !important; } .appleLinksWhite a { color: #ffffff !important; text-decoration: none !important; } .table-scroll { overflow-x: auto; overflow-y: hidden; width: calc(97vw - 100px); } .table-scroll table { width: 550px !important; } .img-center-on-sm { padding-left: 25px !important; padding-right: 25px !important; text-align: center !important; } .center-on-sm { padding-left: 15px !important; padding-right: 15px !important; } .center-on-sm div { text-align: center !important; } .center-on-sm table { margin: 0 auto !important; } .default-width-on-sm>table td { width: 100% !important; padding-right: 10px !important; padding-left: 10px !important; } .default-hpad-on-sm { padding-right: 25px !important; padding-left: 25px !important; } } @media only screen and (max-width: 480px) {.border-bottom-on-sm table td { border-bottom:1px solid #C9BDEA; border-right: none !important; } .border-bottom-on-sm .td { padding:0 5px 10px 0 !important; } .fixed-height-150 table td { border-left:0 !important; border-right:0 !important; } } </mj-style>
     <mj-style inline="inline"> .rounded > table { border-collapse:separate; border-radius:5px; } .fixed-height-150 > table { height:150px !important; } .fixed-height-150 > table > tbody > tr > td { height:150px !important; } </mj-style>
   </mj-head>
   <mj-body background-color="#f5f5f5">
@@ -38,7 +38,7 @@
       <mj-column>
         <!-- SubHeading -->
         <mj-text align="center" color="#54447F" font-size="11px" line-height="18px" font-weight="700" padding-bottom="2px"> COVID-19 NADAL EWOLUUJE </mj-text>
-        <mj-image src="https://www.digitmade.com/projects/263800/img/subheading-line1.png" alt="" width="230px" padding="0" />
+        <mj-image src="https://www.digitmade.com/projects/263800/img/subheading-line1.png" alt="" width="230px" align="center" padding="0" />
         <!-- Icon and Text Section -->
         <mj-table cellpadding="0" cellspacing="0" width="100%">
           <tr>
@@ -74,7 +74,7 @@
         </mj-table>
         <!-- SubHeading 2 -->
         <mj-text align="center" color="#54447F" font-size="11px" line-height="18px" font-weight="700" padding-bottom="2px"> PACJENCI KWALIFIKUJĄCY SIĘ </mj-text>
-        <mj-image src="https://www.digitmade.com/projects/263800/img/subheading-line2.png" alt="" width="170px" padding="0" />
+        <mj-image src="https://www.digitmade.com/projects/263800/img/subheading-line2.png" alt="" width="170px" align="center" padding="0" />
         <mj-text align="center" color="#3C2F6E" font-weight="700" font-size="18px" line-height="22px" padding-bottom="0">Pacjenci wymagający szczególnej uwagi</mj-text>
         <mj-text align="center">Zwróć szczególną uwagę na poniższe grupy pacjentów podczas rozmowy o szczepieniu przeciw COVID-19.</mj-text>
       </mj-column>
@@ -132,8 +132,8 @@
       <mj-section>
         <mj-column width="40%">
           <!-- SubHeading 4 -->
-        <mj-text align="left" color="#54447F" font-size="11px" line-height="18px" font-weight="700" padding-bottom="2px" padding-left="0"> GRYPA + COVID-19 </mj-text>
-        <mj-image src="https://www.digitmade.com/projects/263800/img/subheading-line3.png" alt="" width="170px" padding="0" align="left" />
+          <mj-text align="left" color="#54447F" font-size="11px" line-height="18px" font-weight="700" padding-bottom="2px" padding-left="0"> GRYPA + COVID-19 </mj-text>
+          <mj-image src="https://www.digitmade.com/projects/263800/img/subheading-line3.png" alt="" width="170px" padding="0" align="left" />
           <mj-text color="#3C2F6E" font-weight="700" font-size="18px" line-height="22px" padding="10px 0 0">Ochrona podczas jednej wizyty</mj-text>
           <mj-text font-size="12px" line-height="17px" padding-left="0" padding-bottom="0"> Szczepionki przeciw COVID-19 i grypie mogą być podane podczas tej samej wizyty, jeśli istnieją wskazania do obu szczepień.<sup style="font-size:70%; line-height:0; vertical-align:super; mso-text-raise:4px;">6</sup>
           </mj-text>
@@ -211,7 +211,7 @@
       <mj-column>
         <!-- SubHeading 5 -->
         <mj-text align="center" color="#54447F" font-size="11px" line-height="18px" font-weight="700" padding-bottom="2px"> TWÓJ WPŁYW NA ZDROWIE PUBLICZNE W POLSCE </mj-text>
-        <mj-image src="https://www.digitmade.com/projects/263800/img/subheading-line4.png" alt="" width="280px" padding="0" />
+        <mj-image src="https://www.digitmade.com/projects/263800/img/subheading-line4.png" alt="" width="280px" align="center" padding="0" />
         <mj-text align="center" color="#3C2F6E" font-weight="700" font-size="18px" line-height="22px" padding-bottom="0">Twoja rekomendacja ma znaczenie</mj-text>
         <mj-text align="center">Pracownicy ochrony zdrowia odgrywają kluczową rolę w informowaniu o sezonowych szczeieniach przeciw grypie i COVID-19 oraz w ochronie pacjentów, którzy najbardziej jej potrzebują.</mj-text>
       </mj-column>
@@ -295,38 +295,38 @@
         <mj-table font-family="Arial,sans-serif" font-size="11px" line-height="14px">
           <tr>
             <td style="vertical-align:top; padding-bottom:10px; font-family: Arial,sans-serif; width:3%;">1.</td>
-            <td style="padding-bottom:0px; vertical-align:middle; width:97%;">
-              <div style="font-family: Arial,sans-serif; margin-bottom:10px"> World Health Organization (WHO). The effects of virus variants on COVID-19 vaccines. <a style="text-decoration: none !important" href="https://www.who.int/news-room/feature-stories/detail/the-effects-of-virus-variantson-covid-19-vaccines" target="_blank"><span style="color:#826FA9; text-decoration:underline;">https://www.who.int/news-room/feature-stories/detail/the-effects-of-virus-variantson-covid-19-vaccines</span></a></div>
+            <td style="padding-bottom:5px; vertical-align:middle; width:97%;">
+              <div style="font-family: Arial,sans-serif; "> World Health Organization (WHO). The effects of virus variants on COVID-19 vaccines. <a style="text-decoration: none !important" href="https://www.who.int/news-room/feature-stories/detail/the-effects-of-virus-variantson-covid-19-vaccines" target="_blank"><span style="color:#826FA9; text-decoration:underline;">https://www.who.int/news-room/feature-stories/detail/the-effects-of-virus-variantson-covid-19-vaccines</span></a></div>
             </td>
           </tr>
           <tr>
             <td style="vertical-align:top; padding-bottom:10px; font-family: Arial,sans-serif; width:3%;">2.</td>
-            <td style="padding-bottom:0px; vertical-align:middle; width:97%;">
-              <div style="font-family: Arial,sans-serif; margin-bottom:10px"> World Health Organization (WHO). Tracking SARS-CoV-2 variants. <a style="text-decoration: none !important" href="https://www.who.int/activities/tracking-SARS-CoV-2-variants" target="_blank"><span style="color:#826FA9; text-decoration:underline;">https://www.who.int/activities/tracking-SARS-CoV-2-variants</span></a></div>
+            <td style="padding-bottom:5px; vertical-align:middle; width:97%;">
+              <div style="font-family: Arial,sans-serif; "> World Health Organization (WHO). Tracking SARS-CoV-2 variants. <a style="text-decoration: none !important" href="https://www.who.int/activities/tracking-SARS-CoV-2-variants" target="_blank"><span style="color:#826FA9; text-decoration:underline;">https://www.who.int/activities/tracking-SARS-CoV-2-variants</span></a></div>
             </td>
           </tr>
           <tr>
             <td style="vertical-align:top; padding-bottom:10px; font-family: Arial,sans-serif; width:3%;">3.</td>
-            <td style="padding-bottom:0px; vertical-align:middle; width:97%;">
-              <div style="font-family: Arial,sans-serif; margin-bottom:10px"> European Centre for Disease Prevention and Control (ECDC). COVID-19: Risk factors and risk groups. <a style="text-decoration: none !important" href="https://www.ecdc.europa.eu/en/covid-19/latest-evidence/riskfactors-risk-groups" target="_blank"><span style="color:#826FA9; text-decoration:underline;">https://www.ecdc.europa.eu/en/covid-19/latest-evidence/riskfactors-risk-groups</span></a></div>
+            <td style="padding-bottom:5px; vertical-align:middle; width:97%;">
+              <div style="font-family: Arial,sans-serif; "> European Centre for Disease Prevention and Control (ECDC). COVID-19: Risk factors and risk groups. <a style="text-decoration: none !important" href="https://www.ecdc.europa.eu/en/covid-19/latest-evidence/riskfactors-risk-groups" target="_blank"><span style="color:#826FA9; text-decoration:underline;">https://www.ecdc.europa.eu/en/covid-19/latest-evidence/riskfactors-risk-groups</span></a></div>
             </td>
           </tr>
           <tr>
             <td style="vertical-align:top; padding-bottom:10px; font-family: Arial,sans-serif; width:3%;">4.</td>
-            <td style="padding-bottom:0px; vertical-align:middle; width:97%;">
-              <div style="font-family: Arial,sans-serif; margin-bottom:10px"> World Health Organization (WHO). Coronavirus disease (COVID-19). <a style="text-decoration: none !important" href="https://www.who.int/news-room/fact-sheets/detail/coronavirus-disease-(covid-19)" target="_blank"><span style="color:#826FA9; text-decoration:underline;">https://www.who.int/news-room/fact-sheets/detail/coronavirus-disease-(covid-19)</span></a></div>
+            <td style="padding-bottom:5px; vertical-align:middle; width:97%;">
+              <div style="font-family: Arial,sans-serif; "> World Health Organization (WHO). Coronavirus disease (COVID-19). <a style="text-decoration: none !important" href="https://www.who.int/news-room/fact-sheets/detail/coronavirus-disease-(covid-19)" target="_blank"><span style="color:#826FA9; text-decoration:underline;">https://www.who.int/news-room/fact-sheets/detail/coronavirus-disease-(covid-19)</span></a></div>
             </td>
           </tr>
           <tr>
             <td style="vertical-align:top; padding-bottom:10px; font-family: Arial,sans-serif; width:3%;">5.</td>
-            <td style="padding-bottom:0px; vertical-align:middle; width:97%;">
-              <div style="font-family: Arial,sans-serif; margin-bottom:10px"> European Centre for Disease Prevention and Control (ECDC). COVID-19 vaccination. <a style="text-decoration: none !important" href="https://www.ecdc.europa.eu/en/covid-19/prevention-and-control/vaccines" target="_blank"><span style="color:#826FA9; text-decoration:underline;">https://www.ecdc.europa.eu/en/covid-19/prevention-and-control/vaccines</span></a></div>
+            <td style="padding-bottom:5px; vertical-align:middle; width:97%;">
+              <div style="font-family: Arial,sans-serif; "> European Centre for Disease Prevention and Control (ECDC). COVID-19 vaccination. <a style="text-decoration: none !important" href="https://www.ecdc.europa.eu/en/covid-19/prevention-and-control/vaccines" target="_blank"><span style="color:#826FA9; text-decoration:underline;">https://www.ecdc.europa.eu/en/covid-19/prevention-and-control/vaccines</span></a></div>
             </td>
           </tr>
           <tr>
             <td style="vertical-align:top; padding-bottom:10px; font-family: Arial,sans-serif; width:3%;">6.</td>
-            <td style="padding-bottom:0px; vertical-align:middle; width:97%;">
-              <div style="font-family: Arial,sans-serif; margin-bottom:10px"> Komunikat nr 39 Ministra Zdrowia w sprawie realizacji szczepień przeciw COVID-19 w sezonie 2026/2027. <a style="text-decoration: none !important" href="https://www.gov.pl/web/zdrowie/komunikat-nr-39-ministra-zdrowia-w-sprawie-realizacji-szczepien-przeciw-covid-19-w-sezonie-20262027" target="_blank"><span style="color:#826FA9; text-decoration:underline;">https://www.gov.pl/web/zdrowie/komunikat-nr-39-ministra-zdrowia-w-sprawie-realizacji-szczepien-przeciw-covid-19-w-sezonie-20262027</span></a></div>
+            <td style="padding-bottom:5px; vertical-align:middle; width:97%;">
+              <div style="font-family: Arial,sans-serif; "> Komunikat nr 39 Ministra Zdrowia w sprawie realizacji szczepień przeciw COVID-19 w sezonie 2026/2027. <a style="text-decoration: none !important" href="https://www.gov.pl/web/zdrowie/komunikat-nr-39-ministra-zdrowia-w-sprawie-realizacji-szczepien-przeciw-covid-19-w-sezonie-20262027" target="_blank"><span style="color:#826FA9; text-decoration:underline;">https://www.gov.pl/web/zdrowie/komunikat-nr-39-ministra-zdrowia-w-sprawie-realizacji-szczepien-przeciw-covid-19-w-sezonie-20262027</span></a></div>
             </td>
           </tr>
         </mj-table>
