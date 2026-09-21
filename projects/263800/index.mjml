@@ -30,7 +30,7 @@
     </mj-section>
     <mj-section padding-top="0">
       <mj-column>
-        <mj-image src="https://www.digitmade.com/projects/263800//img/header-group4.png" alt="Pomóż swoim pacjentom zadbać o aktualną ochronę" padding="0" />
+        <mj-image src="https://www.digitmade.com/projects/263800//img/header-group4.png" alt="Pomóż swoim pacjentom zadbać o aktualną ochronę" padding="0" href="https://static.modernatx.com/pm/6cef78f8-8dad-4fc9-83d5-d2fbb7cff867/c7e4cdf3-83cd-4342-9916-c0636048e7c0/c7e4cdf3-83cd-4342-9916-c0636048e7c0_viewable_rendition__v.pdf" target="_blank" />
       </mj-column>
     </mj-section>
     <!-- First Section -->
@@ -201,7 +201,7 @@
               <td width="35" style="line-height:100%; padding-right: 12px; vertical-align:middle;">
                 <img src="https://www.digitmade.com/projects/263800//img/frame302.png" alt="" width="35" height="35" style="display:block; width:35px; height:35px; border:0;" />
               </td>
-              <td style="padding:0; font-family:Arial,sans-serif; font-size:12px; line-height:18px; color:#2B1B6B; vertical-align:middle;"><strong>Ostateczne brzmienie kryteriów kwalifikacji musi być zgodne z zatwierdzonymi zaleceniami dla Polski na dany sezon.</strong></td>
+              <td style="padding:0; font-family:Arial,sans-serif; font-size:12px; line-height:18px; color:#2B1B6B; vertical-align:middle;"><strong>Planowanie z wyprzedzeniem może pomóc chronić większą liczbę pacjentów, gdy rozpocznie się sezon.</strong></td>
             </tr>
           </mj-table>
         </mj-column>
@@ -243,12 +243,12 @@
       </mj-section>
       <mj-section padding-top="0">
         <mj-column width="50%" border-right="1px solid #C9BDEA">
-          <mj-image src="https://www.digitmade.com/projects/263800//img/twoja1.png" alt="" width="41px" />
+          <mj-image src="https://www.digitmade.com/projects/263800//img/twoja3.png" alt="" width="41px" />
           <mj-text align="center" color="#2A1A6E" font-size="14px" line-height="16px" font-weight="700" padding="0">ROZWIEWAJ WĄTPLIWOŚCI</mj-text>
           <mj-text align="center" font-size="12px" line-height="18px">Odpowiadaj na pytania i wątpliwości pacjentów, pomagając budować zaufanie do szczepień.</mj-text>
         </mj-column>
         <mj-column width="50%">
-          <mj-image src="https://www.digitmade.com/projects/263800//img/twoja2.png" alt="" width="41px" />
+          <mj-image src="https://www.digitmade.com/projects/263800//img/twoja4.png" alt="" width="41px" />
           <mj-text align="center" color="#2A1A6E" font-size="14px" line-height="16px" font-weight="700" padding="0">DZIAŁAJ</mj-text>
           <mj-text align="center" font-size="12px" line-height="18px">Jeśli jest to wskazane, zaproponuj jednoczesne podanie szczepionek przeciw grypie i COVID-19 podczas jednej wizyty.</mj-text>
         </mj-column>
@@ -257,7 +257,7 @@
     <!-- Banner Section -->
     <mj-section background-color="#ffffff" padding-top="0" padding-bottom="10px">
       <mj-column>
-        <mj-image src="https://www.digitmade.com/projects/263800//img/Banner.png" alt="" align="center" padding="25px" />
+        <mj-image src="https://www.digitmade.com/projects/263800//img/Banner.png" alt="" align="center" padding="25px" href="https://static.modernatx.com/pm/6cef78f8-8dad-4fc9-83d5-d2fbb7cff867/c7e4cdf3-83cd-4342-9916-c0636048e7c0/c7e4cdf3-83cd-4342-9916-c0636048e7c0_viewable_rendition__v.pdf" target="_blank" />
       </mj-column>
     </mj-section>
     <!-- Footer Section -->
