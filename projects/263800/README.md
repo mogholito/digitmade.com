@@ -42,7 +42,7 @@ mjml -w index.mjml -o index.html
 
 To push the project:
 ```bash
-git add projects/263800/index.mjml projects/263800/index.html projects/263800/README.md && git commit -m "Debuging and compiling email" && git push origin main && git status --short --branch && git log -1 --oneline --decorate
+git add projects/263800/index.mjml projects/263800/index.html projects/263800/263800.zip && git commit -m "Changes to icons and hyperlinks, new compiled version and ZIP file containing the source code" && git push origin main && git status --short --branch && git log -1 --oneline --decorate
 ```
 
 ## Last Updated
